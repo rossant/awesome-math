@@ -70,12 +70,9 @@ A curated list of awesome mathematics resources.
 
 ### Group theory
 
-* []()
 * [Notes on Group Theory](https://www2.bc.edu/~reederma/Groups.pdf) - Mark Reeder
 * [Group theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne
 * [Notes on finite group theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - Peter J. Cameron
-* []()
-* []()
 
 ### Linear algebra
 
