@@ -156,10 +156,8 @@ A curated list of awesome mathematics resources.
 
 ### Partial differential equations
 
-* []()
-* []()
-* []()
-
+* [Notes on Partial Differential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pde_notes.pdf) - John K. Hunter (University of California at Davis)
+* [Partial Differential Equations: Lecture Notes](http://www.math.uni-leipzig.de/~miersemann/pdebook.pdf) - Erich Miersemann (Leipzig University)
 
 
 ## Combinatorics
@@ -218,29 +216,38 @@ Algebraic geometry
 
 
 
-## Websites
+# Websites
 
-### Learning platforms
+## Learning platforms
 
 * [Khan Academy](https://www.khanacademy.org/math)
 * [Coursera](https://www.coursera.org/courses?query=mathematics&languages=en)
 * [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 
-### Questions and answers
+## Questions and answers
 
 * [Mathematics Stack Exchange](http://math.stackexchange.com/)
 * [MathOverflow](http://mathoverflow.net/) - for professional mathematicians
 
-### Encyclopedia
+## Encyclopedia
 
 * [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org)
 * [Wolfram Mathworld](http://mathworld.wolfram.com/)
 * [Planetmath](http://planetmath.org/)
 
-### Books
+## Misc
+
+* [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
+
+
+
+# Books
 
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
 
-### Misc
 
-* [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
+# Online courses and MOOCs
+
+
+
+# Videos
