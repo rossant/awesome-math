@@ -103,20 +103,16 @@ A curated list of awesome mathematics resources.
 * [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - Thomson, Bruckner
 * [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (McMaster University)
 * [Real analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
+* [From Calculus to Analysis](http://www.wright.edu/~steen.pedersen/teaching/Calculus2Analysis.pdf) - Steen Pedersen
 * [Real analysis for graduate students](http://homepages.uconn.edu/~rib02005/rags010213.pdf) - Richard F. Bass
 * [Modern Real Analysis](http://www.indiana.edu/~mathwz/PRbook.pdf) - William P. Ziemer (Indiana University)
 
-### Calculus
-
-* []()
-* []()
-* []()
-
 ### Harmonic analysis
 
-* []()
-* []()
-* []()
+* [Harmonic Analysis Lecture Notes](http://www.math.uiuc.edu/~laugesen/545/545Lectures.pdf) - Richard S. Laugesen (University of Illinois at Urbana–Champaign)
+* [Harmonic Analysis](http://www.math.uchicago.edu/~schlag/harmonicnotes.pdf) - W. Schlag
+* [Lecture Notes: Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf) - Brad Osgood
+* [Fourier Analysis](http://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf) - Lucas Illing
 
 ### Complex analysis
 
@@ -219,6 +215,10 @@ Algebraic geometry
 * [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org)
 * [Wolfram Mathworld](http://mathworld.wolfram.com/)
 * [Planetmath](http://planetmath.org/)
+
+### Books
+
+* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
 
 ### Misc
 
