@@ -46,6 +46,7 @@ A curated list of awesome mathematics resources.
 ### Algebraic number theory
 
 * [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf)
+* [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf) - F. Oggier
 * [Algebraic Number Theory](http://www.jmilne.org/math/CourseNotes/ANT.pdf) - J.S. Milne
 * [Algebraic Number Theory Course Notes](http://people.math.gatech.edu/~mbaker/pdf/ANTBook.pdf) - Matthew Baker (Georgia Tech)
 
@@ -63,8 +64,18 @@ A curated list of awesome mathematics resources.
 
 * [Introduction to Abstract Algebra](https://people.creighton.edu/~dsm33733/MTH581/Introduction%20to%20Abstract%20Algebra.pdf) - D. S. Malik, John N. Mordeson, M.K. Sen (Creighton University)
 * [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) - David Joyce (Clark University)
+* [Algebraic methods](http://www1.spms.ntu.edu.sg/~frederique/AA11.pdf) - F. Oggier
 * [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) -  Thomas W. Judson, Robert A. Beezer (Austin State University)
 * [An undergraduate course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett
+
+### Group theory
+
+* []()
+* [Notes on Group Theory](https://www2.bc.edu/~reederma/Groups.pdf) - Mark Reeder
+* [Group theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne
+* [Notes on finite group theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - Peter J. Cameron
+* []()
+* []()
 
 ### Linear algebra
 
@@ -74,34 +85,16 @@ A curated list of awesome mathematics resources.
 * [Linear Algebra](http://www.mathematik.uni-muenchen.de/~renesse/AP09/hefferon.pdf) - Jim Hefferon
 * [Linear algebra](http://www.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) - Peter Petersen
 
+### Ring theory
+
+* [Foundations of Module and Ring Theory](http://www.math.uni-duesseldorf.de/~wisbauer/book.pdf) - Robert Wisbauer (University of Düsseldorf)
+
 ### Galois theory
 
 * [An Introduction to Galois Theory](http://www.maths.gla.ac.uk/~ajb/dvi-ps/Galois.pdf) - Andrew Baker (University of Glasgow)
 * [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne
 * [ Galois theory](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf) - Miles Reid
 
-### Group theory
-
-* []()
-* []()
-* []()
-* []()
-
-
-### Ring theory
-
-* []()
-* []()
-* []()
-* []()
-
-
-### Field theory
-
-* []()
-* []()
-* []()
-* []()
 
 ## Analysis
 
