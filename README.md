@@ -41,18 +41,73 @@ A curated list of awesome mathematics resources.
 * [Algebraic Number Theory](http://www.jmilne.org/math/CourseNotes/ANT.pdf) - J.S. Milne
 * [Algebraic Number Theory Course Notes](http://people.math.gatech.edu/~mbaker/pdf/ANTBook.pdf) - Matthew Baker (Georgia Tech)
 
-### Analytical number theory
+### Analytic number theory
 
 * [Introduction to Analytic Number Theory](http://www.math.uiuc.edu/~hildebr/ant/main.pdf) - A.J. Hildebrand (University of Illinois)
 * [Elements of analytic number theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (Novosibirsk)
 * [Analytic Number Theory](http://www.mathematik.uni-muenchen.de/~forster/v/ann/annth_all.pdf) - Otto Forster (LMU Munich)
-* [Analytic number theory — Lecture notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Strömbergsson
+* [Analytic number theory - Lecture notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Strömbergsson
 
 
 ## Algebra
 
+### Abstract algebra
+
+* [Introduction to Abstract Algebra](https://people.creighton.edu/~dsm33733/MTH581/Introduction%20to%20Abstract%20Algebra.pdf) - D. S. Malik, John N. Mordeson, M.K. Sen (Creighton University)
+* [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) - David Joyce (Clark University)
+* [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) -  Thomas W. Judson, Robert A. Beezer (Austin State University)
+* [An undergraduate course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett
+
+### Linear algebra
+
+* [Fundamentals of linear algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - James B. Carrell
+* [Linear algebra and matrices](http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
+* [Vector space theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
+* [Linear Algebra](http://www.mathematik.uni-muenchen.de/~renesse/AP09/hefferon.pdf) - Jim Hefferon
+* [Linear algebra](http://www.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) - Peter Petersen
+
+### Galois theory
+
 * []()
 * []()
+* []()
+* []()
+
+
+### Universal algebra
+
+* []()
+* []()
+* []()
+* []()
+
+
+### Category theory
+
+* []()
+* []()
+* []()
+* []()
+
+
+### Group theory
+
+* []()
+* []()
+* []()
+* []()
+
+
+### Ring theory
+
+* []()
+* []()
+* []()
+* []()
+
+
+### Field theory
+
 * []()
 * []()
 * []()
@@ -76,6 +131,10 @@ A curated list of awesome mathematics resources.
 * []()
 * []()
 
+### Graph theory
+
+
+
 ## Geometry and topology
 
 * []()
@@ -85,6 +144,9 @@ A curated list of awesome mathematics resources.
 * []()
 * []()
 
+
+Algebraic geometry
+
 ## Probability and statistics
 
 * []()
@@ -93,6 +155,8 @@ A curated list of awesome mathematics resources.
 * []()
 * []()
 * []()
+
+* [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang
 
 ## Numerical Analysis
 
