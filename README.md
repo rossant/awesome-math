@@ -22,6 +22,14 @@ A curated list of awesome mathematics resources.
 * [Mathematical logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
 * [Formal logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
 
+### Category theory
+
+* [Introduction to category theory and categorical logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) - Thomas Streicher
+* [An introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) - Harold Simmons
+* [Category Theory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.4754&rep=rep1&type=pdf) - Steve Awodey (Carnegie Mellon University)
+* [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. Pareigis
+* [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - Michael Barr, Charles Wells
+
 ### Homotopy type theory
 
 * [Homotopy type theory](https://hottheory.files.wordpress.com/2013/03/hott-online-611-ga1a258c.pdf)
@@ -68,27 +76,9 @@ A curated list of awesome mathematics resources.
 
 ### Galois theory
 
-* []()
-* []()
-* []()
-* []()
-
-
-### Universal algebra
-
-* []()
-* []()
-* []()
-* []()
-
-
-### Category theory
-
-* []()
-* []()
-* []()
-* []()
-
+* [An Introduction to Galois Theory](http://www.maths.gla.ac.uk/~ajb/dvi-ps/Galois.pdf) - Andrew Baker (University of Glasgow)
+* [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne
+* [ Galois theory](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf) - Miles Reid
 
 ### Group theory
 
