@@ -162,20 +162,19 @@ A curated list of awesome mathematics resources.
 
 ## Combinatorics
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Basic Combinatorics](http://www.math.utk.edu/~wagner/papers/comb.pdf) - Carl G. Wagner (University of Tennessee)
+* [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - Mitchel T. Keller, William T. Trotter
+* [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron
+* [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) - Philippe Flajolet, Robert Sedgewick
 
 ### Graph theory
 
+* [Graph Theory: Lecture Notes](http://www.personal.psu.edu/cxg286/Math485.pdf) - Christopher Griffin
+* [Graph Theory](http://www.cs.unibo.it/babaoglu/courses/cas00-01/tutorials/GraphTheory.pdf) - Reinhard Diestel
 
 
 ## Geometry and topology
 
-* []()
 * []()
 * []()
 * []()
