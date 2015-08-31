@@ -95,12 +95,55 @@ A curated list of awesome mathematics resources.
 
 ## Analysis
 
+### Real analysis
+
+* [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) - John K. Hunter (University of California at Davis)
+* [Introduction to real analysis](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) - William F. Trench (Trinity University, Texas)
+* [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) - Jirí Lebl
+* [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - Thomson, Bruckner
+* [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (McMaster University)
+* [Real analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
+* [Real analysis for graduate students](http://homepages.uconn.edu/~rib02005/rags010213.pdf) - Richard F. Bass
+* [Modern Real Analysis](http://www.indiana.edu/~mathwz/PRbook.pdf) - William P. Ziemer (Indiana University)
+
+### Calculus
+
 * []()
 * []()
 * []()
+
+### Harmonic analysis
+
 * []()
 * []()
 * []()
+
+### Complex analysis
+
+* []()
+* []()
+* []()
+
+### Functional analysis
+
+* []()
+* []()
+* []()
+
+### Differential equations
+
+* []()
+* []()
+* []()
+
+### Measure theory
+
+* []()
+* []()
+* []()
+
+
+
 
 ## Combinatorics
 
