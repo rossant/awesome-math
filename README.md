@@ -3,7 +3,6 @@
 A curated list of awesome mathematics resources.
 
 
-* [Awesome Math](#awesome-math)
 * [General Resources](#general-resources)
     * [Learning Platforms](#learning-platforms)
     * [Questions and Answers](#questions-and-answers)
