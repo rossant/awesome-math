@@ -33,7 +33,7 @@ A curated list of awesome mathematics resources.
 * [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
 
 
-# Lecture notes and ebooks
+# Lecture Notes
 
 ## Foundations of mathematics
 
