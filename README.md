@@ -3,6 +3,51 @@
 A curated list of awesome mathematics resources.
 
 
+* [Awesome Math](#awesome-math)
+* [General Resources](#general-resources)
+    * [Learning Platforms](#learning-platforms)
+    * [Questions and Answers](#questions-and-answers)
+    * [Encyclopedia](#encyclopedia)
+    * [Books](#books)
+    * [Misc](#misc)
+* [Lecture Notes](#lecture-notes)
+    * [Foundations of Mathematics](#foundations-of-mathematics)
+        * [Set Theory](#set-theory)
+        * [Logic](#logic)
+        * [Category Theory](#category-theory)
+        * [Homotopy Type Theory](#homotopy-type-theory)
+    * [Number Theory](#number-theory)
+        * [Algebraic Number Theory](#algebraic-number-theory)
+        * [Analytic Number Theory](#analytic-number-theory)
+    * [Algebra](#algebra)
+        * [Abstract Algebra](#abstract-algebra)
+        * [Group Theory](#group-theory)
+        * [Linear Algebra](#linear-algebra)
+        * [Ring Theory](#ring-theory)
+        * [Galois Theory](#galois-theory)
+    * [Analysis](#analysis)
+        * [Real Analysis](#real-analysis)
+        * [Harmonic Analysis](#harmonic-analysis)
+        * [Complex Analysis](#complex-analysis)
+        * [Functional Analysis](#functional-analysis)
+        * [Measure Theory](#measure-theory)
+        * [Ordinary Differential Equations](#ordinary-differential-equations)
+        * [Partial Differential Equations](#partial-differential-equations)
+    * [Combinatorics](#combinatorics)
+        * [Graph Theory](#graph-theory)
+    * [Geometry and Topology](#geometry-and-topology)
+        * [Differential Geometry](#differential-geometry)
+        * [Algebraic Geometry](#algebraic-geometry)
+        * [Topology](#topology)
+        * [Algebraic Topology](#algebraic-topology)
+    * [Probability and Statistics](#probability-and-statistics)
+        * [Probability Theory](#probability-theory)
+        * [Statistics](#statistics)
+        * [Statistical Learning](#statistical-learning)
+    * [Numerical Analysis](#numerical-analysis)
+
+
+
 # General Resources
 
 ## Learning Platforms
