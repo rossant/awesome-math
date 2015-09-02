@@ -84,31 +84,31 @@ A curated list of awesome mathematics resources.
 
 ### Set Theory
 
-* [An introduction to set theory](http://www.math.toronto.edu/weiss/set_theory.pdf) - William A. R. Weiss
+* [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) - William A. R. Weiss
 * [Set Theory and Foundations of Mathematics](http://www.settheory.net/) - Sylvain Poirier
 * [Set Theory on the Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries/set-theory/)
 
 ### Logic
 
-* [Introduction to logic](http://logic.stanford.edu/intrologic/chapters/cover.html) - Michael Genesereth, Eric Kao (Stanford University)
-* [An introduction to formal logic](https://textbookequity.org/oct/Textbooks/Magnus_forallx.pdf) - P.D. Magnus (University at Albany)
-* [A problem course in mathematical logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (Trent University)
-* [Language, proof, and logic](http://ssdi.di.fct.unl.pt/~pb/cadeiras/lc/0102/lpl%20textbook.pdf) - Jon Barwise, John Etchemendy
-* [Mathematical logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
-* [Mathematical logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
-* [Formal logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
+* [Introduction to Logic](http://logic.stanford.edu/intrologic/chapters/cover.html) - Michael Genesereth, Eric Kao (Stanford University)
+* [An Introduction to Formal Logic](https://textbookequity.org/oct/Textbooks/Magnus_forallx.pdf) - P.D. Magnus (University at Albany)
+* [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (Trent University)
+* [Language, Proof, and Logic](http://ssdi.di.fct.unl.pt/~pb/cadeiras/lc/0102/lpl%20textbook.pdf) - Jon Barwise, John Etchemendy
+* [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
+* [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
+* [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
 
 ### Category Theory
 
-* [Introduction to category theory and categorical logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) - Thomas Streicher
-* [An introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) - Harold Simmons
+* [Introduction to Category Theory and Categorical Logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) - Thomas Streicher
+* [An Introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) - Harold Simmons
 * [Category Theory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.4754&rep=rep1&type=pdf) - Steve Awodey (Carnegie Mellon University)
 * [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. Pareigis
 * [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - Michael Barr, Charles Wells
 
 ### Homotopy Type Theory
 
-* [Homotopy type theory](https://hottheory.files.wordpress.com/2013/03/hott-online-611-ga1a258c.pdf)
+* [Homotopy Type Theory](https://hottheory.files.wordpress.com/2013/03/hott-online-611-ga1a258c.pdf)
 
 
 ## Number Theory
@@ -129,9 +129,9 @@ A curated list of awesome mathematics resources.
 ### Analytic Number Theory
 
 * [Introduction to Analytic Number Theory](http://www.math.uiuc.edu/~hildebr/ant/main.pdf) - A.J. Hildebrand (University of Illinois)
-* [Elements of analytic number theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (Novosibirsk)
+* [Elements of Analytic Number Theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (Novosibirsk)
 * [Analytic Number Theory](http://www.mathematik.uni-muenchen.de/~forster/v/ann/annth_all.pdf) - Otto Forster (LMU Munich)
-* [Analytic number theory - Lecture notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Strömbergsson
+* [Analytic Number Theory - Lecture Notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Strömbergsson
 
 
 ## Algebra
@@ -140,23 +140,23 @@ A curated list of awesome mathematics resources.
 
 * [Introduction to Abstract Algebra](https://people.creighton.edu/~dsm33733/MTH581/Introduction%20to%20Abstract%20Algebra.pdf) - D. S. Malik, John N. Mordeson, M.K. Sen (Creighton University)
 * [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) - David Joyce (Clark University)
-* [Algebraic methods](http://www1.spms.ntu.edu.sg/~frederique/AA11.pdf) - F. Oggier
+* [Algebraic Methods](http://www1.spms.ntu.edu.sg/~frederique/AA11.pdf) - F. Oggier
 * [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) -  Thomas W. Judson, Robert A. Beezer (Austin State University)
-* [An undergraduate course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett
+* [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett
 
 ### Group Theory
 
 * [Notes on Group Theory](https://www2.bc.edu/~reederma/Groups.pdf) - Mark Reeder
-* [Group theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne
-* [Notes on finite group theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - Peter J. Cameron
+* [Group Theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne
+* [Notes on Finite Group Theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - Peter J. Cameron
 
 ### Linear Algebra
 
-* [Fundamentals of linear algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - James B. Carrell
-* [Linear algebra and matrices](http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
-* [Vector space theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
+* [Fundamentals of Linear Algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - James B. Carrell
+* [Linear Algebra and Matrices](http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
+* [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 * [Linear Algebra](http://www.mathematik.uni-muenchen.de/~renesse/AP09/hefferon.pdf) - Jim Hefferon
-* [Linear algebra](http://www.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) - Peter Petersen
+* [Linear Algebra](http://www.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) - Peter Petersen
 
 ### Ring Theory
 
@@ -166,7 +166,7 @@ A curated list of awesome mathematics resources.
 
 * [An Introduction to Galois Theory](http://www.maths.gla.ac.uk/~ajb/dvi-ps/Galois.pdf) - Andrew Baker (University of Glasgow)
 * [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne
-* [ Galois theory](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf) - Miles Reid
+* [Galois theory](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf) - Miles Reid
 
 
 ## Combinatorics
@@ -188,7 +188,7 @@ A curated list of awesome mathematics resources.
 
 ### Differential Geometry
 
-* [Introduction to differential geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) - Joel W. Robbin, Dietmar A. Salamon
+* [Introduction to Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) - Joel W. Robbin, Dietmar A. Salamon
 * [Notes on Differential Geometry and Lie Groups](http://www.seas.upenn.edu/~jean/diffgeom.pdf) - Jean Gallier (University of Pennsylvania)
 * [Topics in Differential Geometry](http://www.mat.univie.ac.at/~michor/dgbook.pdf) - Peter W. Michor
 * [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann
@@ -228,13 +228,13 @@ A curated list of awesome mathematics resources.
 ### Real Analysis
 
 * [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) - John K. Hunter (University of California at Davis)
-* [Introduction to real analysis](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) - William F. Trench (Trinity University, Texas)
+* [Introduction to Real Analysis](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) - William F. Trench (Trinity University, Texas)
 * [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) - Jirí Lebl
 * [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - Thomson, Bruckner
 * [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (McMaster University)
-* [Real analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
+* [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
 * [From Calculus to Analysis](http://www.wright.edu/~steen.pedersen/teaching/Calculus2Analysis.pdf) - Steen Pedersen
-* [Real analysis for graduate students](http://homepages.uconn.edu/~rib02005/rags010213.pdf) - Richard F. Bass
+* [Real Analysis for Graduate Students](http://homepages.uconn.edu/~rib02005/rags010213.pdf) - Richard F. Bass
 * [Modern Real Analysis](http://www.indiana.edu/~mathwz/PRbook.pdf) - William P. Ziemer (Indiana University)
 
 ### Harmonic Analysis
@@ -255,20 +255,20 @@ A curated list of awesome mathematics resources.
 * [Complex Variables](http://people.math.sc.edu/girardi/m7034/book/AshComplexVariablesWithHyperlinks.pdf) - R. B. Ash, W.P. Novinger
 * [Complex Analysis](http://www.maths.lth.se/matematiklu/personal/olofsson/CompHT06.pdf) - Christer Bennewitz
 * [Complex Analysis](https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
-* [A concise course in complex analysis and Riemann surfaces](http://www.math.uchicago.edu/~schlag/bookweb.pdf) - Wilhelm Schlag
+* [A Concise Course in Complex Analysis and Riemann Surfaces](http://www.math.uchicago.edu/~schlag/bookweb.pdf) - Wilhelm Schlag
 
 ### Functional Analysis
 
 * [An Introduction to Functional Analysis](http://www.math.uwaterloo.ca/~lwmarcou/Preprints/LinearAnalysis.pdf) - Laurent W. Marcoux (University of Waterloo)
 * [Functional Analysis: Lecture Notes](http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) - Jeff Schenker (Michigan State University)
-* [Functional analysis lecture notes](http://www.math.hkbu.edu.hk/~zeng/Teaching/math3680/FAnotes.pdf) - T.B. Ward (University of East Anglia)
-* [Functional analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
+* [Functional Analysis Lecture Notes](http://www.math.hkbu.edu.hk/~zeng/Teaching/math3680/FAnotes.pdf) - T.B. Ward (University of East Anglia)
+* [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
 * [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - Gerald Teschl
 * [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - Christian Remling
 
 ### Measure Theory
 
-* [An introduction to measure theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) - Terence Tao (UCLA)
+* [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) - Terence Tao (UCLA)
 * [Lecture Notes on Measure Theory and Functional Analysis](http://www.mat.uniroma2.it/~cannarsa/cam_0607.pdf) - P. Cannarsa, T. D’Aprile
 * [Lecture Notes in Measure Theory](http://www.math.chalmers.se/~borell/MeasureTheory.pdf) - Christer Borell
 * [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng
