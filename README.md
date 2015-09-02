@@ -1,7 +1,37 @@
-# Awesome maths
-
 A curated list of awesome mathematics resources.
 
+
+# General resources
+
+## Learning platforms
+
+* [Khan Academy](https://www.khanacademy.org/math)
+* [Coursera](https://www.coursera.org/courses?query=mathematics&languages=en)
+* [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/)
+* [edX](https://www.edx.org/course/subject/math)
+
+## Questions and answers
+
+* [Mathematics Stack Exchange](http://math.stackexchange.com/)
+* [MathOverflow](http://mathoverflow.net/) - for professional mathematicians
+
+## Encyclopedia
+
+* [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org)
+* [Wolfram Mathworld](http://mathworld.wolfram.com/)
+* [Planetmath](http://planetmath.org/)
+
+## Books
+
+* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
+* [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
+
+## Misc
+
+* [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
+
+
+# Lecture notes and ebooks
 
 ## Foundations of mathematics
 
@@ -239,6 +269,7 @@ A curated list of awesome mathematics resources.
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/Papers/ESLII.pdf) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
 * [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang
 
+
 ## Numerical Analysis
 
 * [Introduction to Numerical Analysis](http://www.math.umd.edu/~dlevy/books/na.pdf) - Doron Levy (University of Maryland)
@@ -246,50 +277,3 @@ A curated list of awesome mathematics resources.
 * [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
 * [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) - J. M. McDonough (University of Kentucky)
 * [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
-
-## Computer algebra
-
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-
-
-
-# Websites
-
-## Learning platforms
-
-* [Khan Academy](https://www.khanacademy.org/math)
-* [Coursera](https://www.coursera.org/courses?query=mathematics&languages=en)
-* [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
-
-## Questions and answers
-
-* [Mathematics Stack Exchange](http://math.stackexchange.com/)
-* [MathOverflow](http://mathoverflow.net/) - for professional mathematicians
-
-## Encyclopedia
-
-* [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org)
-* [Wolfram Mathworld](http://mathworld.wolfram.com/)
-* [Planetmath](http://planetmath.org/)
-
-## Misc
-
-* [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
-
-
-
-# Books
-
-* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
-
-
-# Online courses and MOOCs
-
-
-
-# Videos
