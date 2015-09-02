@@ -1,3 +1,5 @@
+# Awesome maths
+
 A curated list of awesome mathematics resources.
 
 
