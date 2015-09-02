@@ -215,13 +215,28 @@ A curated list of awesome mathematics resources.
 
 ## Probability and statistics
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+### Probability theory
 
+* [Introduction to Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) - Charles M. Grinstead, J. Laurie Snell
+* [Introduction to Probability](http://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - Dimitri P. Bertsekas, John N. Tsitsiklis (MIT)
+* [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese (University of Queensland)
+* [Probability: Theory and Examples](https://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf) - Rick Durrett
+* [Probability and Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/cookbook-en.pdf) - Matthias Vallentin (UC Berkeley)
+
+### Statistics
+
+* [Lecture Notes on Statistical Theory](http://homepages.math.uic.edu/~rgmartin/Teaching/Stat411/Notes/411notes.pdf) - Ryan Martin (University of Illinois)
+* [Introduction to Statistics and Data Analysis for Physicists](http://www-library.desy.de/preparch/books/vstatmp_engl.pdf) - Gerhard Bohm, Günter Zech
+* [Probability and Mathematical Statistics](http://www.iiserpune.ac.in/~ayan/MTH201/Sahoo_textbook.pdf) - Prasanna Sahoo (University of Louisville)
+* [Lectures on Statistics](http://math.arizona.edu/~faris/stat.pdf) - William G. Faris
+* [Statistical Theory](http://pages.pomona.edu/~ajr04747/Fall2009/Math152/Notes/Math152NotesFall09.pdf) - Adolfo J. Rumbos
+* [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - http://mason.gmu.edu/~jgentle/books/MathStat.pdf
+* [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (University of Arizona)
+
+### Statistical learning
+
+* [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+* [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/Papers/ESLII.pdf) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
 * [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang
 
 ## Numerical Analysis
