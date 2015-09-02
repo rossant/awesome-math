@@ -1,18 +1,18 @@
-# Awesome maths
+# Awesome Math
 
 A curated list of awesome mathematics resources.
 
 
-# General resources
+# General Resources
 
-## Learning platforms
+## Learning Platforms
 
 * [Khan Academy](https://www.khanacademy.org/math)
 * [Coursera](https://www.coursera.org/courses?query=mathematics&languages=en)
 * [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/)
 * [edX](https://www.edx.org/course/subject/math)
 
-## Questions and answers
+## Questions and Answers
 
 * [Mathematics Stack Exchange](http://math.stackexchange.com/)
 * [MathOverflow](http://mathoverflow.net/) - for professional mathematicians
@@ -35,9 +35,9 @@ A curated list of awesome mathematics resources.
 
 # Lecture Notes
 
-## Foundations of mathematics
+## Foundations of Mathematics
 
-### Set theory
+### Set Theory
 
 * [An introduction to set theory](http://www.math.toronto.edu/weiss/set_theory.pdf) - William A. R. Weiss
 * [Set Theory and Foundations of Mathematics](http://www.settheory.net/) - Sylvain Poirier
@@ -53,7 +53,7 @@ A curated list of awesome mathematics resources.
 * [Mathematical logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
 * [Formal logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
 
-### Category theory
+### Category Theory
 
 * [Introduction to category theory and categorical logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) - Thomas Streicher
 * [An introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) - Harold Simmons
@@ -61,12 +61,12 @@ A curated list of awesome mathematics resources.
 * [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. Pareigis
 * [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - Michael Barr, Charles Wells
 
-### Homotopy type theory
+### Homotopy Type Theory
 
 * [Homotopy type theory](https://hottheory.files.wordpress.com/2013/03/hott-online-611-ga1a258c.pdf)
 
 
-## Number theory
+## Number Theory
 
 * [Elementary Number Theory: Primes, Congruences, and Secrets](http://wstein.org/ent/ent.pdf) - William Stein
 * [Elementary Number Theory](http://www.iiserpune.ac.in/~ayan/MTH312/%28127%29.pdf) - W. Edwin Clark (University of South Florida)
@@ -74,14 +74,14 @@ A curated list of awesome mathematics resources.
 * [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
 * [Number Theory: A Contemporary Introduction](http://math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
 
-### Algebraic number theory
+### Algebraic Number Theory
 
 * [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf)
 * [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf) - F. Oggier
 * [Algebraic Number Theory](http://www.jmilne.org/math/CourseNotes/ANT.pdf) - J.S. Milne
 * [Algebraic Number Theory Course Notes](http://people.math.gatech.edu/~mbaker/pdf/ANTBook.pdf) - Matthew Baker (Georgia Tech)
 
-### Analytic number theory
+### Analytic Number Theory
 
 * [Introduction to Analytic Number Theory](http://www.math.uiuc.edu/~hildebr/ant/main.pdf) - A.J. Hildebrand (University of Illinois)
 * [Elements of analytic number theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (Novosibirsk)
@@ -91,7 +91,7 @@ A curated list of awesome mathematics resources.
 
 ## Algebra
 
-### Abstract algebra
+### Abstract Algebra
 
 * [Introduction to Abstract Algebra](https://people.creighton.edu/~dsm33733/MTH581/Introduction%20to%20Abstract%20Algebra.pdf) - D. S. Malik, John N. Mordeson, M.K. Sen (Creighton University)
 * [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) - David Joyce (Clark University)
@@ -99,13 +99,13 @@ A curated list of awesome mathematics resources.
 * [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) -  Thomas W. Judson, Robert A. Beezer (Austin State University)
 * [An undergraduate course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett
 
-### Group theory
+### Group Theory
 
 * [Notes on Group Theory](https://www2.bc.edu/~reederma/Groups.pdf) - Mark Reeder
 * [Group theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne
 * [Notes on finite group theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - Peter J. Cameron
 
-### Linear algebra
+### Linear Algebra
 
 * [Fundamentals of linear algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - James B. Carrell
 * [Linear algebra and matrices](http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
@@ -113,11 +113,11 @@ A curated list of awesome mathematics resources.
 * [Linear Algebra](http://www.mathematik.uni-muenchen.de/~renesse/AP09/hefferon.pdf) - Jim Hefferon
 * [Linear algebra](http://www.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) - Peter Petersen
 
-### Ring theory
+### Ring Theory
 
 * [Foundations of Module and Ring Theory](http://www.math.uni-duesseldorf.de/~wisbauer/book.pdf) - Robert Wisbauer (University of Düsseldorf)
 
-### Galois theory
+### Galois Theory
 
 * [An Introduction to Galois Theory](http://www.maths.gla.ac.uk/~ajb/dvi-ps/Galois.pdf) - Andrew Baker (University of Glasgow)
 * [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne
@@ -126,7 +126,7 @@ A curated list of awesome mathematics resources.
 
 ## Analysis
 
-### Real analysis
+### Real Analysis
 
 * [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) - John K. Hunter (University of California at Davis)
 * [Introduction to real analysis](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) - William F. Trench (Trinity University, Texas)
@@ -138,14 +138,14 @@ A curated list of awesome mathematics resources.
 * [Real analysis for graduate students](http://homepages.uconn.edu/~rib02005/rags010213.pdf) - Richard F. Bass
 * [Modern Real Analysis](http://www.indiana.edu/~mathwz/PRbook.pdf) - William P. Ziemer (Indiana University)
 
-### Harmonic analysis
+### Harmonic Analysis
 
 * [Harmonic Analysis Lecture Notes](http://www.math.uiuc.edu/~laugesen/545/545Lectures.pdf) - Richard S. Laugesen (University of Illinois at Urbana–Champaign)
 * [Harmonic Analysis](http://www.math.uchicago.edu/~schlag/harmonicnotes.pdf) - W. Schlag
 * [Lecture Notes: Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf) - Brad Osgood
 * [Fourier Analysis](http://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf) - Lucas Illing
 
-### Complex analysis
+### Complex Analysis
 
 * [Introduction to Complex Analysis](http://www.unc.edu/math/Faculty/met/complex.pdf) - Michael Taylor
 * [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (University of Illinois)
@@ -158,7 +158,7 @@ A curated list of awesome mathematics resources.
 * [Complex Analysis](https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
 * [A concise course in complex analysis and Riemann surfaces](http://www.math.uchicago.edu/~schlag/bookweb.pdf) - Wilhelm Schlag
 
-### Functional analysis
+### Functional Analysis
 
 * [An Introduction to Functional Analysis](http://www.math.uwaterloo.ca/~lwmarcou/Preprints/LinearAnalysis.pdf) - Laurent W. Marcoux (University of Waterloo)
 * [Functional Analysis: Lecture Notes](http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) - Jeff Schenker (Michigan State University)
@@ -167,7 +167,7 @@ A curated list of awesome mathematics resources.
 * [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - Gerald Teschl
 * [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - Christian Remling
 
-### Measure theory
+### Measure Theory
 
 * [An introduction to measure theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) - Terence Tao (UCLA)
 * [Lecture Notes on Measure Theory and Functional Analysis](http://www.mat.uniroma2.it/~cannarsa/cam_0607.pdf) - P. Cannarsa, T. D’Aprile
@@ -185,7 +185,7 @@ A curated list of awesome mathematics resources.
 * [Ordinary Differential Equations](http://users.math.msu.edu/users/gnagy/teaching/ode.pdf) - Gabriel Nagy
 * [Ordinary Differential Equations and Dynamical Systems](http://www.mat.univie.ac.at/~gerald/ftp/book-ode/ode.pdf) - Gerald Teschl
 
-### Partial differential equations
+### Partial Differential Equations
 
 * [Notes on Partial Differential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pde_notes.pdf) - John K. Hunter (University of California at Davis)
 * [Partial Differential Equations: Lecture Notes](http://www.math.uni-leipzig.de/~miersemann/pdebook.pdf) - Erich Miersemann (Leipzig University)
@@ -198,17 +198,17 @@ A curated list of awesome mathematics resources.
 * [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron
 * [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) - Philippe Flajolet, Robert Sedgewick
 
-### Graph theory
+### Graph Theory
 
 * [Graph Theory: Lecture Notes](http://www.personal.psu.edu/cxg286/Math485.pdf) - Christopher Griffin
 * [Graph Theory](http://www.cs.unibo.it/babaoglu/courses/cas00-01/tutorials/GraphTheory.pdf) - Reinhard Diestel
 
 
-## Geometry and topology
+## Geometry and Topology
 
 * [Fundamentals of Geometry](http://polly.phys.msu.ru/~belyaev/geometry.pdf) - Oleg A. Belyaev
 
-### Differential geometry
+### Differential Geometry
 
 * [Introduction to differential geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) - Joel W. Robbin, Dietmar A. Salamon
 * [Notes on Differential Geometry and Lie Groups](http://www.seas.upenn.edu/~jean/diffgeom.pdf) - Jean Gallier (University of Pennsylvania)
@@ -216,7 +216,7 @@ A curated list of awesome mathematics resources.
 * [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann
 * [An Introduction to Riemannian Geometry](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf) - Sigmundur Gudmundsson (Lund University)
 
-### Algebraic geometry
+### Algebraic Geometry
 
 * [A Brief Introduction to Algebraic Geometry](http://www.sci.ccny.cuny.edu/~ksda/PostedPapers/rickksda1107.pdf) - R.C. Churchill
 * [Introduction to Algebraic Geometry](http://www.math.lsa.umich.edu/~idolga/631.pdf) - Igor V. Dolgachev
@@ -234,7 +234,7 @@ A curated list of awesome mathematics resources.
 * [Elementary Topology Problem Textbook](http://www.pdmi.ras.ru/~olegviro/topoman/eng-book-nopfs.pdf)
 * [General Topology](http://www.math.ku.dk/~moller/e03/3gt/notes/gtnotes.pdf) - Jesper M. Møller
 
-### Algebraic topology
+### Algebraic Topology
 
 * [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf) - Allen Hatcher
 * [A Concise Course in Algebraic Topology](http://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf) - J. P. May
@@ -245,9 +245,9 @@ A curated list of awesome mathematics resources.
 * [Lecture Notes on Algebraic Topology](http://www.math.nus.edu.sg/~matwujie/ma5209.pdf) - Jie Wu
 
 
-## Probability and statistics
+## Probability and Statistics
 
-### Probability theory
+### Probability Theory
 
 * [Introduction to Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) - Charles M. Grinstead, J. Laurie Snell
 * [Introduction to Probability](http://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - Dimitri P. Bertsekas, John N. Tsitsiklis (MIT)
@@ -265,7 +265,7 @@ A curated list of awesome mathematics resources.
 * [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - http://mason.gmu.edu/~jgentle/books/MathStat.pdf
 * [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (University of Arizona)
 
-### Statistical learning
+### Statistical Learning
 
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/Papers/ESLII.pdf) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
