@@ -55,6 +55,8 @@ def gen_toc(filename):
     with open(filename, 'w') as f:
         f.write(md[:i] + _NEWLINES)
         for item in _gen_items(md):
+            if 'Awesome Math' in item:
+                continue
             f.write(item + '\n')
         f.write(_NEWLINES + md[j:])
 
