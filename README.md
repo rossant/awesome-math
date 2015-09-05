@@ -298,6 +298,7 @@ A curated list of awesome mathematics resources.
 * [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese (University of Queensland)
 * [Probability: Theory and Examples](https://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf) - Rick Durrett
 * [Probability and Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/cookbook-en.pdf) - Matthias Vallentin (UC Berkeley)
+* [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen
 
 ### Statistics
 
