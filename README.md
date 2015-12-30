@@ -69,6 +69,7 @@ A curated list of awesome mathematics resources.
 
 ## Books
 
+* [Hundreds of free Springer mathematics books](https://gist.github.com/bishboria/8326b17bbd652f34566a) (all books that are >10 years old were freely released in December 2015)
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
 * [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 
