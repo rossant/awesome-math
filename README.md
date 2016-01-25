@@ -309,6 +309,7 @@ A curated list of awesome mathematics resources.
 * [Statistical Theory](http://pages.pomona.edu/~ajr04747/Fall2009/Math152/Notes/Math152NotesFall09.pdf) - Adolfo J. Rumbos
 * [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - http://mason.gmu.edu/~jgentle/books/MathStat.pdf
 * [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (University of Arizona)
+* [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 
 ### Statistical Learning
 
