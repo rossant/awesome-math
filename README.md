@@ -156,6 +156,7 @@ A curated list of awesome mathematics resources.
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 * [Linear Algebra](http://www.mathematik.uni-muenchen.de/~renesse/AP09/hefferon.pdf) - Jim Hefferon
 * [Linear Algebra](http://www.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) - Peter Petersen
+* [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](http://www.juanklopper.com/opencourseware/mathematics-2/ipython-lecture-notes/) - Juan Klopper
 
 ### Ring Theory
 
