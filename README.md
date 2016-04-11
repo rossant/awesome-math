@@ -44,6 +44,7 @@ A curated list of awesome mathematics resources.
         * [Statistics](#statistics)
         * [Statistical Learning](#statistical-learning)
     * [Numerical Analysis](#numerical-analysis)
+    * [License](#license)
 
 
 
@@ -75,6 +76,8 @@ A curated list of awesome mathematics resources.
 ## Misc
 
 * [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
+* [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) - Paul Dawkins (Lamar University)
+* [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (Arkansas Tech University)
 
 
 # Lecture Notes
