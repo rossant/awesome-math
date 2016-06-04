@@ -93,7 +93,7 @@ A curated list of awesome mathematics resources.
 
 ### Logic
 
-* [Introduction to Logic](http://logic.stanford.edu/intrologic/chapters/cover.html) - Michael Genesereth, Eric Kao (Stanford University)
+* [Introduction to Logic](http://logic.stanford.edu/intrologic/secondary/index.html) - Michael Genesereth, Eric Kao (Stanford University)
 * [An Introduction to Formal Logic](https://textbookequity.org/oct/Textbooks/Magnus_forallx.pdf) - P.D. Magnus (University at Albany)
 * [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (Trent University)
 * [Language, Proof, and Logic](http://ssdi.di.fct.unl.pt/~pb/cadeiras/lc/0102/lpl%20textbook.pdf) - Jon Barwise, John Etchemendy
