@@ -5,11 +5,11 @@ A curated list of awesome mathematics resources.
 
 * [General Resources](#general-resources)
     * [Learning Platforms](#learning-platforms)
+    * [Learn to Learn](#learn-to-learn)
     * [Questions and Answers](#questions-and-answers)
     * [Encyclopedia](#encyclopedia)
     * [Books](#books)
     * [Misc](#misc)
-    * [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math)
 * [Lecture Notes](#lecture-notes)
     * [Foundations of Mathematics](#foundations-of-mathematics)
         * [Set Theory](#set-theory)
@@ -58,6 +58,10 @@ A curated list of awesome mathematics resources.
 * [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/)
 * [edX](https://www.edx.org/course/subject/math)
 
+## Learn to Learn
+
+* [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math)
+
 ## Questions and Answers
 
 * [Mathematics Stack Exchange](http://math.stackexchange.com/)
@@ -80,7 +84,6 @@ A curated list of awesome mathematics resources.
 * [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) - Paul Dawkins (Lamar University)
 * [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (Arkansas Tech University)
-
 
 # Lecture Notes
 
