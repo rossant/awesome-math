@@ -9,6 +9,7 @@ A curated list of awesome mathematics resources.
     * [Encyclopedia](#encyclopedia)
     * [Books](#books)
     * [Misc](#misc)
+    * [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math)
 * [Lecture Notes](#lecture-notes)
     * [Foundations of Mathematics](#foundations-of-mathematics)
         * [Set Theory](#set-theory)
