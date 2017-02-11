@@ -45,6 +45,7 @@ A curated list of awesome mathematics resources.
         * [Statistics](#statistics)
         * [Statistical Learning](#statistical-learning)
     * [Numerical Analysis](#numerical-analysis)
+    * [Misc](#notes-misc)
     * [License](#license)
 
 
@@ -338,6 +339,9 @@ A curated list of awesome mathematics resources.
 * [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) - J. M. McDonough (University of Kentucky)
 * [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 
+## Notes Misc
+
+ * [Mathematics for Computer Science](http://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf)
 
 ## License
 
