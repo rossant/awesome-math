@@ -341,7 +341,7 @@ A curated list of awesome mathematics resources.
 
 ## Notes Misc
 
- * [Mathematics for Computer Science](http://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf)
+ * [Mathematics for Computer Science](https://archive.org/details/MCS_LLM)
 
 ## License
 
