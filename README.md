@@ -70,8 +70,9 @@ A curated list of awesome mathematics resources.
 ## Encyclopedia
 
 * [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org)
-* [Wolfram Mathworld](http://mathworld.wolfram.com/)
 * [Planetmath](http://planetmath.org/)
+* [ProofWiki](https://proofwiki.org/wiki/Main_Page)
+* [Wolfram Mathworld](http://mathworld.wolfram.com/)
 
 ## Books
 
