@@ -341,7 +341,7 @@ A curated list of awesome mathematics resources.
 
 ## Mathematics for Computer Science
 
- * [Mathematics for Computer Science](https://archive.org/details/MCS_LLM)
+ * [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer
 
 ## License
 
