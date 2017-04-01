@@ -2,6 +2,7 @@
 
 A curated list of awesome mathematics resources.
 
+# Contents
 
 * [General Resources](#general-resources)
     * [Learning Platforms](#learning-platforms)
