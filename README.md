@@ -186,6 +186,7 @@ A curated list of awesome mathematics resources.
 * [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - Mitchel T. Keller, William T. Trotter
 * [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron
 * [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) - Philippe Flajolet, Robert Sedgewick
+* [Combinatorial Optimization](https://321da88a-a-62cb3a1a-s-sites.googlegroups.com/site/imocanada/2010-winter-camp/2010%20Winter%20Camp%20-%20David%20Arthur%20-%20Optimization.pdf) - David Arthur
 
 ### Graph Theory
 
