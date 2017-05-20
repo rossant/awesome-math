@@ -10,6 +10,7 @@ A curated list of awesome mathematics resources.
     * [Questions and Answers](#questions-and-answers)
     * [Encyclopedia](#encyclopedia)
     * [Books](#books)
+    * [Blogs](#blogs)
     * [Misc](#misc)
 * [Lecture Notes](#lecture-notes)
     * [Foundations of Mathematics](#foundations-of-mathematics)
@@ -82,6 +83,10 @@ A curated list of awesome mathematics resources.
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
 * [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 * [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
+
+## Blogs
+
+* [BetterExplained](https://betterexplained.com/) - Maintained by Kalid Azad.
 
 ## Misc
 
