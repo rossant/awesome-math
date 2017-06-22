@@ -18,6 +18,7 @@ A curated list of awesome mathematics resources.
         * [Logic](#logic)
         * [Category Theory](#category-theory)
         * [Homotopy Type Theory](#homotopy-type-theory)
+        * [Surreal Numbers](#surreal-numbers)
     * [Number Theory](#number-theory)
         * [Algebraic Number Theory](#algebraic-number-theory)
         * [Analytic Number Theory](#analytic-number-theory)
