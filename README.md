@@ -18,6 +18,7 @@ A curated list of awesome mathematics resources.
         * [Logic](#logic)
         * [Category Theory](#category-theory)
         * [Homotopy Type Theory](#homotopy-type-theory)
+        * [Surreal Numbers](#surreal-numbers)
     * [Number Theory](#number-theory)
         * [Algebraic Number Theory](#algebraic-number-theory)
         * [Analytic Number Theory](#analytic-number-theory)
@@ -126,6 +127,12 @@ A curated list of awesome mathematics resources.
 
 * [Homotopy Type Theory](https://hottheory.files.wordpress.com/2013/03/hott-online-611-ga1a258c.pdf)
 
+### Surreal Numbers
+
+* [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) - D. E. Knuth
+* [An Introduction to Surreal Numbers](https://www.whitman.edu/Documents/Academics/Mathematics/Grimm.pdf) - Gretchen Grimm
+* [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
+* [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) - Philip Ehrlich
 
 ## Number Theory
 
