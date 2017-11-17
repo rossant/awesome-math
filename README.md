@@ -50,7 +50,9 @@ A curated list of awesome mathematics resources.
         * [Probability Theory](#probability-theory)
         * [Statistics](#statistics)
         * [Statistical Learning](#statistical-learning)
+        * [Stochastic processes](#stochastic-processes)
     * [Numerical Analysis](#numerical-analysis)
+    * [Signal processing](#signal-processing)
     * [Mathematics for Computer Science](#mathematics-for-computer-science)
     * [License](#license)
 
