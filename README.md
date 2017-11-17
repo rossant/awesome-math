@@ -4,6 +4,9 @@ A curated list of awesome mathematics resources.
 
 # Contents
 
+<!-- START_TOC -->
+
+* [Contents](#contents)
 * [General Resources](#general-resources)
     * [Learning Platforms](#learning-platforms)
     * [Learn to Learn](#learn-to-learn)
@@ -51,7 +54,7 @@ A curated list of awesome mathematics resources.
     * [Mathematics for Computer Science](#mathematics-for-computer-science)
     * [License](#license)
 
-
+<!-- END_TOC -->
 
 # General Resources
 

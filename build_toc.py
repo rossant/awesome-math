@@ -7,7 +7,8 @@ import re
 _HEADER_REGEX = r'([#]+) ([^\n]+)'
 _PUNCTUATION_REGEX = r'[^\w\- ]'
 _HEADER_TEMPLATE = '{indent}* [{name}](#{anchor})'
-_NEWLINES = '\n\n\n'
+_START_TOC = '<!-- START_TOC -->'
+_END_TOC = '<!-- END_TOC -->'
 
 
 def _anchor(name):
@@ -50,15 +51,15 @@ def _read_md(filename):
 
 def gen_toc(filename):
     md = _read_md(filename)
-    i = md.index(_NEWLINES)
-    j = md.index('# General Resources', i)
+    i = md.index(_START_TOC) + len(_START_TOC) + 2
+    j = md.index(_END_TOC)
     with open(filename, 'w') as f:
-        f.write(md[:i] + _NEWLINES)
+        f.write(md[:i])
         for item in _gen_items(md):
             if 'Awesome Math' in item:
                 continue
             f.write(item + '\n')
-        f.write(_NEWLINES + md[j:])
+        f.write('\n' + md[j:])
 
 
 if __name__ == '__main__':
