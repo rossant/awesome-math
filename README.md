@@ -54,7 +54,7 @@ A curated list of awesome mathematics resources.
     * [Numerical Analysis](#numerical-analysis)
     * [Signal processing](#signal-processing)
     * [Mathematics for Computer Science](#mathematics-for-computer-science)
-    * [License](#license)
+* [License](#license)
 
 <!-- END_TOC -->
 
@@ -387,7 +387,7 @@ A curated list of awesome mathematics resources.
  * [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer
 
 
-## License
+# License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
