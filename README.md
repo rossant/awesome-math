@@ -340,7 +340,7 @@ A curated list of awesome mathematics resources.
 * [Probability and Mathematical Statistics](http://www.iiserpune.ac.in/~ayan/MTH201/Sahoo_textbook.pdf) - Prasanna Sahoo (University of Louisville)
 * [Lectures on Statistics](http://math.arizona.edu/~faris/stat.pdf) - William G. Faris
 * [Statistical Theory](http://pages.pomona.edu/~ajr04747/Fall2009/Math152/Notes/Math152NotesFall09.pdf) - Adolfo J. Rumbos
-* [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - http://mason.gmu.edu/~jgentle/books/MathStat.pdf
+* [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University)
 * [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (University of Arizona)
 * [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 * [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
