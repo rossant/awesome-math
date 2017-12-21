@@ -90,7 +90,7 @@ A curated list of awesome mathematics resources.
 * [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 * [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
-* [Trignometry](http://www.mecmath.net/trig/trigbook.pdf)
+* [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 
 ## Blogs
 
