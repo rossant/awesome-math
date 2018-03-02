@@ -108,6 +108,8 @@ A curated list of awesome mathematics resources.
 
 ## Foundations of Mathematics
 
+* [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) - Elias Zakon
+
 ### Set Theory
 
 * [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) - William A. R. Weiss
@@ -151,6 +153,7 @@ A curated list of awesome mathematics resources.
 * [A Course on Number Theory](http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf) - Peter J. Cameron
 * [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
 * [Number Theory: A Contemporary Introduction](http://math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
+* [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
 
 ### Algebraic Number Theory
 
@@ -188,6 +191,7 @@ A curated list of awesome mathematics resources.
 * [Notes on Group Theory](https://www2.bc.edu/mark-reeder/Groups.pdf) - Mark Reeder
 * [Group Theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne
 * [Notes on Finite Group Theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - Peter J. Cameron
+* [Group Theory](http://www.cns.gatech.edu/GroupTheory/index.html) -  Pedrag Civitanovic
 
 ### Linear Algebra
 
@@ -199,6 +203,7 @@ A curated list of awesome mathematics resources.
 * [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 * [Linear Algebra](http://joshua.smcvt.edu/linalg.html) - Jim Hefferon
 * [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
+* [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 
 ### Ring Theory
 
@@ -210,6 +215,9 @@ A curated list of awesome mathematics resources.
 * [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne
 * [Galois theory](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf) - Miles Reid
 
+### Lie Algebras
+
+* [Lie Algebras](http://www.math.harvard.edu/~shlomo/docs/lie_algebras.pdf) - Shlomo Sternberg
 
 ## Combinatorics
 
@@ -231,6 +239,7 @@ A curated list of awesome mathematics resources.
 * [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
 * [Elements](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html) - Euclid
 * [Euclid's Elements Redux](http://starrhorse.com/euclid/) - Daniel Callahan
+* [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman
 
 ### Differential Geometry
 
@@ -240,6 +249,7 @@ A curated list of awesome mathematics resources.
 * [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann
 * [An Introduction to Riemannian Geometry](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf) - Sigmundur Gudmundsson (Lund University)
 * [The Geometry and Topology of Three-Manifolds](http://msri.org/publications/books/gt3m/) - W. Thurston
+* [Semi-Riemann Geometry and General Relativity](http://www.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) - ShlomoSternberg
 
 ### Algebraic Geometry
 
@@ -275,6 +285,7 @@ A curated list of awesome mathematics resources.
 ### Real Analysis
 
 * [MIT OpenCourseWare Lectures on Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - G. Strang
+* [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) - Professor H. Jerome Keisler
 * [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) - John K. Hunter (University of California at Davis)
 * [Introduction to Real Analysis](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) - William F. Trench (Trinity University, Texas)
 * [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) - Jirí Lebl
@@ -283,6 +294,8 @@ A curated list of awesome mathematics resources.
 * [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
 * [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
 * [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (Indiana University)
+* [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
+* [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
 
 ### Harmonic Analysis
 
@@ -313,6 +326,8 @@ A curated list of awesome mathematics resources.
 * [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
 * [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - Gerald Teschl
 * [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - Christian Remling
+* [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) -
+Shlomo Sternberg
 
 ### Measure Theory
 
@@ -363,6 +378,7 @@ A curated list of awesome mathematics resources.
 * [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 * [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
 * [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
+* [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) - Richard Lowry
 
 ### Statistical Learning
 
@@ -381,6 +397,7 @@ A curated list of awesome mathematics resources.
 * [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
 * [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma (Leiden University)
 * [Markov Chains and Mixing Times](http://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) - David A. Levin, Yuval Peres, Elizabeth L. Wilmer
+* [Convergence of Stochastic Processes](http://www.stat.yale.edu/~pollard/) - David Pollard
 
 
 ## Numerical Analysis
@@ -404,6 +421,7 @@ A curated list of awesome mathematics resources.
 
  * [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer
  * [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) - H. Wilf
+ * [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
 
 
 # License
