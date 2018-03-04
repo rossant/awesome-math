@@ -137,6 +137,10 @@ A curated list of awesome mathematics resources.
 * [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. Pareigis
 * [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - Michael Barr, Charles Wells
 * [Toposes, Triples and Theories](http://www.tac.mta.ca/tac/reprints/articles/12/tr12.pdf) - Michael Barr, Charles Wells
+* [Abelian Categories](http://www.tac.mta.ca/tac/reprints/articles/3/tr3abs.html) - Peter Freyd
+* [Categories and Groupoids](http://www.tac.mta.ca/tac/reprints/articles/7/tr7abs.html) - P. J. Higgins
+* [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html) - G. M. Kelley
+* [Abstract and Concrete Categories:The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - Jiri Adamek, Horst Herrlich, George Strecker
 
 ### Homotopy Type Theory
 
@@ -301,6 +305,7 @@ A curated list of awesome mathematics resources.
 * [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
 * [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
 * [Advanced Calculus](http://www.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) - Lynn Loomis, Schlomo Sternberg
+* [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) - Lawerence Baggett
 * [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - Dan Sloughter
 
 ### Harmonic Analysis
@@ -334,6 +339,7 @@ A curated list of awesome mathematics resources.
 * [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - Christian Remling
 * [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) -
 Shlomo Sternberg
+* [Functional Analysis](http://spot.colorado.edu/~baggett/functional.html) - Lawerence Baggett
 
 ### Measure Theory
 
@@ -353,6 +359,7 @@ Shlomo Sternberg
 * [Ordinary Differential Equations](http://www.math.lmu.de/~philip/publications/lectureNotes/ODE.pdf) - Peter Philip
 * [Ordinary Differential Equations](http://users.math.msu.edu/users/gnagy/teaching/ode.pdf) - Gabriel Nagy
 * [Ordinary Differential Equations and Dynamical Systems](http://www.mat.univie.ac.at/~gerald/ftp/book-ode/ode.pdf) - Gerald Teschl
+* [Notes on Differential Equations](http://leipper.org/manuals/zip-fill/dn-difeq-notes.pdf) - Bob Terrell
 
 ### Partial Differential Equations
 
@@ -415,6 +422,7 @@ Shlomo Sternberg
 * [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
 * [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) - J. M. McDonough (University of Kentucky)
 * [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
+* [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/) -Douglas Wilhelm Harder
 
 
 ## Signal processing
@@ -430,7 +438,7 @@ Shlomo Sternberg
  * [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer
  * [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) - H. Wilf
  * [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
-
+* [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) -  David J. C. MacKay
 
 # License
 
