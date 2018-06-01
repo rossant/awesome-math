@@ -98,7 +98,9 @@ A curated list of awesome mathematics resources.
 
 ## Blogs
 
-* [BetterExplained](https://betterexplained.com/) - A blog maintained by Kalid Azad
+* [BetterExplained](https://betterexplained.com/) - Maintained by Kalid Azad
+* [ILoveMaths](http://ilovemaths.com/) - For grades 6 thru 12 in K-12 system
+* [3blue1brown](https://www.3blue1brown.com/) - Animated Maths
 
 ## Misc
 
