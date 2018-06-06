@@ -95,7 +95,7 @@ A curated list of awesome mathematics resources.
 * [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
 * [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
-
+* [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
 ## Blogs
 
 * [BetterExplained](https://betterexplained.com/) - Maintained by Kalid Azad
