@@ -10,6 +10,7 @@ A curated list of awesome mathematics resources.
 * [General Resources](#general-resources)
     * [Learning Platforms](#learning-platforms)
     * [Learn to Learn](#learn-to-learn)
+    * [Tools](#tools)
     * [Questions and Answers](#questions-and-answers)
     * [Encyclopedia](#encyclopedia)
     * [Books](#books)
@@ -73,6 +74,13 @@ A curated list of awesome mathematics resources.
 ## Learn to Learn
 
 * [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math)
+
+## Tools
+
+* [Symbolab](https://www.symbolab.com/)
+* [Desmos](https://www.desmos.com/calculator)
+* [Math Words](http://www.mathwords.com/)
+* [Wolfram Alpha](http://www.wolframalpha.com/)
 
 ## Questions and Answers
 
