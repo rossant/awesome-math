@@ -460,6 +460,7 @@ Shlomo Sternberg
 * [Foundations of Signal Processing](http://www.fourierandwavelets.org/FSP_v1.1_2014.pdf) - Martin Vetterli, Jelena Kovacevic, Vivek K Goyal
 * [An Introduction to Statistical Signal Processing](https://ee.stanford.edu/~gray/sp.pdf) - Robert M. Gray, Lee D. Davisson
 * [Linear algebra, signal processing, and wavelets. A unified approach.](https://www.uio.no/studier/emner/matnat/math/MAT-INF2360/v15/kompendium/applinalgpython.pdf) - Øyvind Ryan (University of Oslo)
+* [STFT and Laplace Transform for the Visualization of Filtered Signal](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform) - Guillaume Chevalier (University Laval)
 
 
 ## Mathematics for Computer Science
