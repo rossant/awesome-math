@@ -156,7 +156,7 @@ A curated list of awesome mathematics resources.
 * [Categories and Groupoids](http://www.tac.mta.ca/tac/reprints/articles/7/tr7abs.html) - P. J. Higgins
 * [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html) - G. M. Kelley
 * [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - Jiri Adamek, Horst Herrlich, George Strecker
-* [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak
+* [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak (MIT)
 
 ### Homotopy Type Theory
 
