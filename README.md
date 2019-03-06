@@ -10,6 +10,7 @@ A curated list of awesome mathematics resources.
 * [General Resources](#general-resources)
     * [Learning Platforms](#learning-platforms)
     * [Learn to Learn](#learn-to-learn)
+    * [Youtube Series](#youtube-series)
     * [Tools](#tools)
     * [Questions and Answers](#questions-and-answers)
     * [Encyclopedia](#encyclopedia)
@@ -127,12 +128,6 @@ A curated list of awesome mathematics resources.
 * [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (Arkansas Tech University)
 * [Topology Atlas](http://at.yorku.ca/topology/)
 
-
-# Youtube Series
-
-## Statistics
-
-* [Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists?sort=da&view=1&flow=grid)
 
 # Lecture Notes
 
