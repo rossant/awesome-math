@@ -118,6 +118,12 @@ A curated list of awesome mathematics resources.
 * [Topology Atlas](http://at.yorku.ca/topology/)
 
 
+# Youtube Series
+
+## Statistics
+
+* [Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists?sort=da&view=1&flow=grid)
+
 # Lecture Notes
 
 ## Foundations of Mathematics
