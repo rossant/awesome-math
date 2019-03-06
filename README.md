@@ -75,6 +75,16 @@ A curated list of awesome mathematics resources.
 
 * [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math)
 
+## Youtube Series
+
+* [Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists?view=1&sort=da&flow=grid)
+* [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
+* [NPTEL](https://www.youtube.com/watch?v=VVYLpmKRfQ8&list=PL6C92B335BD4238AB)
+* [Prof. Leonard](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0)
+* [Crash Course](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+* [Harvard](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+* [MIT](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+
 ## Tools
 
 * [Symbolab](https://www.symbolab.com/)
