@@ -109,9 +109,9 @@ A curated list of awesome mathematics resources.
 * [BetterExplained](https://betterexplained.com/) - Maintained by Kalid Azad
 * [ILoveMaths](http://ilovemaths.com/) - For grades 6 thru 12 in K-12 system
 * [3blue1brown](https://www.3blue1brown.com/) - Animated Maths
+* [Mathsisfun](https://www.mathsisfun.com) simple text light weight site for students upto highschool
 
 ## Misc
-
 * [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) - Paul Dawkins (Lamar University)
 * [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (Arkansas Tech University)
