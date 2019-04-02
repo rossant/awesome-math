@@ -71,6 +71,7 @@ A curated list of awesome mathematics resources.
 * [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/)
 * [edX](https://www.edx.org/course/subject/math)
 * [Brilliant](https://brilliant.org/courses/#math-foundational)
+* [WooTube](https://misterwootube.com/)
 
 ## Learn to Learn
 
