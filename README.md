@@ -70,6 +70,7 @@ A curated list of awesome mathematics resources.
 * [Coursera](https://www.coursera.org/courses?query=mathematics&languages=en)
 * [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/)
 * [edX](https://www.edx.org/course/subject/math)
+* [Brilliant](https://brilliant.org/courses/#math-foundational)
 
 ## Learn to Learn
 
