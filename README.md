@@ -94,6 +94,8 @@ A curated list of awesome mathematics resources.
 * [Desmos](https://www.desmos.com/calculator)
 * [Math Words](http://www.mathwords.com/)
 * [Wolfram Alpha](http://www.wolframalpha.com/)
+* [Sympy](https://www.sympy.org/)
+* [Sagemath](http://www.sagemath.org/)
 
 ## Questions and Answers
 
