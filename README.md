@@ -194,6 +194,7 @@ A curated list of awesome mathematics resources.
 * [Number Theory: A Contemporary Introduction](http://math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
 * [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
 * [Yet Another Introductary Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
+* [Elementary Number Theory](https://napocaro.files.wordpress.com/2015/02/david_m-_burton_elementary_number_theory_sixth_bookfi-org.pdf) - David M. Burton
 
 ### Algebraic Number Theory
 
