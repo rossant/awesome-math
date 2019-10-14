@@ -177,6 +177,7 @@ A curated list of awesome mathematics resources.
 
 ### Type Theory
 * [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
+* [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Per Martin-Lof
 
 ### Homotopy Type Theory
 
