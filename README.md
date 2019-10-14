@@ -22,6 +22,7 @@ A curated list of awesome mathematics resources.
         * [Set Theory](#set-theory)
         * [Logic](#logic)
         * [Category Theory](#category-theory)
+        * [Type Theory](#type-theory)
         * [Homotopy Type Theory](#homotopy-type-theory)
         * [Surreal Numbers](#surreal-numbers)
     * [Number Theory](#number-theory)
@@ -173,6 +174,9 @@ A curated list of awesome mathematics resources.
 * [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html) - G. M. Kelley
 * [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - Jiri Adamek, Horst Herrlich, George Strecker
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak (MIT)
+
+### Type Theory
+* [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
 
 ### Homotopy Type Theory
 
