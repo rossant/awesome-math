@@ -120,6 +120,7 @@ A curated list of awesome mathematics resources.
 * [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
 * [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
+*[Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf)
 
 ## Blogs
 
