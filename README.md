@@ -489,6 +489,7 @@ A curated list of awesome mathematics resources.
 * [Introduction to Signal Processing](http://www.ece.rutgers.edu/~orfanidi/intro2sp/orfanidis-i2sp.pdf) - Sophocles J. Orfanidis (Rutgers University)
 * [Foundations of Signal Processing](http://www.fourierandwavelets.org/FSP_v1.1_2014.pdf) - Martin Vetterli, Jelena Kovacevic, Vivek K Goyal
 * [An Introduction to Statistical Signal Processing](https://ee.stanford.edu/~gray/sp.pdf) - Robert M. Gray, Lee D. Davisson
+* [Think DSP](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey
 * [Linear algebra, signal processing, and wavelets. A unified approach.](https://www.uio.no/studier/emner/matnat/math/MAT-INF2360/v15/kompendium/applinalgpython.pdf) - Øyvind Ryan (University of Oslo)
 
 
