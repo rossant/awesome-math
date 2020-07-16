@@ -127,6 +127,7 @@ A curated list of awesome mathematics resources.
 * [ILoveMaths](http://ilovemaths.com/) - For grades 6 thru 12 in K-12 system
 * [3blue1brown](https://www.3blue1brown.com/) - Animated Maths
 * [Mathsisfun](https://www.mathsisfun.com) simple text light weight site for students upto highschool
+* [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev (Professor of mathematics at Marshall University, Huntington WV, USA)
 
 ## Misc
 * [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
