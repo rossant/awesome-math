@@ -99,6 +99,14 @@ A curated list of awesome mathematics resources.
 * [Sympy](https://www.sympy.org/)
 * [Sagemath](http://www.sagemath.org/)
 * [Unit Converter](https://unitconverter.net)
+* [GeoGebra](https://www.geogebra.org/?lang=en)
+* [Macaulay2](http://www2.macaulay2.com/Macaulay2/)
+* [Singular](https://www.singular.uni-kl.de/)
+* [GNU Octave](https://www.gnu.org/software/octave/)
+* [Magma](http://magma.maths.usyd.edu.au/magma/)
+* [Maple](https://www.maplesoft.com/products/Maple/)
+* [Matlab](https://www.mathworks.com/products/matlab.html)
+* [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 
 ## Questions and Answers
 
