@@ -396,6 +396,7 @@ A curated list of awesome mathematics resources.
 * [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) - George M. Bergman
 * [Calculus Made Easy](http://calculusmadeeasy.org/) - Silvanus P. Thompson (1910)
 * [Elements of Differential and Integral Calculus](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (1911)
+* [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) - Carl Stitz, Jeff Zeager
 
 ### Harmonic Analysis
 
