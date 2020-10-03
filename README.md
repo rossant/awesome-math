@@ -402,6 +402,7 @@ A curated list of awesome mathematics resources.
 * [Harmonic Analysis](http://www.math.uchicago.edu/~schlag/harmonicnotes.pdf) - W. Schlag
 * [Lecture Notes: Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf) - Brad Osgood
 * [Fourier Analysis](http://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf) - Lucas Illing
+* [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/~jos/mdft) - Julius O. Smith III (Stanford University)
 
 ### Complex Analysis
 
