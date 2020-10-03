@@ -245,6 +245,7 @@ A curated list of awesome mathematics resources.
 * [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (1911)
 * [Algebra: An Elementary Text-Book, Part I](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf) - G. Chrystal (1904)
 * [Algebra: An Elementary Text-Book, Part II](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) - G. Chrystal (1900)
+* [Understanding Algebra](https://jamesbrennan.org/algebra) - James W. Brennan
 
 ### Abstract Algebra
 
