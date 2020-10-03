@@ -246,6 +246,7 @@ A curated list of awesome mathematics resources.
 * [Algebra: An Elementary Text-Book, Part I](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf) - G. Chrystal (1904)
 * [Algebra: An Elementary Text-Book, Part II](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) - G. Chrystal (1900)
 * [Understanding Algebra](https://jamesbrennan.org/algebra) - James W. Brennan
+* [College Algebra](https://stitz-zeager.com/szca07042013.pdf) - Carl Stitz, Jeff Zeager
 
 ### Abstract Algebra
 
