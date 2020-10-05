@@ -196,6 +196,7 @@ A curated list of awesome mathematics resources.
 * [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
 * [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Per Martin-Lof
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
+* [Programming in Martin-Lof’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf) - Bengt Nordstrom, Kent Petersson, Jan M. Smith
 
 ### Homotopy Type Theory
 
@@ -244,6 +245,7 @@ A curated list of awesome mathematics resources.
 * [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (1911)
 * [Algebra: An Elementary Text-Book, Part I](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf) - G. Chrystal (1904)
 * [Algebra: An Elementary Text-Book, Part II](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) - G. Chrystal (1900)
+* [Understanding Algebra](https://jamesbrennan.org/algebra) - James W. Brennan
 
 ### Abstract Algebra
 
@@ -394,6 +396,7 @@ A curated list of awesome mathematics resources.
 * [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) - George M. Bergman
 * [Calculus Made Easy](http://calculusmadeeasy.org/) - Silvanus P. Thompson (1910)
 * [Elements of Differential and Integral Calculus](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (1911)
+* [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) - Carl Stitz, Jeff Zeager
 
 ### Harmonic Analysis
 
@@ -401,6 +404,7 @@ A curated list of awesome mathematics resources.
 * [Harmonic Analysis](http://www.math.uchicago.edu/~schlag/harmonicnotes.pdf) - W. Schlag
 * [Lecture Notes: Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf) - Brad Osgood
 * [Fourier Analysis](http://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf) - Lucas Illing
+* [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/~jos/mdft) - Julius O. Smith III (Stanford University)
 
 ### Complex Analysis
 
