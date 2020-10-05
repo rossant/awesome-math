@@ -35,6 +35,7 @@ A curated list of awesome mathematics resources.
         * [Ring Theory](#ring-theory)
         * [Galois Theory](#galois-theory)
         * [Lie Algebras](#lie-algebras)
+        * [Algebraic Statistics](#algebraic_statistics)
     * [Combinatorics](#combinatorics)
         * [Graph Theory](#graph-theory)
     * [Geometry and Topology](#geometry-and-topology)
@@ -300,6 +301,11 @@ A curated list of awesome mathematics resources.
 ### Lie Algebras
 
 * [Lie Algebras](http://www.math.harvard.edu/~shlomo/docs/lie_algebras.pdf) - Shlomo Sternberg
+
+### Algebraic Statistics
+* [Algebraic Statistics](https://bookstore.ams.org/gsm-194/) - Seth Sullivant
+* [Lectures on Algebraic Statistics](https://math.berkeley.edu/~bernd/owl.pdf) - Mathias Drton, Bernd Sturmfels, Seth Sullivant
+* [Algebraic Statistics with Tensors](https://www.springer.com/gp/book/9783030246235) - Bocci, Cristiano, Chiantini, Luca 
 
 ## Combinatorics
 
