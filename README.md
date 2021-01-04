@@ -19,7 +19,7 @@ A curated list of awesome mathematics resources.
     * [Misc](#misc)
 * [Lecture Notes](#lecture-notes)
     * [Foundations of Mathematics](#foundations-of-mathematics)
-        * [Transition To Pure Rigour Math](transition-to-pure-rigour-math)
+        * [Transition To Pure Rigour Math](#transition-to-pure-rigour-math)
         * [Set Theory](#set-theory)
         * [Logic](#logic)
         * [Category Theory](#category-theory)
