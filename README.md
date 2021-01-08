@@ -557,9 +557,8 @@ A curated list of awesome mathematics resources.
 * [Mechanism of the Heavens (1831)](http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
 
 # Students Lecture Notes
-**(Aggregated List of Many Math Subjects)**
-* [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT
-* [Dexter Chua](https://dec41.user.srcf.net/notes/) - Harvard
+* [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT. 2012 ~ 2018. Covers Combinatorics, Number Theory, Honors Algebra, Set Theory, Real Analysis, Graph Theory, and more.
+* [Dexter Chua](https://dec41.user.srcf.net/notes/) - Harvard. 2013 ~ 2018. Covers Analysis, Probability, Linear Algebra, Complex Analysis, Numerical Analysis, Statistics, Optimization, Algebraic Topology, Quantum Field Theory, and more.
 
 # License
 
