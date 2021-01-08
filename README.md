@@ -61,6 +61,7 @@ A curated list of awesome mathematics resources.
     * [Mathematics for Computer Science](#mathematics-for-computer-science)
     * [Mathematical Biology](#mathematical-biology)
     * [Mathematical Physics](#mathematical-physics)
+* [Students Lecture Notes](#students-lecture-notes)
 * [License](#license)
 
 <!-- END_TOC -->
@@ -554,6 +555,11 @@ A curated list of awesome mathematics resources.
 * [Introduction to Continuum Mechanics](http://oaktrust.library.tamu.edu/handle/1969.1/2501) - Ray. M. Bowen
 * [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) - James Nearing
 * [Mechanism of the Heavens (1831)](http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
+
+# Students Lecture Notes
+**(Aggregated List of Many Math Subjects)**
+* [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT
+* [Dexter Chua](https://dec41.user.srcf.net/notes/) - Harvard
 
 # License
 
