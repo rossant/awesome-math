@@ -110,6 +110,7 @@ A curated list of awesome mathematics resources.
 * [Maple](https://www.maplesoft.com/products/Maple/)
 * [Matlab](https://www.mathworks.com/products/matlab.html)
 * [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
+* [Free Math](https://freemathapp.org)
 
 ## Questions and Answers
 
