@@ -99,6 +99,7 @@ A curated list of awesome mathematics resources.
 * [Desmos](https://www.desmos.com/calculator)
 * [Math Words](http://www.mathwords.com/)
 * [Wolfram Alpha](http://www.wolframalpha.com/)
+* [Maxima](https://maxima.sourceforge.io/)
 * [Sympy](https://www.sympy.org/)
 * [Sagemath](http://www.sagemath.org/)
 * [Unit Converter](https://unitconverter.net)
