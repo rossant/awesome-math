@@ -424,7 +424,7 @@ A curated list of awesome mathematics resources.
 * [Complex Variables](http://people.math.sc.edu/girardi/m7034/book/AshComplexVariablesWithHyperlinks.pdf) - R. B. Ash, W.P. Novinger
 * [Complex Analysis](http://www.maths.lth.se/matematiklu/personal/olofsson/CompHT06.pdf) - Christer Bennewitz
 * [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
-* [A Concise Course in Complex Analysis and Riemann Surfaces](http://www.math.uchicago.edu/~schlag/bookweb.pdf) - Wilhelm Schlag
+* [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) - Wilhelm Schlag
 * [Complex Analysis](http://people.math.gatech.edu/%7Ecain/winter99/complex.html) - G. Cain (Georgia Tech)
 * [Complex Analysis](https://complex-analysis.com/) - Juan Carlos Ponce Campuzano
 
