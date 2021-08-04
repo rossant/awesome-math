@@ -78,6 +78,7 @@ A curated list of awesome mathematics resources.
 * [WooTube](https://misterwootube.com/)
 * [Mathigon](https://mathigon.org/)
 * [Calculus.org](http://calculus.org/)
+* [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio State University)
 
 ## Learn to Learn
 
@@ -127,7 +128,6 @@ A curated list of awesome mathematics resources.
 
 ## Books
 
-* [MOOCulus](https://ximera.osu.edu/mooculus) (Ohio State University)
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
 * [Multivariable Calculus](http://people.math.gatech.edu/%7Ecain/notes/calculus.html) - G. Cain, J. Herod (Georgia Tech)
