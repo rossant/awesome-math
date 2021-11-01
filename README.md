@@ -226,7 +226,6 @@ A curated list of awesome mathematics resources.
 * [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
 * [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
 * [Yet Another Introductary Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
-* [Elementary Number Theory](https://napocaro.files.wordpress.com/2015/02/david_m-_burton_elementary_number_theory_sixth_bookfi-org.pdf) - David M. Burton
 
 ### Algebraic Number Theory
 
@@ -279,9 +278,7 @@ A curated list of awesome mathematics resources.
 * [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
-* [Linear Algebra](http://www.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) - Peter Petersen
 * [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
-* [Linear Algebra](http://joshua.smcvt.edu/linalg.html) - Jim Hefferon
 * [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
