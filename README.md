@@ -134,7 +134,7 @@ A curated list of awesome mathematics resources.
 * [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 * [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
-* [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#mathematics)
+* [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 * [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 
 ## Blogs
