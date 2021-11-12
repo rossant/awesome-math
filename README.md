@@ -79,6 +79,7 @@ A curated list of awesome mathematics resources.
 * [Mathigon](https://mathigon.org/)
 * [Calculus.org](http://calculus.org/)
 * [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio State University)
+* [Dzdx.xyz](https://www.dzdx.xyz/)
 
 ## Learn to Learn
 
