@@ -103,7 +103,7 @@ A curated list of awesome mathematics resources.
 * [Maxima](https://maxima.sourceforge.io/)
 * [Sympy](https://www.sympy.org/)
 * [Sagemath](http://www.sagemath.org/)
-* [Unit Converter](https://unitconverter.net)
+* [Unit Converter](https://unitconverters.net)
 * [GeoGebra](https://www.geogebra.org/?lang=en)
 * [Macaulay2](http://www2.macaulay2.com/Macaulay2/)
 * [Singular](https://www.singular.uni-kl.de/)
