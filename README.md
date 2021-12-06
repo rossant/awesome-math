@@ -115,6 +115,7 @@ A curated list of awesome mathematics resources.
 * [Matlab](https://www.mathworks.com/products/matlab.html)
 * [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 * [Free Math](https://freemathapp.org)
+* [xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
 
 ## Questions and Answers
 
