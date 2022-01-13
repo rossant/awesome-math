@@ -156,6 +156,8 @@ A curated list of awesome mathematics resources.
 * [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (1917)
 * [Magic Squares and Cubes](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) - W. S. Andrews (1917)
 * [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - Stephen Boyd and Lieven Vandenberghe
+* [Math_Notepad](http://mathnotepad.com/) - Jos de Jong (mathjs)
+
 
 # Lecture Notes
 
