@@ -80,6 +80,7 @@ A curated list of awesome mathematics resources.
 * [Calculus.org](http://calculus.org/)
 * [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio State University)
 * [Dzdx.xyz](https://www.dzdx.xyz/)
+* [Almost Fun](https://www.almostfun.org/lessons/)
 
 ## Learn to Learn
 
