@@ -15,6 +15,7 @@ A curated list of awesome mathematics resources.
     * [Questions and Answers](#questions-and-answers)
     * [Encyclopedia](#encyclopedia)
     * [Books](#books)
+    * [Magazines](#magazines)
     * [Blogs](#blogs)
     * [Misc](#misc)
 * [Lecture Notes](#lecture-notes)
@@ -140,6 +141,15 @@ A curated list of awesome mathematics resources.
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
 * [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 * [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
+
+## Magazines
+
+* [Quanta Magazine](https://www.quantamagazine.org/mathematics/) - Features latest research breakthroughs in an accessible style for non-experts. 
+* [Bulletin of the American Mathematical Society](https://www.ams.org/journals/bull/all_issues.html) - Expository articles on contemporary mathematical research, written in a way that gives insight to mathematicians who may not be experts in the particular topic.
+* [Notices of the American Mathematical Society](http://www.ams.org/cgi-bin/notices/amsnotices.pl?article_id=fullissue&article_type=gallery&gallery_type=fullissue) - Publicizes activities of the Society and features surveys, reports, news, announcements, and opinions on industry trends, academia, and research.
+* [European Mathematical Society Magazine](https://euromathsoc.org/magazine) - The Magazine features announcements about meetings and conferences, articles outlining current trends in scientific development, reports on member societies, and many other informational items.
+* [Mathematics Today by Institute of Mathematics and its Applications](https://ima.org.uk/publications/mathematics-today/) - News, opinions, and articles related to mathematics, so the reader stays updated.
+* [Crux Mathematicorum by Canadian Mathematical Society](https://cms.math.ca/publications/crux/) - source of unique and challenging mathematical problems designed for the secondary and undergraduate levels. It includes an Olympiad Corner which is helpful for math competitions.
 
 ## Blogs
 
