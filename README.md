@@ -8,6 +8,7 @@ A curated list of awesome mathematics resources.
 
 * [Contents](#contents)
 * [General Resources](#general-resources)
+    * [Magazines](#magazines)
     * [Learning Platforms](#learning-platforms)
     * [Learn to Learn](#learn-to-learn)
     * [Youtube Series](#youtube-series)
@@ -67,6 +68,16 @@ A curated list of awesome mathematics resources.
 <!-- END_TOC -->
 
 # General Resources
+
+## Magazines
+
+* [Bulletin of the American Mathematical Society](https://www.ams.org/journals/bull/all_issues.html) - Expository articles on contemporary mathematical research, written in a way that gives insight to mathematicians who may not be experts in the particular topic.
+* [Notices of the American Mathematical Society](http://www.ams.org/cgi-bin/notices/amsnotices.pl?article_id=fullissue&article_type=gallery&gallery_type=fullissue) - Publicizes activities of the Society and features surveys, reports, news, announcements, and opinions on industry trends, academia, and research.
+* [European Mathematical Society Magazine](https://euromathsoc.org/magazine) - The Magazine features announcements about meetings and conferences, articles outlining current trends in scientific development, reports on member societies, and many other informational items.
+* [Mathematics Today by Institute of Mathematics and its Applications](https://ima.org.uk/publications/mathematics-today/) - News, opinions, and articles related to mathematics, so the reader stays updated.
+* [Crux Mathematicorum by Canadian Mathemtaical Society](https://cms.math.ca/publications/crux/) - source of unique and challenging mathematical problems designed for the secondary and undergraduate levels. It includes an Olympiad Corner which is helpful for math competitions.
+
+
 
 ## Learning Platforms
 
