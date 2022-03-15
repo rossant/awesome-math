@@ -96,7 +96,8 @@ A curated list of awesome mathematics resources.
 * [Crash Course](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 * [Harvard](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 * [MIT](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
-* [Mathologer](https://www.youtube.com/c/Mathologer) 
+* [Mathologer](https://www.youtube.com/c/Mathologer)
+* [The Math District](https://www.youtube.com/TheMathDistrict)
 
 ## Tools
 
