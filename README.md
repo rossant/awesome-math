@@ -63,6 +63,7 @@ A curated list of awesome mathematics resources.
     * [Mathematical Biology](#mathematical-biology)
     * [Mathematical Physics](#mathematical-physics)
 * [Students Lecture Notes](#students-lecture-notes)
+* [Related Awesome Lists](#related-awesome-lists)
 * [License](#license)
 
 <!-- END_TOC -->
@@ -579,6 +580,9 @@ A curated list of awesome mathematics resources.
 # Students Lecture Notes
 * [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT. 2012 ~ 2018. Covers Combinatorics, Number Theory, Honors Algebra, Set Theory, Real Analysis, Graph Theory, and more.
 * [Dexter Chua](https://dec41.user.srcf.net/notes/) - Harvard. 2013 ~ 2018. Covers Analysis, Probability, Linear Algebra, Complex Analysis, Numerical Analysis, Statistics, Optimization, Algebraic Topology, Quantum Field Theory, and more.
+
+# Related Awesome Lists
+* [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 # License
 
