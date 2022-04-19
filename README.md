@@ -83,6 +83,7 @@ A curated list of awesome mathematics resources.
 * [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio State University)
 * [Dzdx.xyz](https://www.dzdx.xyz/)
 * [Almost Fun](https://www.almostfun.org/lessons/)
+* [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics)
 
 ## Learn to Learn
 
@@ -99,6 +100,7 @@ A curated list of awesome mathematics resources.
 * [MIT](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 * [Mathologer](https://www.youtube.com/c/Mathologer)
 * [The Math District](https://www.youtube.com/TheMathDistrict)
+* [Mathematical Monk](https://www.youtube.com/user/mathematicalmonk)
 
 ## Tools
 
