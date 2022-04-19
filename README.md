@@ -101,7 +101,6 @@ A curated list of awesome mathematics resources.
 * [Mathologer](https://www.youtube.com/c/Mathologer)
 * [The Math District](https://www.youtube.com/TheMathDistrict)
 * [Mathematical Monk](https://www.youtube.com/user/mathematicalmonk)
-* 
 
 ## Tools
 
