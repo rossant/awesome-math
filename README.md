@@ -122,6 +122,7 @@ A curated list of awesome mathematics resources.
 * [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 * [Free Math](https://freemathapp.org)
 * [xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
+* [CopyPasteMathjax](https://www.copypastemathjax.com/)
 
 ## Questions and Answers
 
