@@ -91,16 +91,16 @@ A curated list of awesome mathematics resources.
 
 ## Youtube Series
 
-* [Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists?view=1&sort=da&flow=grid)
-* [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
-* [NPTEL](https://www.youtube.com/watch?v=VVYLpmKRfQ8&list=PL6C92B335BD4238AB)
-* [Prof. Leonard](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0)
-* [Crash Course](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
-* [Harvard](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-* [MIT](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
-* [Mathologer](https://www.youtube.com/c/Mathologer)
-* [The Math District](https://www.youtube.com/TheMathDistrict)
-* [Mathematical Monk](https://www.youtube.com/user/mathematicalmonk)
+* [Brandon Foltz](https://www.youtube.com/@BrandonFoltz)
+* [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+* [NPTEL](https://www.youtube.com/@iit)
+* [Profesor Leonard](https://www.youtube.com/@ProfessorLeonard)
+* [Crash Course](https://www.youtube.com/@crashcourse)
+* [Harvard](https://www.youtube.com/@harvard)
+* [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
+* [Mathologer](https://www.youtube.com/@Mathologer)
+* [The Math District](https://www.youtube.com/@TheMathDistrict)
+* [Mathematical Monk](https://www.youtube.com/@mathematicalmonk)
 
 ## Tools
 
