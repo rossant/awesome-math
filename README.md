@@ -95,7 +95,7 @@ A curated list of awesome mathematics resources.
 * [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 * [NPTEL](https://www.youtube.com/@iit)
 * [PatrickJMT](https://www.youtube.com/@patrickjmt)
-* [Profesor Leonard](https://www.youtube.com/@ProfessorLeonard)
+* [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
   * [Precalculus - College Algebra/Trigonometry](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP)
   * [Calculus 1](https://www.youtube.com/playlist?list=PLF797E961509B4EB5)
   * [Calculus 2](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
