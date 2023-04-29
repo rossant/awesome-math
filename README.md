@@ -92,6 +92,7 @@ A curated list of awesome mathematics resources.
 ## Youtube Series
 
 * [Brandon Foltz](https://www.youtube.com/@BrandonFoltz)
+* [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 * [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 * [NPTEL](https://www.youtube.com/@iit)
 * [PatrickJMT](https://www.youtube.com/@patrickjmt)
