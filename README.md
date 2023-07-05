@@ -143,6 +143,7 @@ A curated list of awesome mathematics resources.
 * [Planetmath](http://planetmath.org/)
 * [ProofWiki](https://proofwiki.org/wiki/Main_Page)
 * [Wolfram Mathworld](http://mathworld.wolfram.com/)
+* [The On-Line Encyclopedia of Integer Sequences](https://oeis.org) - Great compendium of many different integer sequences. Founded 1964 by N. J. A. Sloane.
 
 ## Books
 
