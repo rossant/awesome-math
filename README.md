@@ -42,6 +42,7 @@ A curated list of awesome mathematics resources.
     * [Geometry and Topology](#geometry-and-topology)
         * [Differential Geometry](#differential-geometry)
         * [Algebraic Geometry](#algebraic-geometry)
+        * [Algebraic Statistics](#algebraic-statistics)
         * [Topology](#topology)
         * [Algebraic Topology](#algebraic-topology)
     * [Analysis](#analysis)
@@ -381,6 +382,12 @@ A curated list of awesome mathematics resources.
 * [Algebraic Geometry](http://www.jmilne.org/math/CourseNotes/AG.pdf) - J.S. Milne
 * [Algebraic Geometry](http://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/main.pdf) - Andreas Gathmann (University of Kaiserslautern)
 * [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (Columbia)
+
+### Algebraic Statistics
+* [Lectures on Algebraic Statistics](https://math.berkeley.edu/~bernd/owl.pdf) - Mathias Drton, Bernd Sturmfels, Seth Sullivant
+* [An Introduction to Algebraic Statistics](https://www3.diism.unisi.it/~chiantini/did/00Book.pdf) - Cristiano Bocci, Luca Chiantini and Anthony V. Geramita
+* [Algebraic Statistics](https://tore.tuhh.de/dspace-cris-server/api/core/bitstreams/a0c378d5-ce8e-442a-8891-9e7f763b4279/content) - Karl-Heinz Zimmermann
+* [Algebraic Statistics for Computational Biology](http://yaroslavvb.com/papers/pachter-algebraic.pdf) - Pachter, and Sturmfels.
 
 ### Topology
 
