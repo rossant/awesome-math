@@ -171,7 +171,7 @@ A curated list of awesome mathematics resources.
 * [BetterExplained](https://betterexplained.com/) - Maintained by Kalid Azad
 * [ILoveMaths](http://ilovemaths.com/) - For grades 6 thru 12 in K-12 system
 * [3blue1brown](https://www.3blue1brown.com/) - Animated Maths
-* [Mathsisfun](https://www.mathsisfun.com) simple text light weight site for students upto highschool
+* [Mathsisfun](https://www.mathsisfun.com) simple text lightweight site for students up to highschool
 * [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev (Professor of mathematics at Marshall University, Huntington WV, USA)
 
 ## Misc
@@ -255,7 +255,7 @@ A curated list of awesome mathematics resources.
 * [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
 * [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
 * [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
-* [Yet Another Introductary Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
+* [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
 
 ### Algebraic Number Theory
 
