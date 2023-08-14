@@ -80,6 +80,7 @@ A curated list of awesome mathematics resources.
 * [Brilliant](https://brilliant.org/courses/#math-foundational)
 * [WooTube](https://misterwootube.com/)
 * [Mathigon](https://mathigon.org/)
+* [Synthical](https://synthical.com)
 * [Calculus.org](http://calculus.org/)
 * [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio State University)
 * [MathRelay](https://www.mathrelay.com/)
