@@ -575,6 +575,7 @@ A curated list of awesome mathematics resources.
 * [An Introduction to Statistical Signal Processing](https://ee.stanford.edu/~gray/sp.pdf) - Robert M. Gray, Lee D. Davisson
 * [Think DSP](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey
 * [Linear algebra, signal processing, and wavelets. A unified approach.](https://www.uio.no/studier/emner/matnat/math/MAT-INF2360/v15/kompendium/applinalgpython.pdf) - Øyvind Ryan (University of Oslo)
+* [STFT and Laplace Transform for the Visualization of Filtered Signal](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform) - Guillaume Chevalier (University Laval)
 
 
 ## Mathematics for Computer Science
