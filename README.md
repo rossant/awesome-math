@@ -15,6 +15,7 @@ A curated list of awesome mathematics resources.
     * [Questions and Answers](#questions-and-answers)
     * [Encyclopedia](#encyclopedia)
     * [Books](#books)
+    * [Magazines](#magazines)
     * [Blogs](#blogs)
     * [Misc](#misc)
 * [Lecture Notes](#lecture-notes)
@@ -41,6 +42,7 @@ A curated list of awesome mathematics resources.
     * [Geometry and Topology](#geometry-and-topology)
         * [Differential Geometry](#differential-geometry)
         * [Algebraic Geometry](#algebraic-geometry)
+        * [Algebraic Statistics](#algebraic-statistics)
         * [Topology](#topology)
         * [Algebraic Topology](#algebraic-topology)
     * [Analysis](#analysis)
@@ -62,6 +64,7 @@ A curated list of awesome mathematics resources.
     * [Mathematical Biology](#mathematical-biology)
     * [Mathematical Physics](#mathematical-physics)
 * [Students Lecture Notes](#students-lecture-notes)
+* [Related Awesome Lists](#related-awesome-lists)
 * [License](#license)
 
 <!-- END_TOC -->
@@ -78,6 +81,10 @@ A curated list of awesome mathematics resources.
 * [WooTube](https://misterwootube.com/)
 * [Mathigon](https://mathigon.org/)
 * [Calculus.org](http://calculus.org/)
+* [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio State University)
+* [MathRelay](https://www.mathrelay.com/)
+* [Almost Fun](https://www.almostfun.org/lessons/)
+* [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics)
 
 ## Learn to Learn
 
@@ -85,13 +92,24 @@ A curated list of awesome mathematics resources.
 
 ## Youtube Series
 
-* [Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists?view=1&sort=da&flow=grid)
-* [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
-* [NPTEL](https://www.youtube.com/watch?v=VVYLpmKRfQ8&list=PL6C92B335BD4238AB)
-* [Prof. Leonard](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0)
-* [Crash Course](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
-* [Harvard](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-* [MIT](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+* [Brandon Foltz](https://www.youtube.com/@BrandonFoltz)
+* [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+* [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+* [NPTEL](https://www.youtube.com/@iit)
+* [PatrickJMT](https://www.youtube.com/@patrickjmt)
+* [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
+  * [Precalculus - College Algebra/Trigonometry](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP)
+  * [Calculus 1](https://www.youtube.com/playlist?list=PLF797E961509B4EB5)
+  * [Calculus 2](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
+  * [Calculus 3](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
+  * [Differential Equations](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
+  * [To The Point Math](https://www.youtube.com/playlist?list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN)
+* [Crash Course](https://www.youtube.com/@crashcourse)
+* [Harvard](https://www.youtube.com/@harvard)
+* [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
+* [Mathologer](https://www.youtube.com/@Mathologer)
+* [The Math District](https://www.youtube.com/@TheMathDistrict)
+* [Mathematical Monk](https://www.youtube.com/@mathematicalmonk)
 
 ## Tools
 
@@ -102,7 +120,7 @@ A curated list of awesome mathematics resources.
 * [Maxima](https://maxima.sourceforge.io/)
 * [Sympy](https://www.sympy.org/)
 * [Sagemath](http://www.sagemath.org/)
-* [Unit Converter](https://unitconverter.net)
+* [Unit Converter](https://unitconverters.net)
 * [GeoGebra](https://www.geogebra.org/?lang=en)
 * [Macaulay2](http://www2.macaulay2.com/Macaulay2/)
 * [Singular](https://www.singular.uni-kl.de/)
@@ -112,6 +130,8 @@ A curated list of awesome mathematics resources.
 * [Matlab](https://www.mathworks.com/products/matlab.html)
 * [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 * [Free Math](https://freemathapp.org)
+* [xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
+* [CopyPasteMathjax](https://www.copypastemathjax.com/)
 
 ## Questions and Answers
 
@@ -124,6 +144,7 @@ A curated list of awesome mathematics resources.
 * [Planetmath](http://planetmath.org/)
 * [ProofWiki](https://proofwiki.org/wiki/Main_Page)
 * [Wolfram Mathworld](http://mathworld.wolfram.com/)
+* [The On-Line Encyclopedia of Integer Sequences](https://oeis.org) - Great compendium of many different integer sequences. Founded 1964 by N. J. A. Sloane.
 
 ## Books
 
@@ -133,15 +154,24 @@ A curated list of awesome mathematics resources.
 * [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 * [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
-* [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#mathematics)
+* [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 * [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
+
+## Magazines
+
+* [Quanta Magazine](https://www.quantamagazine.org/mathematics/) - Features latest research breakthroughs in an accessible style for non-experts. 
+* [Bulletin of the American Mathematical Society](https://www.ams.org/journals/bull/all_issues.html) - Expository articles on contemporary mathematical research, written in a way that gives insight to mathematicians who may not be experts in the particular topic.
+* [Notices of the American Mathematical Society](http://www.ams.org/cgi-bin/notices/amsnotices.pl?article_id=fullissue&article_type=gallery&gallery_type=fullissue) - Publicizes activities of the Society and features surveys, reports, news, announcements, and opinions on industry trends, academia, and research.
+* [European Mathematical Society Magazine](https://euromathsoc.org/magazine) - The Magazine features announcements about meetings and conferences, articles outlining current trends in scientific development, reports on member societies, and many other informational items.
+* [Mathematics Today by Institute of Mathematics and its Applications](https://ima.org.uk/publications/mathematics-today/) - News, opinions, and articles related to mathematics, so the reader stays updated.
+* [Crux Mathematicorum by Canadian Mathematical Society](https://cms.math.ca/publications/crux/) - source of unique and challenging mathematical problems designed for the secondary and undergraduate levels. It includes an Olympiad Corner which is helpful for math competitions.
 
 ## Blogs
 
 * [BetterExplained](https://betterexplained.com/) - Maintained by Kalid Azad
 * [ILoveMaths](http://ilovemaths.com/) - For grades 6 thru 12 in K-12 system
 * [3blue1brown](https://www.3blue1brown.com/) - Animated Maths
-* [Mathsisfun](https://www.mathsisfun.com) simple text light weight site for students upto highschool
+* [Mathsisfun](https://www.mathsisfun.com) simple text lightweight site for students up to highschool
 * [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev (Professor of mathematics at Marshall University, Huntington WV, USA)
 
 ## Misc
@@ -152,6 +182,7 @@ A curated list of awesome mathematics resources.
 * [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (1917)
 * [Magic Squares and Cubes](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) - W. S. Andrews (1917)
 * [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - Stephen Boyd and Lieven Vandenberghe
+* [Fabrice Baudoin's Notes](https://fabricebaudoin.wordpress.com/) - Both research and lecture notes on many topics, Including Diffusions on foliated manifold, Stochastic Calculus, Global analysis in Dirichlet spaces, and more.
 
 # Lecture Notes
 
@@ -172,6 +203,7 @@ A curated list of awesome mathematics resources.
 * [Introduction to Logic](https://pdfs.semanticscholar.org/6967/f52773d9c2ccfc94658657a5761e0f00e95a.pdf) - Michael Genesereth, Eric Kao (Stanford University)
 * [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) - P.D. Magnus (University at Albany)
 * [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (Trent University)
+* [Computability - An introduction to recursive function theory](http://poincare.matf.bg.ac.rs/~zarkom/Book_Math__Cutland_Computability.pdf) - Nigel Cutland (University of Hull)
 * [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) - Jon Barwise, John Etchemendy
 * [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
 * [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
@@ -211,7 +243,6 @@ A curated list of awesome mathematics resources.
 ### Surreal Numbers
 
 * [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) - D. E. Knuth
-* [An Introduction to Surreal Numbers](https://www.whitman.edu/Documents/Academics/Mathematics/Grimm.pdf) - Gretchen Grimm
 * [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
 * [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) - Philip Ehrlich
 
@@ -224,8 +255,7 @@ A curated list of awesome mathematics resources.
 * [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
 * [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
 * [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
-* [Yet Another Introductary Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
-* [Elementary Number Theory](https://napocaro.files.wordpress.com/2015/02/david_m-_burton_elementary_number_theory_sixth_bookfi-org.pdf) - David M. Burton
+* [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
 
 ### Algebraic Number Theory
 
@@ -278,9 +308,7 @@ A curated list of awesome mathematics resources.
 * [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
-* [Linear Algebra](http://www.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) - Peter Petersen
 * [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
-* [Linear Algebra](http://joshua.smcvt.edu/linalg.html) - Jim Hefferon
 * [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
@@ -343,16 +371,23 @@ A curated list of awesome mathematics resources.
 * [An Introduction to Riemannian Geometry](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf) - Sigmundur Gudmundsson (Lund University)
 * [The Geometry and Topology of Three-Manifolds](http://msri.org/publications/books/gt3m/) - W. Thurston
 * [Semi-Riemann Geometry and General Relativity](http://www.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) - Shlomo Sternberg
+* [Discrete Differential Geometry](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) - Keenan Crane
 
 ### Algebraic Geometry
 
-* [A Brief Introduction to Algebraic Geometry](http://www.sci.ccny.cuny.edu/~ksda/PostedPapers/rickksda1107.pdf) - R.C. Churchill
+* [A Brief Introduction to Algebraic Geometry](https://ksda.ccny.cuny.edu/PostedPapers/rickksda1107.pdf) - R.C. Churchill
 * [Introduction to Algebraic Geometry](http://www.math.lsa.umich.edu/~idolga/631.pdf) - Igor V. Dolgachev
 * [Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf) - Ravi Vakil
 * [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (University of Pennsylvania)
 * [Algebraic Geometry](http://www.jmilne.org/math/CourseNotes/AG.pdf) - J.S. Milne
 * [Algebraic Geometry](http://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/main.pdf) - Andreas Gathmann (University of Kaiserslautern)
 * [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (Columbia)
+
+### Algebraic Statistics
+* [Lectures on Algebraic Statistics](https://math.berkeley.edu/~bernd/owl.pdf) - Mathias Drton, Bernd Sturmfels, Seth Sullivant
+* [An Introduction to Algebraic Statistics](https://www3.diism.unisi.it/~chiantini/did/00Book.pdf) - Cristiano Bocci, Luca Chiantini and Anthony V. Geramita
+* [Algebraic Statistics](https://tore.tuhh.de/dspace-cris-server/api/core/bitstreams/a0c378d5-ce8e-442a-8891-9e7f763b4279/content) - Karl-Heinz Zimmermann
+* [Algebraic Statistics for Computational Biology](http://yaroslavvb.com/papers/pachter-algebraic.pdf) - Pachter, and Sturmfels.
 
 ### Topology
 
@@ -424,7 +459,7 @@ A curated list of awesome mathematics resources.
 * [Complex Variables](http://people.math.sc.edu/girardi/m7034/book/AshComplexVariablesWithHyperlinks.pdf) - R. B. Ash, W.P. Novinger
 * [Complex Analysis](http://www.maths.lth.se/matematiklu/personal/olofsson/CompHT06.pdf) - Christer Bennewitz
 * [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
-* [A Concise Course in Complex Analysis and Riemann Surfaces](http://www.math.uchicago.edu/~schlag/bookweb.pdf) - Wilhelm Schlag
+* [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) - Wilhelm Schlag
 * [Complex Analysis](http://people.math.gatech.edu/%7Ecain/winter99/complex.html) - G. Cain (Georgia Tech)
 * [Complex Analysis](https://complex-analysis.com/) - Juan Carlos Ponce Campuzano
 
@@ -441,7 +476,7 @@ A curated list of awesome mathematics resources.
 
 ### Measure Theory
 
-* [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) - Terence Tao (UCLA)
+* [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf) - Terence Tao (UCLA)
 * [Lecture Notes on Measure Theory and Functional Analysis](http://www.mat.uniroma2.it/~cannarsa/cam_0607.pdf) - P. Cannarsa, T. D’Aprile
 * [Lecture Notes in Measure Theory](http://www.math.chalmers.se/~borell/MeasureTheory.pdf) - Christer Borell
 * [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng
@@ -525,12 +560,12 @@ A curated list of awesome mathematics resources.
 
 ## Numerical Analysis
 
-* [Introduction to Numerical Analysis](http://www.math.umd.edu/~dlevy/books/na.pdf) - Doron Levy (University of Maryland)
+* [Introduction to Numerical Analysis](http://www.math.umd.edu/~dlevy/resources/notes.pdf) - Doron Levy (University of Maryland)
 * [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) - Douglas N. Arnold (University of Minnesota)
 * [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
 * [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) - J. M. McDonough (University of Kentucky)
 * [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
-* [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/) - Douglas Wilhelm Harder
+* [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/nm/) - Douglas Wilhelm Harder
 
 
 ## Signal processing
@@ -563,6 +598,9 @@ A curated list of awesome mathematics resources.
 # Students Lecture Notes
 * [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT. 2012 ~ 2018. Covers Combinatorics, Number Theory, Honors Algebra, Set Theory, Real Analysis, Graph Theory, and more.
 * [Dexter Chua](https://dec41.user.srcf.net/notes/) - Harvard. 2013 ~ 2018. Covers Analysis, Probability, Linear Algebra, Complex Analysis, Numerical Analysis, Statistics, Optimization, Algebraic Topology, Quantum Field Theory, and more.
+
+# Related Awesome Lists
+* [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 # License
 
