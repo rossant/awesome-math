@@ -319,6 +319,7 @@ A curated list of awesome mathematics resources.
 * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff
 * [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
+* [MIT Linear Algebra](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) -Gilbert Strang
 
 ### Ring Theory
 
@@ -439,6 +440,7 @@ A curated list of awesome mathematics resources.
 * [Calculus Made Easy](http://calculusmadeeasy.org/) - Silvanus P. Thompson (1910)
 * [Elements of Differential and Integral Calculus](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (1911)
 * [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) - Carl Stitz, Jeff Zeager
+* [NPTEL Real Analysis](https://www.youtube.com/playlist?list=PLbMVogVj5nJSxFihV-ec4A3z_FOGPRCo-) - Prof. S.H. Kulkarni
 
 ### Harmonic Analysis
 
@@ -517,6 +519,7 @@ A curated list of awesome mathematics resources.
 * [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen
 * [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - Gian-Carlo Rota, Kenneth Baclawski
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan
+* [6.041 Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8) - John Tsitsiklis(MIT)
 
 ### Statistics
 
@@ -537,6 +540,9 @@ A curated list of awesome mathematics resources.
 * [Seeing Theory](https://seeing-theory.brown.edu/) - Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang
 * [Statistics Done Wrong](https://www.statisticsdonewrong.com/) - Alex Reinhart
 * [All of Statistics: A Concise Course in Statistical Inference](https://link.springer.com/book/10.1007/978-0-387-21736-9) - Larry Wasserman
+* [ Statistics for Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) -Prof. Philippe Rigollet
+* [Statistical Rethinking 2022](https://youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) -Richard Mcelreath
+* [Statistics 110 (Probability)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) - Harvard university course taught by Joe Blitzstein
 
 ### Statistical Learning
 
@@ -557,6 +563,9 @@ A curated list of awesome mathematics resources.
 * [Markov Chains and Mixing Times](http://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) - David A. Levin, Yuval Peres, Elizabeth L. Wilmer
 * [Convergence of Stochastic Processes](http://www.stat.yale.edu/~pollard/Books/1984book/pollard1984.pdf) - David Pollard
 
+### Calculus
+* [MIT Multivariate Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) -Denix Auroux
+* [MIT 18.01 Single Variable Calculus](https://www.youtube.com/playlist?list=PLE2215608E2574180) -Prof. David Jerison
 
 ## Numerical Analysis
 
@@ -584,6 +593,8 @@ A curated list of awesome mathematics resources.
 * [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) - David J. C. MacKay
 * [The Chaos Textbook: Mathematics in the age of the computer](https://hypertextbook.com/chaos/) - Glenn Elert
+* [Convex Optimization ](http://www.youtube.com/view_play_list?p=3940DD956CDF0622) - Professor Stephen Boyd(Stanford University)
+* [MIT 6.042J Mathematics for Computer Science](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) -Instructor(s): Tom Leighton, Marten van Dijk
 
 ## Mathematical Biology
 
