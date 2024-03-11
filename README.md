@@ -87,6 +87,7 @@ All resources are freely available except those with a 💲 icon.
 * [MathRelay](https://www.mathrelay.com/)
 * [Almost Fun](https://www.almostfun.org/lessons/)
 * [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics)
+* [CompSciLib](https://www.compscilib.com/)
 
 ## Learn to Learn
 
