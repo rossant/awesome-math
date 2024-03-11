@@ -18,7 +18,7 @@ A curated list of awesome mathematics resources.
     * [Magazines](#magazines)
     * [Blogs](#blogs)
     * [Misc](#misc)
-* [Lecture Notes](#lecture-notes)
+* [Branches of Mathematics](#branches-of-mathematics)
     * [Foundations of Mathematics](#foundations-of-mathematics)
         * [Transition To Pure Rigour Math](#transition-to-pure-rigour-math)
         * [Set Theory](#set-theory)
@@ -184,7 +184,12 @@ A curated list of awesome mathematics resources.
 * [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - Stephen Boyd and Lieven Vandenberghe
 * [Fabrice Baudoin's Notes](https://fabricebaudoin.wordpress.com/) - Both research and lecture notes on many topics, Including Diffusions on foliated manifold, Stochastic Calculus, Global analysis in Dirichlet spaces, and more.
 
-# Lecture Notes
+# Branches of Mathematics
+
+**Content Format** \
+📖 Books \
+🎥 Videos \
+📝 Lecture notes, slides, articles, papers
 
 ## Foundations of Mathematics
 ### Transition To Pure Rigour Math
