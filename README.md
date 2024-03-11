@@ -205,136 +205,136 @@ A curated list of awesome mathematics resources.
 
 ### Logic
 
-* [Introduction to Logic](https://pdfs.semanticscholar.org/6967/f52773d9c2ccfc94658657a5761e0f00e95a.pdf) - Michael Genesereth, Eric Kao (Stanford University)
-* [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) - P.D. Magnus (University at Albany)
-* [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (Trent University)
-* [Computability - An introduction to recursive function theory](http://poincare.matf.bg.ac.rs/~zarkom/Book_Math__Cutland_Computability.pdf) - Nigel Cutland (University of Hull)
-* [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) - Jon Barwise, John Etchemendy
-* [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
-* [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
-* [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
-* [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) - Edward Nelson
-* [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) - Joy Morris, Dave Morris
-* [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathreasoning) - Ted Sundstrom
-* [Logic and Proof](http://leanprover.github.io/logic_and_proof/) -  Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn
-* [QED - an interactive textbook](https://teorth.github.io/QED) - Terence Tao
-* [Open Logic Textbook](http://builds.openlogicproject.org/) - collaborative effort, main contributors listed [here](https://openlogicproject.org/people/)
+* 📝 [Introduction to Logic](https://pdfs.semanticscholar.org/6967/f52773d9c2ccfc94658657a5761e0f00e95a.pdf) - Michael Genesereth, Eric Kao (Stanford University)
+* 📝 [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) - P.D. Magnus (University at Albany)
+* 📝 [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (Trent University)
+* 📝 [Computability - An introduction to recursive function theory](http://poincare.matf.bg.ac.rs/~zarkom/Book_Math__Cutland_Computability.pdf) - Nigel Cutland (University of Hull)
+* 📝 [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) - Jon Barwise, John Etchemendy
+* 📝 [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
+* 📝 [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
+* 📝 [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
+* 📝 [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) - Edward Nelson
+* 📝 [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) - Joy Morris, Dave Morris
+* 📝 [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathreasoning) - Ted Sundstrom
+* 📝 [Logic and Proof](http://leanprover.github.io/logic_and_proof/) -  Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn
+* 📝 [QED - an interactive textbook](https://teorth.github.io/QED) - Terence Tao
+* 📝 [Open Logic Textbook](http://builds.openlogicproject.org/) - collaborative effort, main contributors listed [here](https://openlogicproject.org/people/)
 
 ### Category Theory
 
-* [Introduction to Category Theory and Categorical Logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) - Thomas Streicher
-* [An Introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) - Harold Simmons
-* [Category Theory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.4754&rep=rep1&type=pdf) - Steve Awodey (Carnegie Mellon University)
-* [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. Pareigis
-* [Category Theory for Computing Science](https://web.archive.org/web/20181221233252/http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - Michael Barr, Charles Wells
-* [Toposes, Triples and Theories](http://www.tac.mta.ca/tac/reprints/articles/12/tr12.pdf) - Michael Barr, Charles Wells
-* [Abelian Categories](http://www.tac.mta.ca/tac/reprints/articles/3/tr3abs.html) - Peter Freyd
-* [Categories and Groupoids](http://www.tac.mta.ca/tac/reprints/articles/7/tr7abs.html) - P. J. Higgins
-* [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html) - G. M. Kelley
-* [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - Jiri Adamek, Horst Herrlich, George Strecker
-* [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak (MIT)
-* [Category Theory in Context](http://www.math.jhu.edu/~eriehl/context/) - Emily Riehl (John Hopkins University)  
+* 📝 [Introduction to Category Theory and Categorical Logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) - Thomas Streicher
+* 📝 [An Introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) - Harold Simmons
+* 📝 [Category Theory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.4754&rep=rep1&type=pdf) - Steve Awodey (Carnegie Mellon University)
+* 📝 [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. Pareigis
+* 📝 [Category Theory for Computing Science](https://web.archive.org/web/20181221233252/http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - Michael Barr, Charles Wells
+* 📝 [Toposes, Triples and Theories](http://www.tac.mta.ca/tac/reprints/articles/12/tr12.pdf) - Michael Barr, Charles Wells
+* 📝 [Abelian Categories](http://www.tac.mta.ca/tac/reprints/articles/3/tr3abs.html) - Peter Freyd
+* 📝 [Categories and Groupoids](http://www.tac.mta.ca/tac/reprints/articles/7/tr7abs.html) - P. J. Higgins
+* 📝 [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html) - G. M. Kelley
+* 📝 [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - Jiri Adamek, Horst Herrlich, George Strecker
+* 📝 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak (MIT)
+* 📝 [Category Theory in Context](http://www.math.jhu.edu/~eriehl/context/) - Emily Riehl (John Hopkins University)  
 
 ### Type Theory
-* [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
-* [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Per Martin-Lof
-* [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
-* [Programming in Martin-Lof’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf) - Bengt Nordstrom, Kent Petersson, Jan M. Smith
+* 📝 [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
+* 📝 [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Per Martin-Lof
+* 📝 [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
+* 📝 [Programming in Martin-Lof’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf) - Bengt Nordstrom, Kent Petersson, Jan M. Smith
 
 ### Homotopy Type Theory
 
-* [Homotopy Type Theory](https://hottheory.files.wordpress.com/2013/03/hott-online-611-ga1a258c.pdf)
+* 📝 [Homotopy Type Theory](https://hottheory.files.wordpress.com/2013/03/hott-online-611-ga1a258c.pdf)
 
 ### Surreal Numbers
 
-* [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) - D. E. Knuth
-* [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
-* [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) - Philip Ehrlich
+* 📝 [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) - D. E. Knuth
+* 📝 [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
+* 📝 [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) - Philip Ehrlich
 
 
 ## Number Theory
 
-* [Elementary Number Theory: Primes, Congruences, and Secrets](http://wstein.org/ent/ent.pdf) - William Stein
-* [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) - W. Edwin Clark (University of South Florida)
-* [A Course on Number Theory](http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf) - Peter J. Cameron
-* [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
-* [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
-* [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
-* [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
+* 📝 [Elementary Number Theory: Primes, Congruences, and Secrets](http://wstein.org/ent/ent.pdf) - William Stein
+* 📝 [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) - W. Edwin Clark (University of South Florida)
+* 📝 [A Course on Number Theory](http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf) - Peter J. Cameron
+* 📝 [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
+* 📝 [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
+* 📝 [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
+* 📝 [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
 
 ### Algebraic Number Theory
 
-* [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf)
-* [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf) - F. Oggier
-* [Algebraic Number Theory](http://www.jmilne.org/math/CourseNotes/ANT.pdf) - J.S. Milne
-* [Algebraic Number Theory Course Notes](http://people.math.gatech.edu/~mbaker/pdf/ANTBook.pdf) - Matthew Baker (Georgia Tech)
-* [A Course In Algebraic Number Theory](http://www.math.uiuc.edu/~r-ash/ANT.html) - Robert Ash
+* 📝 [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf)
+* 📝 [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf) - F. Oggier
+* 📝 [Algebraic Number Theory](http://www.jmilne.org/math/CourseNotes/ANT.pdf) - J.S. Milne
+* 📝 [Algebraic Number Theory Course Notes](http://people.math.gatech.edu/~mbaker/pdf/ANTBook.pdf) - Matthew Baker (Georgia Tech)
+* 📝 [A Course In Algebraic Number Theory](http://www.math.uiuc.edu/~r-ash/ANT.html) - Robert Ash
 
 ### Analytic Number Theory
 
-* [Introduction to Analytic Number Theory](http://www.math.uiuc.edu/~hildebr/ant/main.pdf) - A.J. Hildebrand (University of Illinois)
-* [Elements of Analytic Number Theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (Novosibirsk)
-* [Analytic Number Theory](http://www.mathematik.uni-muenchen.de/~forster/v/ann/annth_all.pdf) - Otto Forster (LMU Munich)
-* [Analytic Number Theory - Lecture Notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Strömbergsson
+* 📝 [Introduction to Analytic Number Theory](http://www.math.uiuc.edu/~hildebr/ant/main.pdf) - A.J. Hildebrand (University of Illinois)
+* 📝 [Elements of Analytic Number Theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (Novosibirsk)
+* 📝 [Analytic Number Theory](http://www.mathematik.uni-muenchen.de/~forster/v/ann/annth_all.pdf) - Otto Forster (LMU Munich)
+* 📝 [Analytic Number Theory - Lecture Notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Strömbergsson
 
 
 ## Algebra
 
-* [A Course in Universal Algebra](http://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html) - S. Burris, H.P. Sankappanavar
-* [A Course in Commutative Algebra](https://faculty.math.illinois.edu/~r-ash/ComAlg.html) - Robert Ash
-* [First Course in Algebra](http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (1910)
-* [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (1911)
-* [Algebra: An Elementary Text-Book, Part I](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf) - G. Chrystal (1904)
-* [Algebra: An Elementary Text-Book, Part II](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) - G. Chrystal (1900)
-* [Understanding Algebra](https://jamesbrennan.org/algebra) - James W. Brennan
+* 📝 [A Course in Universal Algebra](http://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html) - S. Burris, H.P. Sankappanavar
+* 📝 [A Course in Commutative Algebra](https://faculty.math.illinois.edu/~r-ash/ComAlg.html) - Robert Ash
+* 📝 [First Course in Algebra](http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (1910)
+* 📝 [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (1911)
+* 📝 [Algebra: An Elementary Text-Book, Part I](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf) - G. Chrystal (1904)
+* 📝 [Algebra: An Elementary Text-Book, Part II](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) - G. Chrystal (1900)
+* 📝 [Understanding Algebra](https://jamesbrennan.org/algebra) - James W. Brennan
 
 ### Abstract Algebra
 
-* [Introduction to Abstract Algebra](https://zodml.org/sites/default/files/Introduction_to_Abstract_Algebra_0.pdf) - D. S. Malik, John N. Mordeson, M.K. Sen (Creighton University)
-* [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) - David Joyce (Clark University)
-* [Algebraic Methods](http://www1.spms.ntu.edu.sg/~frederique/AA11.pdf) - F. Oggier
-* [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) - Thomas W. Judson, Robert A. Beezer (Austin State University)
-* [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett
-* [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
-* [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - Robert Ash
-* [Abstract Algebra: Harvard Extension (Archived)](https://web.archive.org/web/20150528171650/extension.harvard.edu/open-learning-initiative/abstract-algebra) - Benedict Gross
-* [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - Benedict Gross
+* 📝 [Introduction to Abstract Algebra](https://zodml.org/sites/default/files/Introduction_to_Abstract_Algebra_0.pdf) - D. S. Malik, John N. Mordeson, M.K. Sen (Creighton University)
+* 📝 [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) - David Joyce (Clark University)
+* 📝 [Algebraic Methods](http://www1.spms.ntu.edu.sg/~frederique/AA11.pdf) - F. Oggier
+* 📝 [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) - Thomas W. Judson, Robert A. Beezer (Austin State University)
+* 📝 [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett
+* 📝 [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
+* 📝 [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - Robert Ash
+* 📝 [Abstract Algebra: Harvard Extension (Archived)](https://web.archive.org/web/20150528171650/extension.harvard.edu/open-learning-initiative/abstract-algebra) - Benedict Gross
+* 📝 [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - Benedict Gross
 
 ### Group Theory
 
-* [Notes on Group Theory](https://www2.bc.edu/mark-reeder/Groups.pdf) - Mark Reeder
-* [Group Theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne
-* [Notes on Finite Group Theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - Peter J. Cameron
-* [Group Theory](http://www.cns.gatech.edu/GroupTheory/index.html) - Pedrag Civitanovic
+* 📝 [Notes on Group Theory](https://www2.bc.edu/mark-reeder/Groups.pdf) - Mark Reeder
+* 📝 [Group Theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne
+* 📝 [Notes on Finite Group Theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - Peter J. Cameron
+* 📝 [Group Theory](http://www.cns.gatech.edu/GroupTheory/index.html) - Pedrag Civitanovic
 
 ### Linear Algebra
 
-* [Fundamentals of Linear Algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - James B. Carrell
-* [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
-* [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
-* [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
-* [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
-* [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
-* [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
-* [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
-* [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - Ray M Bowen, C. C. Wang
-* [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, C. C. Wang
-* [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
-* [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - Sergei Treil
-* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller
-* [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff
-* [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
+* 📝 [Fundamentals of Linear Algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - James B. Carrell
+* 📝 [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
+* 📝 [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
+* 📝 [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
+* 📝 [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+* 📝 [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
+* 📝 [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
+* 📝 [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
+* 📝 [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - Ray M Bowen, C. C. Wang
+* 📝 [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, C. C. Wang
+* 📝 [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
+* 📝 [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - Sergei Treil
+* 📝 [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller
+* 📝 [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff
+* 📝 [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
 
 ### Ring Theory
 
-* [Foundations of Module and Ring Theory](http://www.math.uni-duesseldorf.de/~wisbauer/book.pdf) - Robert Wisbauer (University of Düsseldorf)
+* 📝 [Foundations of Module and Ring Theory](http://www.math.uni-duesseldorf.de/~wisbauer/book.pdf) - Robert Wisbauer (University of Düsseldorf)
 
 ### Galois Theory
 
-* [An Introduction to Galois Theory](http://www.maths.gla.ac.uk/~ajb/dvi-ps/Galois.pdf) - Andrew Baker (University of Glasgow)
-* [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne
-* [Galois theory](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf) - Miles Reid
-* [Galois Theory](https://math.illinoisstate.edu/schebol/teaching/407-14-files/Stewart-galois_theory.pdf) - Ian Stewart
+* 📝 [An Introduction to Galois Theory](http://www.maths.gla.ac.uk/~ajb/dvi-ps/Galois.pdf) - Andrew Baker (University of Glasgow)
+* 📝 [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne
+* 📝 [Galois theory](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf) - Miles Reid
+* 📝 [Galois Theory](https://math.illinoisstate.edu/schebol/teaching/407-14-files/Stewart-galois_theory.pdf) - Ian Stewart
 
 ### Lie Algebras
 
