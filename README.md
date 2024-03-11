@@ -2,6 +2,8 @@
 
 A curated list of awesome mathematics resources.
 
+All resources are freely available except those with a 💲 icon.
+
 # Contents
 
 <!-- START_TOC -->
