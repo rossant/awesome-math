@@ -135,6 +135,7 @@ All resources are freely available except those with a 💲 icon.
 * [xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
 * [CopyPasteMathjax](https://www.copypastemathjax.com/)
 * [Finance calculators](https://www.financecharts.com/pages/5724-retirement-calculators-and-stock-market-tips)
+* [Mathcheap](https://mathcheap.xyz)
 
 ## Questions and Answers
 
