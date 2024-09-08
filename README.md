@@ -201,7 +201,7 @@ All resources are freely available except those with a 💲 icon.
 ### Transition To Pure Rigour Math
 * 📝 [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) - Elias Zakon
 * 📝 [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammak (Virginia Commonwealth University)
-* 📖💲 [How to Prove It: A Structured Approach (3rd Edition)](https://www.cambridge.org/highereducation/books/how-to-prove-it/6D2965D625C6836CD4A785A2C843B3DA) - Daniel J. Velleman (Professor).
+* 📖 [How to Prove It: A Structured Approach (3rd Edition)](https://ia800501.us.archive.org/7/items/how-to-prove-it-a-structured-approach-daniel-j.-velleman/How%20to%20Prove%20It%20A%20Structured%20Approach%20%28Daniel%20J.%20Velleman%29.pdf) - Daniel J. Velleman (Professor).
 
 ### Set Theory
 
