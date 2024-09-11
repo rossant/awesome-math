@@ -19,6 +19,7 @@ All resources are freely available except those with a 💲 icon.
     * [Books](#books)
     * [Magazines](#magazines)
     * [Blogs](#blogs)
+    * [Meetings and Conferences](#meetings-and-conferences)
     * [Misc](#misc)
 * [Branches of Mathematics](#branches-of-mathematics)
     * [Foundations of Mathematics](#foundations-of-mathematics)
@@ -181,6 +182,12 @@ All resources are freely available except those with a 💲 icon.
 * [3blue1brown](https://www.3blue1brown.com/) - Animated Maths
 * [Mathsisfun](https://www.mathsisfun.com) simple text lightweight site for students up to highschool
 * [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev (Professor of mathematics at Marshall University, Huntington WV, USA)
+
+## Meetings and Conferences
+
+* [MathsJam](https://mathsjam.com/) - monthly local recreational maths/puzzle meetups and an annual gathering in Staffordshire, England
+* [Talking Maths in Public](https://talkingmathsinpublic.uk/) - a conference for maths communicators, running every two years, usually in the UK
+* [Bridges](https://www.bridgesmathart.org/) - an annual conference on mathematical connections in art, music, architecture, and culture. The 2025 meeting is in Eindhoven, Netherlands.
 
 ## Misc
 * [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
