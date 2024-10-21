@@ -114,6 +114,7 @@ All resources are freely available except those with a 💲 icon.
 * [Mathologer](https://www.youtube.com/@Mathologer)
 * [The Math District](https://www.youtube.com/@TheMathDistrict)
 * [Mathematical Monk](https://www.youtube.com/@mathematicalmonk)
+* [The Math Sorcerer](https://www.youtube.com/@TheMathSorcerer)
 
 ## Tools
 
