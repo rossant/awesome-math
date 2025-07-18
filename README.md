@@ -282,8 +282,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Algebraic Number Theory
 
-* 📝 [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf)
-* 📝 [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf) - F. Oggier
+* 📝 [Introduction to Algebraic Number Theory](https://feog.github.io/ANT10.pdf) - F. Oggier
 * 📝 [Algebraic Number Theory](http://www.jmilne.org/math/CourseNotes/ANT.pdf) - J.S. Milne
 * 📝 [Algebraic Number Theory Course Notes](http://people.math.gatech.edu/~mbaker/pdf/ANTBook.pdf) - Matthew Baker (Georgia Tech)
 * 📝 [A Course In Algebraic Number Theory](http://www.math.uiuc.edu/~r-ash/ANT.html) - Robert Ash
@@ -310,7 +309,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Introduction to Abstract Algebra](https://zodml.org/sites/default/files/Introduction_to_Abstract_Algebra_0.pdf) - D. S. Malik, John N. Mordeson, M.K. Sen (Creighton University)
 * 📝 [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) - David Joyce (Clark University)
-* 📝 [Algebraic Methods](http://www1.spms.ntu.edu.sg/~frederique/AA11.pdf) - F. Oggier
+* 📝 [Algebraic Methods](https://feog.github.io/AA11.pdf) - F. Oggier
 * 📝 [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) - Thomas W. Judson, Robert A. Beezer (Austin State University)
 * 📝 [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett
 * 📝 [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
