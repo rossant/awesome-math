@@ -371,6 +371,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Graph Theory: Lecture Notes](http://www.personal.psu.edu/cxg286/Math485.pdf) - Christopher Griffin
 * 📝 [Graph Theory](http://www.cs.unibo.it/babaoglu/courses/cas00-01/tutorials/GraphTheory.pdf) - Reinhard Diestel
+* 📝 [Graph Theory : Interactive Algorithm Visualizer | Graph Theory Learning Platform](https://learngraphtheory.org/) - Hadjoudj Mohammed Islam 
 
 
 ## Geometry and Topology
