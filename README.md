@@ -167,6 +167,7 @@ All resources are freely available except those with a 💲 icon.
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
 * [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 * [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
+* [Math for Frontend Web Dev](https://www.manning.com/books/math-for-frontend-web-dev)
 
 ## Magazines
 
