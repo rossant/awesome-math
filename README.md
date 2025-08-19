@@ -185,6 +185,7 @@ All resources are freely available except those with a 💲 icon.
 * [3blue1brown](https://www.3blue1brown.com/) - Animated Maths
 * [Mathsisfun](https://www.mathsisfun.com) simple text lightweight site for students up to highschool
 * [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev (Professor of mathematics at Marshall University, Huntington WV, USA)
+* [Math-gaokao](https://math.0426233.xyz/) - Gaokao Mathematics Notes & Problem-Solving Tips
 
 ## Meetings and Conferences
 
