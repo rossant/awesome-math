@@ -88,6 +88,7 @@ All resources are freely available except those with a 💲 icon.
 * [Almost Fun](https://www.almostfun.org/lessons/)
 * [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics)
 * [Math Academy](https://mathacademy.com/)
+* [Sirius](https://edu.sirius.online) : learn olympiadic math
 
 ## Learn to Learn
 
