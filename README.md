@@ -169,6 +169,7 @@ All resources are freely available except those with a 💲 icon.
 * [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 * [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 * [Math for Frontend Web Dev](https://www.manning.com/books/math-for-frontend-web-dev)
+* [Grokking Statistics](https://www.manning.com/books/grokking-statistics)
 
 ## Magazines
 
