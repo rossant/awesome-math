@@ -180,6 +180,7 @@ All resources are freely available except those with a 💲 icon.
 * [European Mathematical Society Magazine](https://euromathsoc.org/magazine) - The Magazine features announcements about meetings and conferences, articles outlining current trends in scientific development, reports on member societies, and many other informational items.
 * [Mathematics Today by Institute of Mathematics and its Applications](https://ima.org.uk/publications/mathematics-today/) - News, opinions, and articles related to mathematics, so the reader stays updated.
 * [Crux Mathematicorum by Canadian Mathematical Society](https://cms.math.ca/publications/crux/) - source of unique and challenging mathematical problems designed for the secondary and undergraduate levels. It includes an Olympiad Corner which is helpful for math competitions.
+* [Chalkdust Magazine](https://chalkdustmagazine.com/) - a magazine for the mathematically curious, ranging from interviews with Fields Medallists to an advice column called "Dear Dirichlet".
 
 ## Blogs
 
