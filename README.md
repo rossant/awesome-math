@@ -175,6 +175,8 @@ All resources are freely available except those with a 💲 icon.
 * [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 * [Math for Frontend Web Dev](https://www.manning.com/books/math-for-frontend-web-dev)
 * [Grokking Statistics](https://www.manning.com/books/grokking-statistics)
+* [The Math Behind Artificial Intelligence](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) - Tiago Capelo Monteiro (freeCodeCamp)
+
 
 ## Magazines
 
