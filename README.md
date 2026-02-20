@@ -101,6 +101,7 @@ All resources are freely available except those with a 💲 icon.
 * [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 * [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 * [NPTEL](https://www.youtube.com/@iit)
+* [Numberphile](https://www.youtube.com/@numberphile)
 * [PatrickJMT](https://www.youtube.com/@patrickjmt)
 * [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
   * [Precalculus - College Algebra/Trigonometry](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP)
