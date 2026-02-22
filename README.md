@@ -119,6 +119,7 @@ All resources are freely available except those with a 💲 icon.
 
 ## Tools
 
+* [Math Task Generator](https://github.com/ArtemZhyto/Math-tasks-generator) - An algorithmic engine for generating dynamic math tasks with automated validation and customizable constraints.
 * [Symbolab](https://www.symbolab.com/)
 * [Desmos](https://www.desmos.com/calculator)
 * [Math Words](http://www.mathwords.com/)
