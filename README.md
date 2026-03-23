@@ -166,6 +166,7 @@ All resources are freely available except those with a 💲 icon.
 
 ## Books
 
+* [General Topology](https://www.rexresearch1.com/TopologyLibrary/GeneralTopologyWillard.pdf) - Stephen Willard
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
 * [Multivariable Calculus](http://people.math.gatech.edu/%7Ecain/notes/calculus.html) - G. Cain, J. Herod (Georgia Tech)
