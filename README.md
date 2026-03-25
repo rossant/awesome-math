@@ -438,7 +438,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Algebraic Topology
 
-* 📝 [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf) - Allen Hatcher
+* 📝 [Algebraic Topology](http://pi.math.cornell.edu/~hatcher/AT/AT.pdf) - Allen Hatcher
 * 📝 [A Concise Course in Algebraic Topology](http://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf) - J. P. May
 * 📝 [Introduction to Algebraic Topology](http://www.math.muni.cz/~cadek/at/at.pdf) - Martin Cadek
 * 📝 [Algebra and Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/AlTo.pdf) - Pierre Schapira (Paris VI University)
