@@ -84,6 +84,7 @@ All resources are freely available except those with a 💲 icon.
 * [Brilliant](https://brilliant.org/courses/#math-foundational)
 * [WooTube](https://misterwootube.com/)
 * [Mathigon](https://mathigon.org/)
+* [Synthical](https://synthical.com)
 * [Calculus.org](http://calculus.org/)
 * [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio State University)
 * [Almost Fun](https://www.almostfun.org/lessons/)
