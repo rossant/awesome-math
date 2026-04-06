@@ -621,6 +621,7 @@ All resources are freely available except those with a 💲 icon.
 
 ## Mathematics for Computer Science
 
+* 📝 [Deep Learning - Foundations and Concepts] - Christopher M Bishop, Hugh Bishop
 * 📝 [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer
 * 📝 [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) - H. Wilf
 * 📝 [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
