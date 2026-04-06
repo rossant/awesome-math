@@ -290,6 +290,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
 * 📝 [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
 * 📝 [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
+* [TECS-L](https://github.com/need-singularity/TECS-L) - Mathematical framework connecting number theory to neural network architecture. Proves σ(n)φ(n) = nτ(n) iff n=6 and derives optimal inhibition ratio I≈1/e for Mixture-of-Experts via divisor function analysis.
 
 ### Algebraic Number Theory
 
