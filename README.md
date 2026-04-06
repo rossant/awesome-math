@@ -4,6 +4,7 @@ A curated list of awesome mathematics resources.
 
 All resources are freely available except those with a 💲 icon.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for mathematical computing workflow orchestration, automated proof management, and multi-agent coordination. MIT licensed.
 # Contents
 
 <!-- START_TOC -->
