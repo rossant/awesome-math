@@ -149,6 +149,7 @@ All resources are freely available except those with a 💲 icon.
 * [Structural Engineering Tools (SEPCO Engineering)](https://github.com/sepcostructural/structural-engineering-tools) - Free online calculators for beam diagrams, Canadian steel section properties, and pressure conversions.
 
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=rossant_awesome-math) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## Questions and Answers
 
 * [Mathematics Stack Exchange](http://math.stackexchange.com/)
