@@ -147,6 +147,7 @@ All resources are freely available except those with a 💲 icon.
 * [Corca Editor](https://corca.io/)
 * [RunMat](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
 * [Structural Engineering Tools (SEPCO Engineering)](https://github.com/sepcostructural/structural-engineering-tools) - Free online calculators for beam diagrams, Canadian steel section properties, and pressure conversions.
+* [methods-harness](https://github.com/lfzds4399-cpu/methods-harness) - SymPy-verified pipeline producing bilingual (EN/中文) VCE Mathematical Methods 3-4 lessons, cheat sheets, and mock SAC papers from one CLI. Validators gate every formula before PDF render. MIT.
 
 
 ## Questions and Answers
