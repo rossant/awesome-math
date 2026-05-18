@@ -90,6 +90,8 @@ All resources are freely available except those with a 💲 icon.
 * [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics)
 * [Math Academy](https://mathacademy.com/)
 * [Derivative Calculus Solver](https://www.derivativecalculus.com) — A step-by-step differentiation tool focusing on the chain rule and substitution logic.
+* [Learro](https://learro.com/) — Free study guides, practice exams, and formula sheets for AP Calculus AB/BC and AP Statistics, plus other AP courses.
+* [Chesser Resources](https://chesserresources.com.au/new/) — Free document-sharing platform with math notes, exam papers (JEE Mains, CBSE), and academic resources. Free signup required to download.
 
 ## Learn to Learn
 
