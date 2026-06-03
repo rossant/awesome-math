@@ -354,6 +354,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff
 * 📝 [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
 * 📖 [Linear Algebra Done Right](https://linear.axler.net/) - Sheldon Axler
+* [Linear Algebra Interactive Jupyter notebooks](https://github.com/ea42gh/linear-algebra-notebooks) - Egbert Ammicht
 
 ### Ring Theory
 
