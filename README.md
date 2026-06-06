@@ -147,6 +147,7 @@ All resources are freely available except those with a 💲 icon.
 * [Corca Editor](https://corca.io/)
 * [RunMat](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
 * [Structural Engineering Tools (SEPCO Engineering)](https://github.com/sepcostructural/structural-engineering-tools) - Free online calculators for beam diagrams, Canadian steel section properties, and pressure conversions.
+* [NovaSolver](https://novasolver.jp/tools/) - 1,600+ interactive physics and engineering simulators (beam deflection, Lissajous figures, Lorenz attractor, Mohr's circle, heat diffusion, etc.) running entirely in the browser. [Source on GitHub](https://github.com/novasolver/physics-simulators).
 
 
 ## Questions and Answers
