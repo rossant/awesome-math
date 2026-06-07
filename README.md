@@ -144,6 +144,7 @@ All resources are freely available except those with a 💲 icon.
 * [Mathcheap](https://mathcheap.xyz)
 * [Midpoint Calculator](https://midpointcalculator.co)
 * [Quartiles Calculator](https://quartilecalculator.net)
+* [NumberCalcs](https://numbercalcs.com) - Free statistics calculators with step-by-step worked solutions (z-score, t-test, chi-square, confidence intervals) and interactive z-score / chi-square tables.
 * [Corca Editor](https://corca.io/)
 * [RunMat](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
 * [Structural Engineering Tools (SEPCO Engineering)](https://github.com/sepcostructural/structural-engineering-tools) - Free online calculators for beam diagrams, Canadian steel section properties, and pressure conversions.
