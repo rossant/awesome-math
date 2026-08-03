@@ -128,6 +128,7 @@ All resources are freely available except those with a 💲 icon.
 * [Sympy](https://www.sympy.org/)
 * [Sagemath](http://www.sagemath.org/)
 * [MathFlow](https://github.com/Nonanti/MathFlow) - C# math expression library with symbolic computation (differentiation, simplification, equation solving)
+* [Jacobian](https://github.com/morluto/jacobian) - MCP server, CLI, and Python library for composable mathematics: exact computation and conjecture testing across polynomial maps, linear algebra, and graph algorithms
 * [Unit Converter](https://unitconverters.net)
 * [GeoGebra](https://www.geogebra.org/?lang=en)
 * [Macaulay2](http://www2.macaulay2.com/Macaulay2/)
