@@ -147,6 +147,7 @@ All resources are freely available except those with a 💲 icon.
 * [Corca Editor](https://corca.io/)
 * [RunMat](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
 * [Structural Engineering Tools (SEPCO Engineering)](https://github.com/sepcostructural/structural-engineering-tools) - Free online calculators for beam diagrams, Canadian steel section properties, and pressure conversions.
+* [SolveTutor](https://solvetutor.com/) - 3,700+ free calculators for finance, health, math and physics, plus a step-by-step AI/CAS math solver; every answer shows its formula, working and sources.
 
 
 ## Questions and Answers
