@@ -103,7 +103,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 * 📝 [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) - Elias Zakon
 * 📝 [Book of Proof](https://richardhammack.github.io/BookOfProof/) - Richard Hammak (Virginia Commonwealth University)
-* 📖 [How to Prove It: A Structured Approach (3rd Edition)](https://ia800501.us.archive.org/7/items/how-to-prove-it-a-structured-approach-daniel-j.-velleman/How%20to%20Prove%20It%20A%20Structured%20Approach%20%28Daniel%20J.%20Velleman%29.pdf) - Daniel J. Velleman (Professor).
+* 💲 [How to Prove It: A Structured Approach (3rd Edition)](https://www.cambridge.org/highereducation/books/how-to-prove-it/6D2965D625C6836CD4A785A2C843B3DA) - Daniel J. Velleman.
 
 ### Video Courses and Series
 
@@ -144,7 +144,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * 💲 [The Princeton Companion to Mathematics](https://press.princeton.edu/books/hardcover/9780691118802/the-princeton-companion-to-mathematics) - Timothy Gowers (Professor, Fields medallist), June Barrow-Green (Professor), and Imre Leader (Professor).
 * 💲 [Encyclopedia of Distances (4th Edition)](https://link.springer.com/book/10.1007/978-3-662-52844-0) - Michel Marie Deza, Elena Deza.
 
-* [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
 * [Multivariable Calculus](https://cain.math.gatech.edu/notes/calculus.html) - G. Cain, J. Herod (Georgia Tech)
 * [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
@@ -206,7 +205,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * 📝 [Introduction to Category Theory and Categorical Logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) - Thomas Streicher
 * 💲 [Category Theory](https://academic.oup.com/book/7134) - Steve Awodey.
 * 📝 [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. Pareigis
-* 📝 [Category Theory for Computing Science](https://web.archive.org/web/20181221233252/http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - Michael Barr, Charles Wells
+* 📝 [Category Theory for Computing Science](https://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - Michael Barr, Charles Wells
 * 📝 [Toposes, Triples and Theories](http://www.tac.mta.ca/tac/reprints/articles/12/tr12.pdf) - Michael Barr, Charles Wells
 * 📝 [Abelian Categories](http://www.tac.mta.ca/tac/reprints/articles/3/tr3abs.html) - Peter Freyd
 * 📝 [Categories and Groupoids](http://www.tac.mta.ca/tac/reprints/articles/7/tr7abs.html) - P. J. Higgins
@@ -229,13 +228,12 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * 📝 [Algebraic Methods](https://feog.github.io/AA11.pdf) - F. Oggier
 * 📝 [Abstract Algebra: Theory and Applications](https://judsonbooks.org/abstract-algebra-theory-and-applications/) - Thomas W. Judson
 * 📝 [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
-* 📝 [Abstract Algebra: Harvard Extension (Archived)](https://web.archive.org/web/20150528171650/extension.harvard.edu/open-learning-initiative/abstract-algebra) - Benedict Gross
+* 📝 [Abstract Algebra: Harvard Extension](https://people.math.harvard.edu/~gross/) - Benedict Gross
 * 📝 [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - Benedict Gross
 
 ### Linear Algebra
 
 * 📝 [Fundamentals of Linear Algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - James B. Carrell
-* 📝 [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
 * 📝 [Linear Algebra](https://hefferon.net/linearalgebra/) - Jim Hefferon
 * 📝 [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 * 📝 [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
@@ -348,7 +346,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * 📝 [Elementary Applied Topology](https://www.math.upenn.edu/~ghrist/notes.html) - Robert Ghrist (UPenn)
 * 📝 [Introduction to Topology](http://www.math.colostate.edu/~renzo/teaching/Topology10/Notes.pdf)
 * 📝 [Introduction to Topology](http://www.math.bme.hu/~kalex/Teaching/Spring10/Topology/TopNotes_Spring10.pdf) - Alex Küronya
-* 📝 [Introductory Topology](http://www.math.clemson.edu/~jimlb/Teaching/2009-10/Math986/Topology.pdf) - Jim L. Brown
 * 📝 [General Topology](https://webusers.imj-prg.fr/~pierre.schapira/LectNotes/Topo.pdf) - Pierre Schapira (Sorbonne University)
 * 📝 [Elementary Topology Problem Textbook](http://www.pdmi.ras.ru/~olegviro/topoman/eng-book-nopfs.pdf)
 * 📝 [General Topology](http://www.math.ku.dk/~moller/e03/3gt/notes/gtnotes.pdf) - Jesper M. Møller
@@ -401,7 +398,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * 📝 [Complex Analysis](https://www.math.ku.dk/bibliotek/arkivet/noter/) - Christian Berg
 * 📝 [Complex Variables](http://people.math.sc.edu/girardi/m7034/book/AshComplexVariablesWithHyperlinks.pdf) - R. B. Ash, W.P. Novinger
 * 📝 [Complex Analysis](http://www.maths.lth.se/matematiklu/personal/olofsson/CompHT06.pdf) - Christer Bennewitz
-* 📝 [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
+* 📝 [Complex Analysis](https://sites.math.washington.edu/~marshall/math_536/math536_spr12.html) - Donald E. Marshall
 * 📝 [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) - Wilhelm Schlag
 * 📝 [Complex Analysis](https://cain.math.gatech.edu/winter99/complex.html) - G. Cain (Georgia Tech)
 * 📝 [Complex Analysis](https://complex-analysis.com/) - Juan Carlos Ponce Campuzano
@@ -410,7 +407,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 * 📝 [An Introduction to Functional Analysis](https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf) - Laurent W. Marcoux (University of Waterloo)
 * 📝 [Functional Analysis: Lecture Notes](http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) - Jeff Schenker (Michigan State University)
-* 📝 [Functional Analysis Lecture Notes](https://archive.org/details/TB_Ward___Functional_analysis_lecture_notes) - T.B. Ward (University of East Anglia)
 * 📝 [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
 * 📝 [Functional Analysis](https://math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - Christian Remling
 * 📝 [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) - Shlomo Sternberg
@@ -454,8 +450,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 ### Ergodic Theory and Chaos
 
-* 📝 [Chaos: Making a New Science](https://archive.org/details/chaosmakingnewsc0000unse) - James Gleick
-* 📝 [Complexity: A Guided Tour](https://archive.org/details/complexityguided0000mitc?utm_source=chatgpt.com) - Melanie Mitchell (Oxford University)
+* 💲 [Complexity: A Guided Tour](https://academic.oup.com/book/51004) - Melanie Mitchell.
 
 ## Probability and Statistics
 
@@ -491,7 +486,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * 📝 [Statistical Theory](http://pages.pomona.edu/~ajr04747/Fall2009/Math152/Notes/Math152NotesFall09.pdf) - Adolfo J. Rumbos
 * 📝 [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University)
 * 📝 [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (University of Arizona)
-* 📝 [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 * 📝 [UCLA Statistical Methods and Data Analytics](https://stats.oarc.ucla.edu/) - Tutorials and examples for R, Stata, SAS, and SPSS.
 * 📝 [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
 * 📝 [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) - Richard Lowry
