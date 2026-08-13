@@ -93,6 +93,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [edX](https://www.edx.org/course/subject/math) - University and professional mathematics courses, with audit and paid options varying by course.
 * [Brilliant](https://brilliant.org/courses/#math-foundational) - Interactive, problem-based lessons in foundational mathematics, probability, and related quantitative subjects.
 * [WooTube](https://misterwootube.com/) - Video lessons by Eddie Woo covering secondary-school mathematics with an emphasis on conceptual understanding.
+* [Mathispower4u](https://mathispower4u.com/) - More than 9,000 free, closed-captioned video lessons and worked examples organized from middle-school mathematics through calculus, linear algebra, differential equations, and statistics, by James Sousa.
 * [Mathigon](https://mathigon.org/) - Interactive courses, activities, and visual explanations for school and early university mathematics.
 * [Ximera](https://ximera.osu.edu/) - Free interactive mathematics textbooks from Ohio State University.
 * [Almost Fun](https://www.almostfun.org/lessons/) - Free interactive middle- and high-school mathematics lessons, practice problems, and teacher resources from a nonprofit organization.
@@ -137,6 +138,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Mathematics Subject Classification 2020](https://msc2020.org/) - The standard subject taxonomy maintained by Mathematical Reviews and zbMATH.
 * [Encyclopedia of Mathematics](https://encyclopediaofmath.org/wiki/Main_Page) - Reference articles on mathematical concepts, theorems, biographies, and applications.
 * [ProofWiki](https://proofwiki.org/wiki/Main_Page) - Collaborative repository of mathematical definitions, lemmas, and proofs.
+* [nLab](https://ncatlab.org/nlab/show/HomePage) - Collaborative research-level notes and expositions in category theory, homotopy theory, mathematical physics, and related areas.
 * [Wolfram Mathworld](https://mathworld.wolfram.com/) - Reference articles on mathematical definitions, formulas, identities, and related concepts.
 * [The On-Line Encyclopedia of Integer Sequences](https://oeis.org) - Great compendium of many different integer sequences. Founded 1964 by N. J. A. Sloane.
 * [AIM Open Textbook Initiative](https://textbooks.aimath.org/) - Open mathematics textbooks organized by course and evaluated by the American Institute of Mathematics editorial board.
@@ -559,6 +561,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 ### Mathematics for Machine Learning
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/) - Free textbook on the linear algebra, geometry, calculus, probability, and optimization needed to study machine learning.
+* [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/) - Free-to-read online textbook by Christopher M. Bishop and Hugh Bishop, with a probability-based treatment of modern deep-learning models and methods.
 
 ### Information and Coding Theory
 
@@ -627,6 +630,7 @@ This section covers AI-assisted theorem proving, formalization, and mathematical
 * [European Mathematical Society Magazine](https://euromathsoc.org/magazine) - The Magazine features announcements about meetings and conferences, articles outlining current trends in scientific development, reports on member societies, and many other informational items.
 * [Mathematics Today by Institute of Mathematics and its Applications](https://ima.org.uk/publications/mathematics-today/) - News, opinions, and articles related to mathematics, so the reader stays updated.
 * [Crux Mathematicorum by Canadian Mathematical Society](https://cms.math.ca/publications/crux/) - Challenging problems for secondary and undergraduate students, including an Olympiad Corner.
+* [Chalkdust Magazine](https://chalkdustmagazine.com/) - Independent magazine for mathematically curious readers, with free expository articles, interviews, puzzles, and downloadable issues.
 
 ### Blogs
 
