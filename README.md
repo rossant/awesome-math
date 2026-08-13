@@ -307,9 +307,11 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 * [Basic Combinatorics](https://web.math.utk.edu/~cwagner/papers/comb.pdf) - Carl G. Wagner (University of Tennessee).
 * [Applied Combinatorics](https://appliedcombinatorics.org/appcomb/) - Mitchel T. Keller, William T. Trotter.
+* [Discrete Mathematics: An Open Introduction](https://open.umn.edu/opentextbooks/textbooks/394) - Free fourth-edition undergraduate textbook by Oscar Levin, with inquiry activities, more than 750 exercises, solutions and hints, and coverage of proofs, graph theory, counting, sequences, and discrete structures.
 * [Notes on Combinatorics](https://webspace.maths.qmul.ac.uk/p.j.cameron/notes/comb.pdf) - Peter J. Cameron.
 * [Analytic Combinatorics](https://algo.inria.fr/flajolet/Publications/book.pdf) - Philippe Flajolet, Robert Sedgewick.
 * [generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) - Herbert Wilf.
+* [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - Marko Petkovšek, Herbert Wilf, and Doron Zeilberger on algorithms for proving hypergeometric identities.
 
 ### Graph Theory
 
@@ -320,7 +322,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 ## Geometry and Topology
 
 * [Fundamentals of Geometry](https://polly.phys.msu.ru/~belyaev/geometry.pdf) - Oleg A. Belyaev.
-* [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger.
 * [Euclid's Elements (David Joyce edition)](https://mathcs.clarku.edu/~djoyce/elements/elements.html) - Euclid.
 * [Euclid's Elements Redux](https://open.umn.edu/opentextbooks/textbooks/euclid-s-elements-redux) - Daniel Callahan.
 * [Mathematical Illustrations](https://personal.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman.
@@ -340,6 +341,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [The Geometry and Topology of Three-Manifolds](https://www.slmath.org/publications/books/gt3m/) - W. Thurston.
 * [Semi-Riemann Geometry and General Relativity](https://people.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) - Shlomo Sternberg.
 * [Discrete Differential Geometry](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) - Keenan Crane.
+* [Differential Geometry](https://ocw.mit.edu/courses/18-950-differential-geometry-fall-2008/) - Rigorous undergraduate MIT OpenCourseWare course with lecture notes and problem sets centered on curves, surfaces, and curvature.
 
 ### Algebraic Geometry
 
@@ -458,10 +460,11 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 * [Notes on Partial Differential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pde_notes.pdf) - John K. Hunter (University of California at Davis).
 * [Linear Methods of Applied Mathematics](https://harrell.math.gatech.edu/pde/ch1wr.html) - Evans M. Harrell II, James V. Herod (Georgia Tech).
+* [Partial Differential Equations](https://math.berkeley.edu/~evans/evans_pcam.pdf) - Lawrence C. Evans's concise survey of modern PDE theory from analytical, qualitative, and computational viewpoints.
 
 ### Ergodic Theory and Chaos
 
-* [Complexity: A Guided Tour](https://academic.oup.com/book/51004) - Paid textbook by Melanie Mitchell.
+* [Chaos: Classical and Quantum](https://chaosbook.org/) - Maintained technical webbook on dynamical systems, periodic orbits, deterministic chaos, statistical mechanics, and quantum chaos.
 
 ## Probability and Statistics
 
@@ -506,6 +509,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Seeing Theory](https://seeing-theory.brown.edu/) - Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang.
 * [Statistics Done Wrong](https://www.statisticsdonewrong.com/) - Alex Reinhart.
 * [All of Statistics: A Concise Course in Statistical Inference](https://link.springer.com/book/10.1007/978-0-387-21736-9) - Larry Wasserman.
+* [OpenIntro Statistics](https://www.openintro.org/book/os/) - Free introductory textbook for college courses and self-study, with datasets, labs, slides, videos, exercises, and accessible PDFs.
 
 ### Statistical Learning
 
@@ -532,6 +536,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan.
 * [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/nm/) - Douglas Wilhelm Harder.
 * [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/users/flame/laff/alaff/frontmatter.html) - Robert van de Geijn, Margaret Myers (University of Texas at Austin).
+* [Fundamentals of Numerical Computation](https://fncbook.com/) - Online textbook by Tobin Driscoll and Richard Braun with Julia, MATLAB, and Python editions covering core numerical methods for linear systems, approximation, root finding, ODEs, and PDEs.
 
 ## Optimization, Operations Research, and Control
 
@@ -547,12 +552,13 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 * [Introduction to Continuum Mechanics](https://rbowen.engr.tamu.edu/) - Ray M. Bowen.
 * [Mechanism of the Heavens (1831)](https://openlibrary.org/books/OL6970552M/Mechanism_of_the_heavens) - Mary Somerville.
+* [Quantum Field Theory](https://davidtong.org/teaching/quantum-field-theory/) - David Tong's Cambridge master's-level lecture notes, problem sheets, HTML text, and recorded lectures on classical fields, quantization, Dirac fields, and quantum electrodynamics.
 
 ## Interdisciplinary Mathematics
 
 ### Mathematics for Computer Science
 
-* [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer.
+* [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/) - Free MIT OpenCourseWare course with an open textbook, videos, notes, problem sets, and exams on proofs, discrete structures, counting, graphs, modular arithmetic, and discrete probability.
 * [Algorithms and Complexity](https://www2.math.upenn.edu/~wilf/AlgComp3.html) - H. Wilf.
 * [Lecture Notes on Optimization](https://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya.
 * [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila/book.html) - David J. C. MacKay.
