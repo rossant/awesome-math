@@ -29,6 +29,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
     * [Linear Algebra](#linear-algebra)
     * [Group Theory](#group-theory)
     * [Ring and Field Theory](#ring-and-field-theory)
+    * [Commutative Algebra](#commutative-algebra)
     * [Representation Theory](#representation-theory)
 * [Number Theory](#number-theory)
     * [Algebraic Number Theory](#algebraic-number-theory)
@@ -44,6 +45,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
     * [Real Analysis](#real-analysis)
     * [Complex Analysis](#complex-analysis)
     * [Functional Analysis](#functional-analysis)
+    * [Operator Theory](#operator-theory)
     * [Harmonic Analysis](#harmonic-analysis)
     * [Measure Theory](#measure-theory)
 * [Differential Equations and Dynamical Systems](#differential-equations-and-dynamical-systems)
@@ -59,15 +61,19 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Numerical and Computational Mathematics](#numerical-and-computational-mathematics)
     * [Numerical Analysis](#numerical-analysis)
 * [Optimization, Operations Research, and Control](#optimization-operations-research-and-control)
+    * [Control Theory](#control-theory)
 * [Mathematical Physics](#mathematical-physics)
 * [Interdisciplinary Mathematics](#interdisciplinary-mathematics)
     * [Mathematics for Computer Science](#mathematics-for-computer-science)
     * [Mathematics for Machine Learning](#mathematics-for-machine-learning)
+    * [Information and Coding Theory](#information-and-coding-theory)
+    * [Mathematical Finance](#mathematical-finance)
     * [Mathematical Biology](#mathematical-biology)
     * [Signal Processing](#signal-processing)
 * [Mathematical Practice](#mathematical-practice)
     * [AI for Mathematics](#ai-for-mathematics)
     * [Mathematical Software and Tools](#mathematical-software-and-tools)
+* [History and Mathematics Education](#history-and-mathematics-education)
 * [Community and Further Reading](#community-and-further-reading)
     * [Journals and Magazines](#journals-and-magazines)
     * [Blogs](#blogs)
@@ -266,9 +272,15 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Surreal Numbers and Games](https://web.mit.edu/sp.268/www/2010/surreal.pdf) - Introductory notes on Conway's surreal numbers and their connection with combinatorial game theory.
 * [Conway names, the simplicity hierarchy and the surreal number tree](https://doi.org/10.4115/jla.v3i0.88) - Philip Ehrlich.
 
+### Commutative Algebra
+
+* [The CRing Project](https://math.uchicago.edu/~amathew/cr.html) - Open-source work-in-progress textbook introducing commutative algebra for readers with elementary abstract algebra, with an emphasis on foundations for algebraic geometry.
+* [Commutative Algebra Notes](https://sites.lsa.umich.edu/hochster/lecture-notes-from-course-and-seminars/) - Free graduate course notes by Mel Hochster, from an introductory course through advanced topics such as Cohen-Macaulay rings, multiplicities, and étale maps.
+
 ### Representation Theory
 
 * [Lie Algebras](https://people.math.harvard.edu/~shlomo/docs/lie_algebras.pdf) - Shlomo Sternberg.
+* [Introduction to Representation Theory](https://ocw.mit.edu/courses/18-712-introduction-to-representation-theory-fall-2010/) - Free MIT course by Pavel Etingof with lecture notes and problem sets on representations of groups and algebras, categories, and quivers.
 
 ## Number Theory
 
@@ -405,6 +417,10 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Theory of Functions of a Real Variable](https://people.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) - Shlomo Sternberg.
 * [Functional Analysis](https://spot.colorado.edu/~baggett/functional.html) - Lawerence Baggett.
 
+### Operator Theory
+
+* [Lecture Notes on Operator Algebras](https://web.pdx.edu/~erdman/OpAlg/operator_algebras_pdf.pdf) - Free graduate notes by John M. Erdman on Hilbert-space operators, Banach algebras, spectral theory, C*-algebras, compact operators, and K-theory.
+
 ### Harmonic Analysis
 
 * [Harmonic Analysis Lecture Notes](https://arxiv.org/abs/0903.3845) - Richard S. Laugesen (University of Illinois at Urbana-Champaign).
@@ -518,6 +534,12 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 ## Optimization, Operations Research, and Control
 
 * [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - A free textbook with slides, exercises, code, and course material by Stephen Boyd and Lieven Vandenberghe.
+* [Nonlinear Optimization](https://ocw.mit.edu/courses/6-7220j-nonlinear-optimization-spring-2025/) - Free graduate MIT course covering analytical and computational methods for unconstrained and constrained optimization.
+* [CVXPY](https://www.cvxpy.org/) - Open-source Python modeling language for convex, geometric, quasiconvex, and related optimization problems.
+
+### Control Theory
+
+* [Feedback Systems: An Introduction for Scientists and Engineers](https://fbsbook.org/) - Free textbook by Karl J. Åström and Richard M. Murray on modeling, feedback, stability, performance, state feedback, and control design.
 
 ## Mathematical Physics
 
@@ -537,6 +559,16 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 ### Mathematics for Machine Learning
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/) - Free textbook on the linear algebra, geometry, calculus, probability, and optimization needed to study machine learning.
+
+### Information and Coding Theory
+
+* [Information Theory](https://ocw.mit.edu/courses/6-441-information-theory-spring-2016/) - Free graduate MIT course on entropy, source and channel coding, rate distortion, Gaussian channels, feedback, and multi-user information theory.
+* [Essential Coding Theory](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/) - Free graduate MIT course on error-correcting codes, Hamming spaces, and the algebraic and complexity aspects of coding theory.
+* [Error Correction Zoo](https://errorcorrectionzoo.org/) - Maintained reference database of classical, quantum, and hybrid error-correcting codes, with definitions, relationships, and references.
+
+### Mathematical Finance
+
+* [Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/) - Free undergraduate MIT course covering bond mathematics, probability, portfolio methods, time series, stochastic processes, and quantitative finance.
 
 ### Mathematical Biology
 
@@ -579,6 +611,11 @@ This section covers AI-assisted theorem proving, formalization, and mathematical
 * [Free Math](https://freemathapp.org) - Free, open-source software for recording, organizing, and reviewing digital mathematics homework without solving the problems automatically.
 * [RunMat](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
 * [Structural Engineering Tools (SEPCO Engineering)](https://github.com/sepcostructural/structural-engineering-tools) - Free online calculators for beam diagrams, Canadian steel section properties, and pressure conversions.
+
+## History and Mathematics Education
+
+* [MacTutor History of Mathematics Archive](https://mathshistory.st-andrews.ac.uk/) - University of St Andrews archive of mathematician biographies, histories of mathematical topics, timelines, institutions, and related reference material.
+* [NRICH](https://nrich.maths.org/) - Free curriculum-linked problems, investigations, articles, and teacher guidance from the University of Cambridge for learners aged 3 to 18.
 
 ## Community and Further Reading
 
