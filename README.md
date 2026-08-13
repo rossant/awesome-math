@@ -220,6 +220,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Rocq Prover](https://rocq-prover.org/) - Open-source interactive theorem prover and dependently typed programming language for mechanized mathematics and verified software.
 * [Mathematical Components](https://math-comp.github.io/) - Rocq libraries and tools for large-scale formalized mathematics, including substantial developments in algebra and analysis.
 * [Metamath](https://us.metamath.org/) - Minimal formal language and proof verifier with explicit, inspectable proofs built from simple foundations.
+* [Lean-related Conferences and Events](https://leanprover-community.github.io/events.html) - Maintained calendar and archive of conferences, workshops, and tutorials about Lean, mathlib, and formalized mathematics.
 
 ## Algebra
 
@@ -587,9 +588,13 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 This section covers AI-assisted theorem proving, formalization, and mathematical discovery. Resources that teach the mathematics used in machine learning appear under Mathematics for Machine Learning.
 
-* [LeanDojo v2](https://github.com/lean-dojo/LeanDojo-v2) - Open-source framework for training, evaluating, and deploying AI-assisted theorem provers for Lean 4.
+* [LeanDojo v2](https://leandojo.org/leandojo.html) - Open-source framework and benchmark data for training, evaluating, and deploying AI-assisted theorem provers for Lean 4.
 * [miniF2F](https://github.com/facebookresearch/miniF2F) - Cross-system benchmark of formalized olympiad, high-school, and undergraduate problems for evaluating automated theorem provers.
 * [AlphaGeometry](https://github.com/google-deepmind/alphageometry) - Open research implementation combining learned guidance with symbolic deduction for olympiad geometry problems.
+* [First Proof Project](https://1stproof.org/) - Independent project that publishes research-level problems, evaluation methods, solutions, and expert commentary for assessing AI systems in mathematics.
+* [Math AI Seminar](https://math.washington.edu/events/series/math-ai-seminar) - University of Washington research seminar on formalization, theorem proving, mathematical AI, and machine-learning applications in mathematics, with a multi-year event archive.
+* [b=M²L](https://bm2l.github.io/) - Barcelona Mathematics and Machine Learning colloquia on the interaction between mathematics and machine learning, with multi-year editions and recorded talks.
+* [AI for Mathematics and Theoretical Computer Science](https://simons.berkeley.edu/workshops/simons-institute-theory-computing-slmath-joint-workshop-ai-mathematics-theoretical) - Simons Institute and SLMath workshop archive with recorded talks on proof assistants, automated reasoning, machine learning, and mathematical discovery.
 
 ### Mathematical Software and Tools
 
