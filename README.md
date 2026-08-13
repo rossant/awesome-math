@@ -23,6 +23,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
     * [Set Theory](#set-theory)
     * [Type Theory](#type-theory)
     * [Category Theory](#category-theory)
+    * [Formal Mathematics and Theorem Proving](#formal-mathematics-and-theorem-proving)
 * [Algebra](#algebra)
     * [Abstract Algebra](#abstract-algebra)
     * [Linear Algebra](#linear-algebra)
@@ -61,9 +62,11 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Mathematical Physics](#mathematical-physics)
 * [Interdisciplinary Mathematics](#interdisciplinary-mathematics)
     * [Mathematics for Computer Science](#mathematics-for-computer-science)
+    * [Mathematics for Machine Learning](#mathematics-for-machine-learning)
     * [Mathematical Biology](#mathematical-biology)
     * [Signal Processing](#signal-processing)
 * [Mathematical Practice](#mathematical-practice)
+    * [AI for Mathematics](#ai-for-mathematics)
     * [Mathematical Software and Tools](#mathematical-software-and-tools)
 * [Community and Further Reading](#community-and-further-reading)
     * [Journals and Magazines](#journals-and-magazines)
@@ -89,6 +92,8 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Almost Fun](https://www.almostfun.org/lessons/) - Free interactive middle- and high-school mathematics lessons, practice problems, and teacher resources from a nonprofit organization.
 * [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics) - Lectures and public talks from the University of Oxford, including accessible explanations of advanced topics.
 * [Math Academy](https://mathacademy.com/) - Paid adaptive platform with diagnostic assessment and mastery-based courses from fourth-grade mathematics through university topics.
+* [OSSU Math](https://github.com/ossu/math) - Free, prerequisite-ordered self-study curriculum modeled on the mathematics requirements of an undergraduate degree.
+* [Waterloo Open Math](https://open.math.uwaterloo.ca/) - Free university-level courseware with lessons, exercises, and immediate feedback from the University of Waterloo.
 * [Derivative Calculus Solver](https://www.derivativecalculus.com) - A step-by-step differentiation tool focused on the chain rule and substitution logic.
 
 ### Proof and Problem Solving
@@ -106,12 +111,12 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Numberphile](https://www.youtube.com/@numberphile) - Popular mathematics videos featuring mathematicians discussing problems, ideas, and curiosities.
 * [PatrickJMT](https://www.youtube.com/@patrickjmt) - Worked-example videos for algebra, calculus, and other introductory college topics.
 * [Professor Leonard](https://www.youtube.com/@ProfessorLeonard) - Full lecture series in precalculus, calculus, and differential equations for college students.
-  * [Precalculus - College Algebra/Trigonometry](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP).
-  * [Calculus 1](https://www.youtube.com/playlist?list=PLF797E961509B4EB5).
-  * [Calculus 2](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-).
-  * [Calculus 3](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7).
-  * [Differential Equations](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_).
-  * [To The Point Math](https://www.youtube.com/playlist?list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN).
+  * [Precalculus - College Algebra/Trigonometry](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) - Full course playlist.
+  * [Calculus 1](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) - Full course playlist.
+  * [Calculus 2](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) - Full course playlist.
+  * [Calculus 3](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7) - Full course playlist.
+  * [Differential Equations](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_) - Full course playlist.
+  * [To The Point Math](https://www.youtube.com/playlist?list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN) - Short reviews of common algebra and calculus topics.
 * [MIT OpenCourseWare](https://www.youtube.com/@mitocw) - MIT course recordings and video lectures, including full mathematics courses.
 * [Mathologer](https://www.youtube.com/@Mathologer) - Visual videos on recreational mathematics and selected advanced topics.
 * [The Math District](https://themathdistrict.com/) - Free guides and videos covering prealgebra, algebra, geometry, trigonometry, statistics, calculus, and technical mathematics.
@@ -119,7 +124,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 ### Questions and Answers
 
 * [Mathematics Stack Exchange](https://math.stackexchange.com/) - Community questions and answers about mathematics problems and proofs.
-* [MathOverflow](https://mathoverflow.net/) - for professional mathematicians.
+* [MathOverflow](https://mathoverflow.net/) - Questions and answers for professional mathematicians.
 
 ### Reference Works
 
@@ -128,6 +133,9 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [ProofWiki](https://proofwiki.org/wiki/Main_Page) - Collaborative repository of mathematical definitions, lemmas, and proofs.
 * [Wolfram Mathworld](https://mathworld.wolfram.com/) - Reference articles on mathematical definitions, formulas, identities, and related concepts.
 * [The On-Line Encyclopedia of Integer Sequences](https://oeis.org) - Great compendium of many different integer sequences. Founded 1964 by N. J. A. Sloane.
+* [AIM Open Textbook Initiative](https://textbooks.aimath.org/) - Open mathematics textbooks organized by course and evaluated by the American Institute of Mathematics editorial board.
+* [AMS Open Math Notes](https://www.ams.org/open-math-notes) - Free course notes, textbooks, and research expositions hosted by the American Mathematical Society.
+* [OpenStax Mathematics](https://openstax.org/subjects/math) - Peer-reviewed, openly licensed textbooks for school and introductory college mathematics from Rice University.
 * [The Princeton Companion to Mathematics](https://press.princeton.edu/books/hardcover/9780691118802/the-princeton-companion-to-mathematics) - Paid reference edited by Timothy Gowers, June Barrow-Green, and Imre Leader.
 * [Encyclopedia of Distances (4th Edition)](https://link.springer.com/book/10.1007/978-3-662-52844-0) - Paid reference by Michel Marie Deza and Elena Deza.
 
@@ -146,6 +154,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 ## Core Mathematics
 
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) - Free notes, examples, and practice problems for algebra, calculus, and differential equations, by Paul Dawkins at Lamar University.
+* [UBC CLP Calculus Textbooks](https://personal.math.ubc.ca/~CLP/) - Free textbooks, problem books, and source files for a four-course university sequence in differential, integral, multivariable, and vector calculus.
 
 ## Foundations and Logic
 
@@ -194,6 +203,18 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Abstract and Concrete Categories: The Joy of Cats](https://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - Jiri Adamek, Horst Herrlich, George E. Strecker.
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316) - Brendan Fong and David I. Spivak (MIT).
 * [Category Theory in Context](https://math.jhu.edu/~eriehl/context/) - Emily Riehl (Johns Hopkins University).
+
+### Formal Mathematics and Theorem Proving
+
+* [Lean](https://lean-lang.org/) - Open-source interactive theorem prover and programming language based on dependent type theory, used for formal mathematics and software verification.
+* [mathlib](https://github.com/leanprover-community/Mathlib4) - Community-maintained mathematical library for Lean 4, with formalized theories, proof tactics, programming infrastructure, and generated documentation.
+* [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/) - Free textbook with examples and exercises for mathematicians learning Lean 4 and mathlib.
+* [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4) - Interactive Lean 4 game that introduces theorem proving through guided exercises about natural numbers.
+* [Isabelle](https://isabelle.in.tum.de/) - General-purpose interactive theorem prover with higher-order logic and set-theory environments for formalizing mathematics and computer science.
+* [Archive of Formal Proofs](https://www.isa-afp.org/) - Refereed collection of Isabelle proof libraries, examples, and scientific developments maintained against current Isabelle releases.
+* [Rocq Prover](https://rocq-prover.org/) - Open-source interactive theorem prover and dependently typed programming language for mechanized mathematics and verified software.
+* [Mathematical Components](https://math-comp.github.io/) - Rocq libraries and tools for large-scale formalized mathematics, including substantial developments in algebra and analysis.
+* [Metamath](https://us.metamath.org/) - Minimal formal language and proof verifier with explicit, inspectable proofs built from simple foundations.
 
 ## Algebra
 
@@ -428,6 +449,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 ### Probability
 
+* [Harvard Statistics 110: Probability](https://stat110.hsites.harvard.edu/) - Free probability course with a textbook, lecture videos, exercises, and an optional edX version by Joe Blitzstein.
 * [Introduction to Probability](https://chance.dartmouth.edu/teaching_aids/books_articles/probability_book/pdf.html) - Charles M. Grinstead, J. Laurie Snell.
 * [Introduction to Probability](https://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - Dimitri P. Bertsekas, John N. Tsitsiklis (MIT).
 * [A Short Introduction to Probability](https://people.smp.uq.edu.au/DirkKroese/asitp.pdf) - Dirk P. Kroese (University of Queensland).
@@ -512,6 +534,10 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila/book.html) - David J. C. MacKay.
 * [The Chaos Textbook: Mathematics in the age of the computer](https://hypertextbook.com/chaos/) - Glenn Elert.
 
+### Mathematics for Machine Learning
+
+* [Mathematics for Machine Learning](https://mml-book.github.io/) - Free textbook on the linear algebra, geometry, calculus, probability, and optimization needed to study machine learning.
+
 ### Mathematical Biology
 
 * [Mathematical Biology](https://www.math.hkust.edu.hk/~machas/mathematical-biology.pdf) - Jeffrey Chasnov.
@@ -524,6 +550,14 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Think DSP](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey.
 
 ## Mathematical Practice
+
+### AI for Mathematics
+
+This section covers AI-assisted theorem proving, formalization, and mathematical discovery. Resources that teach the mathematics used in machine learning appear under Mathematics for Machine Learning.
+
+* [LeanDojo v2](https://github.com/lean-dojo/LeanDojo-v2) - Open-source framework for training, evaluating, and deploying AI-assisted theorem provers for Lean 4.
+* [miniF2F](https://github.com/facebookresearch/miniF2F) - Cross-system benchmark of formalized olympiad, high-school, and undergraduate problems for evaluating automated theorem provers.
+* [AlphaGeometry](https://github.com/google-deepmind/alphageometry) - Open research implementation combining learned guidance with symbolic deduction for olympiad geometry problems.
 
 ### Mathematical Software and Tools
 
@@ -555,27 +589,31 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Notices of the American Mathematical Society](https://www.ams.org/notices) - Publicizes activities of the Society and features surveys, reports, news, announcements, and opinions on industry trends, academia, and research.
 * [European Mathematical Society Magazine](https://euromathsoc.org/magazine) - The Magazine features announcements about meetings and conferences, articles outlining current trends in scientific development, reports on member societies, and many other informational items.
 * [Mathematics Today by Institute of Mathematics and its Applications](https://ima.org.uk/publications/mathematics-today/) - News, opinions, and articles related to mathematics, so the reader stays updated.
-* [Crux Mathematicorum by Canadian Mathematical Society](https://cms.math.ca/publications/crux/) - source of unique and challenging mathematical problems designed for the secondary and undergraduate levels. It includes an Olympiad Corner which is helpful for math competitions.
+* [Crux Mathematicorum by Canadian Mathematical Society](https://cms.math.ca/publications/crux/) - Challenging problems for secondary and undergraduate students, including an Olympiad Corner.
 
 ### Blogs
 
 * [BetterExplained](https://betterexplained.com/) - Maintained by Kalid Azad.
 * [ILoveMaths](https://ilovemaths.com/) - Mathematics lessons and activities for Indian classes 6 to 12.
-* [3blue1brown](https://www.3blue1brown.com/) - Animated Maths.
-* [Mathsisfun](https://www.mathsisfun.com) simple text lightweight site for students up to highschool.
+* [3Blue1Brown](https://www.3blue1brown.com/) - Animated explanations of mathematics by Grant Sanderson.
+* [Math Is Fun](https://www.mathsisfun.com) - Lightweight lessons and reference pages for school mathematics.
 
 ### Meetings and Conferences
 
-* [MathsJam](https://mathsjam.com/) - monthly local recreational maths/puzzle meetups and an annual gathering in Staffordshire, England.
-* [Talking Maths in Public](https://talkingmathsinpublic.uk/) - a conference for maths communicators, running every two years, usually in the UK.
-* [Bridges](https://www.bridgesmathart.org/) - an annual conference on mathematical connections in art, music, architecture, and culture. The 2025 meeting is in Eindhoven, Netherlands.
+* [MathsJam](https://mathsjam.com/) - Monthly local recreational mathematics and puzzle meetups, plus an annual gathering in the United Kingdom.
+* [Talking Maths in Public](https://talkingmathsinpublic.uk/) - Biennial conference for mathematics communicators in the United Kingdom.
+* [Bridges](https://www.bridgesmathart.org/) - Annual conference on mathematical connections in art, music, architecture, and culture.
 
 ### Related Curated Lists
 
 * [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science) - Curated resources on computation, complexity, logic, algorithms, cryptography, and related mathematics.
+* [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing) - Curated software for numerical analysis, scientific computing, meshing, solvers, and visualization.
+* [Optimization](https://github.com/ebrahimpichka/awesome-optimization) - Courses, books, notes, and software across mathematical optimization and operations research.
+* [Interactive Mathematics](https://github.com/ubavic/awesome-interactive-math) - Tools and libraries for building interactive mathematical explanations and explorations.
+* [AI for Mathematics](https://github.com/seewoo5/awesome-ai-for-math) - Research index covering AI-assisted mathematical reasoning, discovery, formal proof, and related datasets. Individual entries require independent review.
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)
 
 This list is released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). See [LICENSE](LICENSE) for the full legal text.
