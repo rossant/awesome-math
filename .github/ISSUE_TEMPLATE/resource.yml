@@ -1,0 +1,135 @@
+name: Resource nomination
+description: Suggest one mathematics resource for the list
+title: "[Resource]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a resource. Read CONTRIBUTING.md before completing this form.
+
+        A nomination is a request for editorial review. It does not guarantee inclusion.
+
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+      placeholder: Mathematics in Lean
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Official URL
+      description: Link to the canonical landing page when possible.
+      placeholder: https://example.org/
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Getting started and general learning
+        - Foundations and logic
+        - Number theory
+        - Algebra
+        - Combinatorics
+        - Geometry and topology
+        - Analysis and differential equations
+        - Probability and statistics
+        - Optimization and numerical mathematics
+        - Mathematics for computer science
+        - Mathematical biology or physics
+        - Computation, visualization, and tools
+        - Formal mathematics
+        - Mathematics and AI
+        - Community and media
+        - Related lists
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: audience
+    attributes:
+      label: Intended audience
+      multiple: true
+      options:
+        - Secondary-school learners
+        - Undergraduate students
+        - Graduate students
+        - Self-learners
+        - Teachers
+        - Researchers and practitioners
+    validations:
+      required: true
+
+  - type: textarea
+    id: value
+    attributes:
+      label: What does this resource offer?
+      description: Describe its content, depth, and main use.
+    validations:
+      required: true
+
+  - type: textarea
+    id: comparison
+    attributes:
+      label: Why should it be included?
+      description: Compare it with the closest entries already in the list. Explain what it adds.
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Quality and maintenance evidence
+      description: Give evidence such as institutional use, independent recommendations, adoption, publication history, or active maintenance.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: access
+    attributes:
+      label: Access
+      options:
+        - Free and openly licensed
+        - Free to access
+        - Free with registration
+        - Freemium or partly paid
+        - Paid
+    validations:
+      required: true
+
+  - type: input
+    id: license
+    attributes:
+      label: Resource license
+      description: Leave blank if the resource does not state a license.
+      placeholder: CC BY 4.0, MIT, or no stated license
+
+  - type: textarea
+    id: relationship
+    attributes:
+      label: Your relationship to the resource
+      description: State whether you created, maintain, work for, sell, or otherwise benefit from it. Write "None" when you have no connection.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I reviewed or used this resource myself.
+          required: true
+        - label: I searched the README, issues, and pull requests for duplicates.
+          required: true
+        - label: I checked the link and the claims in this nomination.
+          required: true
+        - label: I disclosed my relationship to the resource.
+          required: true
+        - label: This issue nominates one resource.
+          required: true
