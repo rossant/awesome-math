@@ -214,12 +214,14 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Lean](https://lean-lang.org/) - Open-source interactive theorem prover and programming language based on dependent type theory, used for formal mathematics and software verification.
 * [mathlib](https://github.com/leanprover-community/Mathlib4) - Community-maintained mathematical library for Lean 4, with formalized theories, proof tactics, programming infrastructure, and generated documentation.
 * [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/) - Free textbook with examples and exercises for mathematicians learning Lean 4 and mathlib.
+* [Theorem Proving in Lean 4](https://lean-lang.org/theorem_proving_in_lean4/) - Free official textbook on dependent type theory, propositions, tactics, inductive types, type classes, and constructing verified proofs in Lean 4.
 * [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4) - Interactive Lean 4 game that introduces theorem proving through guided exercises about natural numbers.
 * [Isabelle](https://isabelle.in.tum.de/) - General-purpose interactive theorem prover with higher-order logic and set-theory environments for formalizing mathematics and computer science.
 * [Archive of Formal Proofs](https://www.isa-afp.org/) - Refereed collection of Isabelle proof libraries, examples, and scientific developments maintained against current Isabelle releases.
 * [Rocq Prover](https://rocq-prover.org/) - Open-source interactive theorem prover and dependently typed programming language for mechanized mathematics and verified software.
 * [Mathematical Components](https://math-comp.github.io/) - Rocq libraries and tools for large-scale formalized mathematics, including substantial developments in algebra and analysis.
 * [Metamath](https://us.metamath.org/) - Minimal formal language and proof verifier with explicit, inspectable proofs built from simple foundations.
+* [Courses Using Lean](https://leanprover-community.github.io/courses.html) - Maintained, filterable index of university courses that teach Lean or use it for mathematics, logic, programming, and formal verification.
 * [Lean-related Conferences and Events](https://leanprover-community.github.io/events.html) - Maintained calendar and archive of conferences, workshops, and tutorials about Lean, mathlib, and formalized mathematics.
 
 ## Algebra
@@ -560,6 +562,8 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/) - Free textbook on the linear algebra, geometry, calculus, probability, and optimization needed to study machine learning.
 * [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/) - Free-to-read online textbook by Christopher M. Bishop and Hugh Bishop, with a probability-based treatment of modern deep-learning models and methods.
+* [Mathematics of Machine Learning](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/) - Free graduate MIT course on the mathematical and statistical foundations of machine learning, with lecture notes, assignments, and problem-set solutions.
+* [Probabilistic Machine Learning](https://probml.github.io/pml-book/) - Introductory and advanced books by Kevin Murphy, with free draft PDFs, code, figures, exercises, and teaching resources.
 
 ### Information and Coding Theory
 
@@ -595,6 +599,8 @@ This section covers AI-assisted theorem proving, formalization, and mathematical
 * [Math AI Seminar](https://math.washington.edu/events/series/math-ai-seminar) - University of Washington research seminar on formalization, theorem proving, mathematical AI, and machine-learning applications in mathematics, with a multi-year event archive.
 * [b=M²L](https://bm2l.github.io/) - Barcelona Mathematics and Machine Learning colloquia on the interaction between mathematics and machine learning, with multi-year editions and recorded talks.
 * [AI for Mathematics and Theoretical Computer Science](https://simons.berkeley.edu/workshops/simons-institute-theory-computing-slmath-joint-workshop-ai-mathematics-theoretical) - Simons Institute and SLMath workshop archive with recorded talks on proof assistants, automated reasoning, machine learning, and mathematical discovery.
+* [Mathematics and AI](https://sites.math.washington.edu/~jarod/math583E-fall25.html) - University of Washington Fall 2025 graduate course with public slides, Lean examples, projects, and readings on machine learning, formalization, autoformalization, mathematical discovery, and ethics.
+* [AI-Assisted Mathematical Discovery](https://github.com/Nebius-Academy/ai-in-math-course) - Open thirteen-week course with notes, notebooks, exercises, and case studies on coding agents, machine learning, language models, reinforcement learning, and experimental mathematical research.
 
 ### Mathematical Software and Tools
 
