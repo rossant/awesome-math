@@ -113,6 +113,15 @@ Do not remove a resource based only on a timeout, `403` response, or other
 automated link-check result. Look for a current official page and confirm the
 resource status first.
 
+## Local checks
+
+Before submitting a pull request, run:
+
+```shell
+python scripts/validate.py
+npx --yes awesome-lint@2.3.0
+```
+
 ## Review
 
 Inclusion is an editorial decision. A declined nomination may still be useful or
