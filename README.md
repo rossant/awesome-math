@@ -17,7 +17,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
     * [Questions and Answers](#questions-and-answers)
     * [Reference Works](#reference-works)
     * [Broad Course Notes](#broad-course-notes)
-* [Core Mathematics](#core-mathematics)
+* [General Mathematics](#general-mathematics)
 * [Foundations and Logic](#foundations-and-logic)
     * [Logic](#logic)
     * [Set Theory](#set-theory)
@@ -79,7 +79,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
     * [Blogs](#blogs)
     * [Meetings and Conferences](#meetings-and-conferences)
     * [Related Curated Lists](#related-curated-lists)
-* [License](#license)
 
 <!-- END_TOC -->
 
@@ -101,8 +100,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Math Academy](https://mathacademy.com/) - Paid adaptive platform with diagnostic assessment and mastery-based courses from fourth-grade mathematics through university topics.
 * [OSSU Math](https://github.com/ossu/math) - Free, prerequisite-ordered self-study curriculum modeled on the mathematics requirements of an undergraduate degree.
 * [Waterloo Open Math](https://open.math.uwaterloo.ca/) - Free university-level courseware with lessons, exercises, and immediate feedback from the University of Waterloo.
-* [Derivative Calculus Solver](https://www.derivativecalculus.com) - A step-by-step differentiation tool focused on the chain rule and substitution logic.
-
 ### Proof and Problem Solving
 
 * [Basic Concepts of Mathematics](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp93727) - Elias Zakon.
@@ -159,7 +156,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT. 2012 ~ 2018. Covers Combinatorics, Number Theory, Honors Algebra, Set Theory, Real Analysis, Graph Theory, and more.
 * [Dexter Chua](https://dec41.user.srcf.net/notes/) - Harvard. 2013 ~ 2018. Covers Analysis, Probability, Linear Algebra, Complex Analysis, Numerical Analysis, Statistics, Optimization, Algebraic Topology, Quantum Field Theory, and more.
 
-## Core Mathematics
+## General Mathematics
 
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) - Free notes, examples, and practice problems for algebra, calculus, and differential equations, by Paul Dawkins at Lamar University.
 * [UBC CLP Calculus Textbooks](https://personal.math.ubc.ca/~CLP/) - Free textbooks, problem books, and source files for a four-course university sequence in differential, integral, multivariable, and vector calculus.
@@ -321,7 +318,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 * [Fundamentals of Geometry](https://polly.phys.msu.ru/~belyaev/geometry.pdf) - Oleg A. Belyaev.
 * [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger.
-* [Euclid's Elements (David Joyce edition)](https://aleph0.clarku.edu/~djoyce/java/elements/) - Euclid.
+* [Euclid's Elements (David Joyce edition)](https://mathcs.clarku.edu/~djoyce/elements/elements.html) - Euclid.
 * [Euclid's Elements Redux](https://open.umn.edu/opentextbooks/textbooks/euclid-s-elements-redux) - Daniel Callahan.
 * [Mathematical Illustrations](https://personal.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman.
 * [Byrne's Euclid](https://www.c82.net/euclid/) - Oliver Byrne.
@@ -400,7 +397,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor.
 * [An Introduction to Complex Analysis and Geometry](https://bookstore.ams.org/AMSTEXT/12) - Paid textbook by John P. D'Angelo.
 * [A First Course in Complex Analysis](https://textbooks.aimath.org/textbooks/approved-textbooks/beck-marchesi-pixton-sabalka/) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka.
-* [A Guide to Complex Variables](https://www.cambridge.org/core/books/guide-to-complex-variables/1B855327EA9DC5C2AEBB3AC9CD214A01) - Paid textbook by Steven G. Krantz.
+* [A Guide to Complex Variables](https://www.cambridge.org/core/books/guide-to-complex-variables/13375E580A4064821DB12BEBB569186E) - Paid textbook by Steven G. Krantz.
 * [Complex Analysis](https://personalpages.manchester.ac.uk/staff/charles.walkden/complex-analysis/) - Charles Walkden.
 * [Complex Analysis](https://www.math.ku.dk/bibliotek/arkivet/noter/) - Christian Berg.
 * [Complex Variables](https://people.math.sc.edu/girardi/m7034/book/AshComplexVariablesWithHyperlinks.pdf) - R. B. Ash, W.P. Novinger.
@@ -613,8 +610,6 @@ This section covers AI-assisted theorem proving, formalization, and mathematical
 * [Wolfram Mathematica](https://www.wolfram.com/mathematica/) - Paid technical-computing system for symbolic and numerical mathematics, visualization, programming, and data analysis.
 * [Free Math](https://freemathapp.org) - Free, open-source software for recording, organizing, and reviewing digital mathematics homework without solving the problems automatically.
 * [RunMat](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
-* [Structural Engineering Tools (SEPCO Engineering)](https://github.com/sepcostructural/structural-engineering-tools) - Free online calculators for beam diagrams, Canadian steel section properties, and pressure conversions.
-
 ## History and Mathematics Education
 
 * [MacTutor History of Mathematics Archive](https://mathshistory.st-andrews.ac.uk/) - University of St Andrews archive of mathematician biographies, histories of mathematical topics, timelines, institutions, and related reference material.
@@ -652,9 +647,3 @@ This section covers AI-assisted theorem proving, formalization, and mathematical
 * [Optimization](https://github.com/ebrahimpichka/awesome-optimization) - Courses, books, notes, and software across mathematical optimization and operations research.
 * [Interactive Mathematics](https://github.com/ubavic/awesome-interactive-math) - Tools and libraries for building interactive mathematical explanations and explorations.
 * [AI for Mathematics](https://github.com/seewoo5/awesome-ai-for-math) - Research index covering AI-assisted mathematical reasoning, discovery, formal proof, and related datasets. Individual entries require independent review.
-
-## License
-
-![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)
-
-This list is released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). See [LICENSE](LICENSE) for the full legal text.
