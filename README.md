@@ -136,7 +136,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 ### Reference Works
 
 * [Mathematics Subject Classification 2020](https://msc2020.org/) - The standard subject taxonomy maintained by Mathematical Reviews and zbMATH.
-* [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org)
+* [Encyclopedia of Mathematics](https://encyclopediaofmath.org/wiki/Main_Page)
 * [Planetmath](http://planetmath.org/)
 * [ProofWiki](https://proofwiki.org/wiki/Main_Page)
 * [Wolfram Mathworld](http://mathworld.wolfram.com/)
@@ -146,9 +146,9 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
-* [Multivariable Calculus](http://people.math.gatech.edu/%7Ecain/notes/calculus.html) - G. Cain, J. Herod (Georgia Tech)
+* [Multivariable Calculus](https://cain.math.gatech.edu/notes/calculus.html) - G. Cain, J. Herod (Georgia Tech)
 * [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
-* [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
+* [Online Mathematics Textbooks](https://cain.math.gatech.edu/textbooks/onlinebooks.html)
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
 * [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 * [Trigonometry](https://www.mecmath.net/trig/index.html) - Michael Corral
@@ -174,9 +174,9 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * 📝 [forall x: Calgary (An Introduction to Formal Logic)](https://forallx.openlogicproject.org/) - P.D. Magnus and Tim Button, remixed by Aaron Thomas-Bolduc and Richard Zach (Open Logic Project)
 * 📝 [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (Trent University)
 * 📝 [Computability - An introduction to recursive function theory](http://poincare.matf.bg.ac.rs/~zarkom/Book_Math__Cutland_Computability.pdf) - Nigel Cutland (University of Hull)
-* 📝 [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) - Jon Barwise, John Etchemendy
+* 💲 [Language, Proof, and Logic, Second Edition](https://press.uchicago.edu/ucp/books/book/distributed/L/bo12734345.html) - Dave Barker-Plummer, Jon Barwise, and John Etchemendy.
 * 📝 [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
-* 📝 [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
+* 📝 [Mathematical Logic](https://sgslogic.net/t20/notes/) - Stephen G. Simpson (Pennsylvania State University)
 * 📝 [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
 * 📝 [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) - Edward Nelson
 * 📝 [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) - Joy Morris, Dave Morris
@@ -219,18 +219,16 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 ## Algebra
 
 * 📝 [A Course in Universal Algebra](http://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html) - S. Burris, H.P. Sankappanavar
-* 📝 [A Course in Commutative Algebra](https://faculty.math.illinois.edu/~r-ash/ComAlg.html) - Robert Ash
 * 📝 [First Course in Algebra](http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (1910)
 * 📝 [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (1911)
 * 📝 [Algebra: An Elementary Text-Book, Part I](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf) - G. Chrystal (1904)
 * 📝 [Algebra: An Elementary Text-Book, Part II](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) - G. Chrystal (1900)
-* 📝 [Understanding Algebra](https://jamesbrennan.org/algebra) - James W. Brennan
 
 ### Abstract Algebra
 
 * 📝 [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) - David Joyce (Clark University)
 * 📝 [Algebraic Methods](https://feog.github.io/AA11.pdf) - F. Oggier
-* 📝 [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) - Thomas W. Judson, Robert A. Beezer (Austin State University)
+* 📝 [Abstract Algebra: Theory and Applications](https://judsonbooks.org/abstract-algebra-theory-and-applications/) - Thomas W. Judson
 * 📝 [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
 * 📝 [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - Robert Ash
 * 📝 [Abstract Algebra: Harvard Extension (Archived)](https://web.archive.org/web/20150528171650/extension.harvard.edu/open-learning-initiative/abstract-algebra) - Benedict Gross
@@ -240,23 +238,22 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 * 📝 [Fundamentals of Linear Algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - James B. Carrell
 * 📝 [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
-* 📝 [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
+* 📝 [Linear Algebra](https://hefferon.net/linearalgebra/) - Jim Hefferon
 * 📝 [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 * 📝 [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
-* 📝 [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
+* 📝 [A First Course in Linear Algebra](https://textbooks.aimath.org/textbooks/approved-textbooks/beezer/) - Robert A. Beezer
 * 📝 [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
 * 📝 [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - Ray M Bowen, C. C. Wang
 * 📝 [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, C. C. Wang
 * 📝 [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
 * 📝 [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - Sergei Treil
-* 📝 [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller
+* 📝 [Immersive Linear Algebra](https://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller
 * 📝 [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff
 * 📝 [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
 * 📖 [Linear Algebra Done Right](https://linear.axler.net/) - Sheldon Axler
 
 ### Group Theory
 
-* 📝 [Notes on Group Theory](https://www2.bc.edu/mark-reeder/Groups.pdf) - Mark Reeder
 * 📝 [Group Theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne
 * 📝 [Notes on Finite Group Theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - Peter J. Cameron
 * 📝 [Group Theory](https://birdtracks.eu/) - Predrag Cvitanović
@@ -267,7 +264,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 * 📝 [An Introduction to Galois Theory](https://www.maths.gla.ac.uk/~ajb/course-notes.html) - Andrew Baker (University of Glasgow)
 * 📝 [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne
-* 📝 [Galois theory](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf) - Miles Reid
+* 📝 [Galois Theory](https://mreid.warwick.ac.uk/MA3D5/) - Miles Reid
 * 📝 [Galois Theory](https://eclass.uoa.gr/modules/document/file.php/MATH594/Stewart%20Galois%204th%20edition.pdf) - Ian Stewart
 * 📝 [Galois Theory](https://arxiv.org/pdf/2408.07499) — Tom Leinster (University of Edinburgh)
 
@@ -285,7 +282,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * 📝 [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) - W. Edwin Clark (University of South Florida)
 * 📝 [A Course on Number Theory](http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf) - Peter J. Cameron
 * 📝 [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
-* 📝 [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
 * 📝 [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
 * 📝 [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
 
@@ -306,14 +302,14 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 ## Combinatorics and Discrete Mathematics
 
 * 📝 [Basic Combinatorics](http://web.math.utk.edu/~wagner/papers/comb.pdf) - Carl G. Wagner (University of Tennessee)
-* 📝 [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - Mitchel T. Keller, William T. Trotter
+* 📝 [Applied Combinatorics](https://appliedcombinatorics.org/appcomb/) - Mitchel T. Keller, William T. Trotter
 * 📝 [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron
 * 📝 [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) - Philippe Flajolet, Robert Sedgewick
 * 📝 [generatingfunctionology](http://www.math.upenn.edu/~wilf/DownldGF.html) - Herbert Wilf
 
 ### Graph Theory
 
-* 📝 [Graph Theory: Lecture Notes](http://www.personal.psu.edu/cxg286/Math485.pdf) - Christopher Griffin
+* 📝 [Graph Theory: Lecture Notes](https://sites.psu.edu/griffinch/lecture_notes/) - Christopher Griffin
 * 📝 [Graph Theory](http://www.cs.unibo.it/babaoglu/courses/cas00-01/tutorials/GraphTheory.pdf) - Reinhard Diestel
 * 📝 [Graph Theory : Interactive Algorithm Visualizer | Graph Theory Learning Platform](https://learngraphtheory.org/) - Hadjoudj Mohammed Islam
 
@@ -322,7 +318,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * 📝 [Fundamentals of Geometry](http://polly.phys.msu.ru/~belyaev/geometry.pdf) - Oleg A. Belyaev
 * 📝 [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
 * 📝 [Elements](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html) - Euclid
-* 📝 [Euclid's Elements Redux](http://starrhorse.com/euclid/) - Daniel Callahan
+* 📝 [Euclid's Elements Redux](https://open.umn.edu/opentextbooks/textbooks/euclid-s-elements-redux) - Daniel Callahan
 * 📝 [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman
 * 📝 [Byrne's Euclid](https://www.c82.net/euclid/) - Oliver Byrne
 * 📝 [Plane Geometry](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - George Wentworth and David Eugene Smith (1913)
@@ -344,7 +340,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 ### Algebraic Geometry
 
 * 📝 [A Brief Introduction to Algebraic Geometry](https://ksda.ccny.cuny.edu/PostedPapers/rickksda1107.pdf) - R.C. Churchill
-* 📝 [Introduction to Algebraic Geometry](http://www.math.lsa.umich.edu/~idolga/631.pdf) - Igor V. Dolgachev
+* 📝 [Introduction to Algebraic Geometry](https://sites.lsa.umich.edu/idolga/lecture-notes/) - Igor V. Dolgachev
 * 📝 [Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf) - Ravi Vakil
 * 📝 [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (University of Pennsylvania)
 * 📝 [Algebraic Geometry](http://www.jmilne.org/math/CourseNotes/AG.pdf) - J.S. Milne
@@ -382,7 +378,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * 📝 [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) - Jiří Lebl
 * 📝 [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - Thomson, Bruckner
 * 📝 [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (McMaster University)
-* 📝 [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
+* 📝 [Advanced Real Analysis](https://people.math.harvard.edu/~ctm/home/text/class/harvard/212a/19/html/index.html) - Curtis T. McMullen
 * 📝 [Real Analysis for Graduate Students](https://r-bass.scholar.uconn.edu/) - Richard F. Bass
 * 📝 [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (Indiana University)
 * 📝 [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
@@ -412,7 +408,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * 📝 [Complex Analysis](http://www.maths.lth.se/matematiklu/personal/olofsson/CompHT06.pdf) - Christer Bennewitz
 * 📝 [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
 * 📝 [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) - Wilhelm Schlag
-* 📝 [Complex Analysis](http://people.math.gatech.edu/%7Ecain/winter99/complex.html) - G. Cain (Georgia Tech)
+* 📝 [Complex Analysis](https://cain.math.gatech.edu/winter99/complex.html) - G. Cain (Georgia Tech)
 * 📝 [Complex Analysis](https://complex-analysis.com/) - Juan Carlos Ponce Campuzano
 
 ### Functional Analysis
@@ -435,7 +431,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 * 📝 [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf) - Terence Tao (UCLA)
 * 📝 [Lecture Notes in Measure Theory](https://www.math.chalmers.se/Math/Grundutb/GU/MMA110/A11/MeasureTheory.pdf) - Christer Borell
-* 📝 [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng
+* 📝 [A Crash Course on the Lebesgue Integral and Measure Theory](https://github.gold-saucer.org/LebesgueIntegration/lebesgue.pdf) - Steve Cheng
 * 📝 [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) - John K. Hunter (University of California at Davis)
 * 📝 [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon (ETH Zürich)
 * 📝 [Lecture notes: Measure Theory](http://www.math.ucsd.edu/~bdriver/240-00-01/Lecture_Notes/measurep.pdf) - Bruce K. Driver
@@ -450,7 +446,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * 📝 [Ordinary Differential Equations](https://www.math.lmu.de/~philip/) - Peter Philip
 * 📝 [Ordinary Differential Equations](http://users.math.msu.edu/users/gnagy/teaching/ode.pdf) - Gabriel Nagy
 * 📝 [Ordinary Differential Equations and Dynamical Systems](http://www.mat.univie.ac.at/~gerald/ftp/book-ode/ode.pdf) - Gerald Teschl
-* 📝 [Notes on Differential Equations](http://leipper.org/manuals/zip-fill/dn-difeq-notes.pdf) - Bob Terrell
+* 📝 [Difference Equations to Differential Equations](https://dananne.org/dw/doku.php) - Dan Sloughter
 * 📝 [Elementary Differential Equations](http://digitalcommons.trinity.edu/mono/8/) - William F. Trench
 * 📝 [Elementary Differential Equations With Boundary Value Problems](http://digitalcommons.trinity.edu/mono/9/) - William F. Trench
 * 📝 [Notes on Diffy Qs: Differential Equations for Engineers](http://www.jirka.org/diffyqs/) - Jiří Lebl
@@ -484,7 +480,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Research and Lecture Notes](https://fabricebaudoin.blog/) - Advanced notes by Fabrice Baudoin on stochastic analysis, differential geometry, and Dirichlet spaces.
 * 📝 [Lectures on Stochastic Processes](http://www.math.tifr.res.in/~publ/ln/tifr24.pdf) - K. Ito (Tata Institute of Fundamental Research, Bombay)
 * 📝 [Probability and Stochastic Processes with Applications](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - Oliver Knill (Harvard University)
-* 📝 [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
+* 📝 [Stochastic Processes](https://adembo.su.domains/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
 * 📝 [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (Freie Universität Berlin)
 * 📝 [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (University of Texas)
 * 📝 [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
@@ -502,7 +498,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * 📝 [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University)
 * 📝 [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (University of Arizona)
 * 📝 [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
-* 📝 [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
+* 📝 [UCLA Statistical Methods and Data Analytics](https://stats.oarc.ucla.edu/) - Tutorials and examples for R, Stata, SAS, and SPSS.
 * 📝 [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
 * 📝 [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) - Richard Lowry
 * 📝 [Rough set data analysis: A road to non-invasive knowledge discovery](http://www.cosc.brocku.ca/~duentsch/papers/methprimer2.html) - Ivo Düntsch, Günther Gediga
@@ -514,7 +510,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 ### Statistical Learning
 
-* 📝 [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+* 📝 [An Introduction to Statistical Learning](https://www.statlearning.com/) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 * 📝 [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/main.html) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
 * 📝 [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang
 * 📝 [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/9780262039246/reinforcement-learning/) - Richard S. Sutton, Andrew G. Barto (2nd edition)
@@ -545,7 +541,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 ## Mathematical Physics
 
 * 📝 [Introduction to Continuum Mechanics](http://oaktrust.library.tamu.edu/handle/1969.1/2501) - Ray. M. Bowen
-* 📝 [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) - James Nearing
 * 📝 [Mechanism of the Heavens (1831)](https://openlibrary.org/books/OL6970552M/Mechanism_of_the_heavens) - Mary Somerville
 
 ## Interdisciplinary Mathematics
@@ -595,8 +590,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [CopyPasteMathjax](https://www.copypastemathjax.com/)
 * [Finance calculators](https://www.financecharts.com/pages/5724-retirement-calculators-and-stock-market-tips)
 * [Mathcheap](https://mathcheap.xyz)
-* [Midpoint Calculator](https://midpointcalculator.co)
-* [Quartiles Calculator](https://quartilecalculator.net)
 * [Corca Editor](https://corca.io/)
 * [RunMat](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
 * [Structural Engineering Tools (SEPCO Engineering)](https://github.com/sepcostructural/structural-engineering-tools) - Free online calculators for beam diagrams, Canadian steel section properties, and pressure conversions.
@@ -615,7 +608,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 ### Blogs
 
 * [BetterExplained](https://betterexplained.com/) - Maintained by Kalid Azad
-* [ILoveMaths](http://ilovemaths.com/) - For grades 6 thru 12 in K-12 system
+* [ILoveMaths](https://ilovemaths.com/) - Mathematics lessons and activities for Indian classes 6 to 12.
 * [3blue1brown](https://www.3blue1brown.com/) - Animated Maths
 * [Mathsisfun](https://www.mathsisfun.com) simple text lightweight site for students up to highschool
 
