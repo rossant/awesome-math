@@ -39,6 +39,11 @@ A resource should:
 The proposer should have reviewed the resource. Search the README, open issues,
 closed issues, and pull requests before submitting it.
 
+The subject structure is informed by the
+[Mathematics Subject Classification 2020](https://msc2020.org/), with broader
+groups chosen for easier browsing. Suggest the section that will help readers
+find the resource. Maintainers may choose another section during review.
+
 ## Resources we usually decline
 
 We usually decline:

@@ -34,14 +34,15 @@ def _iter_headers(md):
 
 def _get_header_item(header):
     level, anchor, name = _parse_header(header)
-    indent = '    ' * max(0, level - 1)
+    indent = '    ' * max(0, level - 2)
     return _HEADER_TEMPLATE.format(**locals())
 
 
 def _gen_items(md):
     for header in _iter_headers(md):
         item = _get_header_item(header)
-        yield item
+        if '[Contents]' not in item:
+            yield item
 
 
 def _read_md(filename):
