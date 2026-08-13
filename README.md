@@ -226,6 +226,8 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 ## Algebra
 
+* [Elementary Algebra 2e](https://openstax.org/books/elementary-algebra-2e/pages/1-introduction) - Free one-semester textbook from OpenStax with web and PDF editions, worked examples, practice exercises, chapter reviews, and answer keys.
+
 ### Abstract Algebra
 
 * [A Course in Universal Algebra](https://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html) - Free online edition of Stanley Burris and H. P. Sankappanavar's graduate text on universal algebra.
