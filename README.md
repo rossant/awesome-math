@@ -1,8 +1,10 @@
-# Awesome Math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Math [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome mathematics resources.
+Awesome Math is a curated list of high-quality resources for learning, teaching, and doing mathematics. It covers pure mathematics, applied mathematics, computation, formal proof, and the use of AI in mathematics.
 
-All resources are freely available except those with a 💲 icon.
+Most resources are free to access. Paid resources may be included when they are widely respected, unusually useful, and hard to replace. Access limits should be stated in the entry.
+
+Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource.
 
 # Contents
 
@@ -647,6 +649,6 @@ All resources are freely available except those with a 💲 icon.
 
 # License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) has waived all copyright and related or neighboring rights to this work.
+This list is released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). See [LICENSE](LICENSE) for the full legal text.

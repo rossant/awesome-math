@@ -1,0 +1,56 @@
+name: Maintenance report
+description: Report a broken link, outdated entry, duplicate, or category problem
+title: "[Maintenance]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping maintain the list. Give enough detail for another person to verify the report.
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Problem type
+      options:
+        - Broken link
+        - Redirected or moved resource
+        - Outdated or abandoned resource
+        - Duplicate entry
+        - Incorrect description
+        - Incorrect category
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: entry
+    attributes:
+      label: Affected entry or URL
+      placeholder: Paste the README entry or its URL
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Explain what you found and how you checked it. Include any HTTP status or redirect destination.
+    validations:
+      required: true
+
+  - type: input
+    id: replacement
+    attributes:
+      label: Suggested replacement
+      description: Give the current official URL when you found one.
+      placeholder: https://example.org/current-page
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched existing issues and pull requests for this problem.
+          required: true
+        - label: I did not treat a timeout or 403 response alone as proof that the resource is gone.
+          required: true
