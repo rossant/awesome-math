@@ -226,14 +226,9 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 ## Algebra
 
-* [A Course in Universal Algebra](https://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html) - S. Burris, H.P. Sankappanavar.
-* [First Course in Algebra](https://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (1910).
-* [Second Course in Algebra](https://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (1911).
-* [Algebra: An Elementary Text-Book, Part I](https://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf) - G. Chrystal (1904).
-* [Algebra: An Elementary Text-Book, Part II](https://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) - G. Chrystal (1900).
-
 ### Abstract Algebra
 
+* [A Course in Universal Algebra](https://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html) - Free online edition of Stanley Burris and H. P. Sankappanavar's graduate text on universal algebra.
 * [Introduction to Modern Algebra](https://mathcs.clarku.edu/~djoyce/ma225/algebra.pdf) - David Joyce (Clark University).
 * [Algebraic Methods](https://feog.github.io/AA11.pdf) - F. Oggier.
 * [Abstract Algebra: Theory and Applications](https://judsonbooks.org/abstract-algebra-theory-and-applications/) - Thomas W. Judson.
@@ -321,15 +316,11 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 ## Geometry and Topology
 
-* [Fundamentals of Geometry](https://polly.phys.msu.ru/~belyaev/geometry.pdf) - Oleg A. Belyaev.
-* [Euclid's Elements (David Joyce edition)](https://mathcs.clarku.edu/~djoyce/elements/elements.html) - Euclid.
-* [Euclid's Elements Redux](https://open.umn.edu/opentextbooks/textbooks/euclid-s-elements-redux) - Daniel Callahan.
-* [Mathematical Illustrations](https://personal.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman.
-* [Byrne's Euclid](https://www.c82.net/euclid/) - Oliver Byrne.
-* [Plane Geometry](https://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - George Wentworth and David Eugene Smith (1913).
-* [Planes and Spherical Trigonometry](https://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth and David Eugene Smith (1915).
-* [Coordinate Geometry](https://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) - Henry Buchard Fine and Henry Dallas Thompson (1911).
-* [Analytic Geometry](https://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - Lewis Parker Siceloff, George Wentworth, David Eugene Smith (1922).
+* [Fundamentals of Geometry](https://polly.phys.msu.ru/~belyaev/geometry.pdf) - Free geometry text by Oleg A. Belyaev.
+* [Euclid's Elements (David Joyce edition)](https://mathcs.clarku.edu/~djoyce/elements/elements.html) - Complete web edition with diagrams, commentary, and references by David Joyce.
+* [Euclid's Elements Redux](https://open.umn.edu/opentextbooks/textbooks/euclid-s-elements-redux) - Open textbook by Daniel Callahan that presents Euclid with modern commentary and exercises.
+* [Mathematical Illustrations](https://personal.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman's guide to creating clear mathematical diagrams and illustrations.
+* [Byrne's Euclid](https://www.c82.net/euclid/) - Interactive web edition of Oliver Byrne's color-coded presentation of Euclid's first six books.
 
 ### Differential Geometry
 
@@ -394,7 +385,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Active Calculus](https://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) - Matt Boelkins.
 * [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) - George M. Bergman.
 * [Calculus Made Easy](https://calculusmadeeasy.org/) - Silvanus P. Thompson (1910).
-* [Elements of Differential and Integral Calculus](https://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (1911).
 * [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) - Carl Stitz, Jeff Zeager.
 
 ### Complex Analysis
@@ -444,17 +434,13 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 ### Ordinary Differential Equations
 
-* [Difference Equations To Differential Equations](https://synechism.org/wp/difference-equations-to-differential-equations/) - Dan Sloughter.
 * [Ordinary Differential Equation](https://www.math.uni-bielefeld.de/~grigor/odelec2008.pdf) - Alexander Grigorian (University of Bielefeld).
 * [Ordinary Differential Equations: Lecture Notes](https://www.cs.bgu.ac.il/~leonid/ode_bio_files/Ionascu_LectNotes.pdf) - Eugen J. Ionascu.
-* [Ordinary Differential Equations](https://www.math.lmu.de/~philip/) - Peter Philip.
 * [Differential Equations](https://users.math.msu.edu/users/gnagy/teaching/ade.pdf) - Gabriel Nagy.
 * [Ordinary Differential Equations and Dynamical Systems](https://www.mat.univie.ac.at/~gerald/ftp/book-ode/ode.pdf) - Gerald Teschl.
-* [Difference Equations to Differential Equations](https://dananne.org/dw/doku.php) - Dan Sloughter.
 * [Elementary Differential Equations](https://digitalcommons.trinity.edu/mono/8/) - William F. Trench.
 * [Elementary Differential Equations With Boundary Value Problems](https://digitalcommons.trinity.edu/mono/9/) - William F. Trench.
 * [Notes on Diffy Qs: Differential Equations for Engineers](https://www.jirka.org/diffyqs/) - Jiří Lebl.
-* [Differential Equations](https://djm.cc/library/Differential_Equations_Phillips_edited.pdf) - H. B. Phillips (1922).
 
 ### Partial Differential Equations
 
@@ -495,15 +481,13 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 ### Statistics
 
-* [Lecture Notes on Statistical Theory](https://homepages.math.uic.edu/~rgmartin/Teaching/Stat411/Notes/411notes.pdf) - Ryan Martin (University of Illinois).
+* [Lecture Notes on Statistical Theory](https://homepages.math.uic.edu/~rgmartin/Teaching/Stat411/Notes/411notes.pdf) - Undergraduate notes by Ryan Martin on estimation, likelihood, hypothesis testing, and Bayesian statistics, with some R examples.
 * [Introduction to Statistics and Data Analysis for Physicists](https://www-library.desy.de/preparch/books/vstatmp_engl.pdf) - Gerhard Bohm, Günter Zech.
-* [Lectures on Statistics](https://archive.math.arizona.edu/faris/stat.pdf) - William G. Faris.
-* [Statistical Theory](https://pages.pomona.edu/~ajr04747/Fall2009/Math152/Notes/Math152NotesFall09.pdf) - Adolfo J. Rumbos.
-* [Theory of Statistics](https://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University).
-* [Theory of Statistics](https://archive.math.arizona.edu/jwatkins/notests.pdf) - Joseph C. Watkins (University of Arizona).
+* [Lectures on Statistics](https://archive.math.arizona.edu/faris/stat.pdf) - Free text by William G. Faris covering inference, Bayesian methods, regression, principal components, and linear models.
+* [Theory of Statistics](https://mason.gmu.edu/~jgentle/books/MathStat.pdf) - Advanced, actively revised text by James E. Gentle on probability, statistical models, estimation, testing, and asymptotic theory.
+* [Theory of Statistics](https://archive.math.arizona.edu/jwatkins/notests.pdf) - Graduate notes by Joseph C. Watkins on measure-based probability, decision theory, estimation, testing, and hierarchical models.
 * [UCLA Statistical Methods and Data Analytics](https://stats.oarc.ucla.edu/) - Tutorials and examples for R, Stata, SAS, and SPSS.
 * [NIST Handbook of Statistical Methods](https://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
-* [Concepts and Applications of Inferential Statistics](https://vassarstats.net/textbook/) - Richard Lowry.
 * [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Russell A. Poldrack.
 * [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg.
 * [Seeing Theory](https://seeing-theory.brown.edu/) - Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang.
@@ -529,13 +513,12 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 ### Numerical Analysis
 
-* [Introduction to Numerical Analysis](https://www.math.umd.edu/~dlevy/resources/notes.pdf) - Doron Levy (University of Maryland).
-* [A Concise Introduction to Numerical Analysis](https://www-users.cse.umn.edu/~arnold/597.00-01/nabook.pdf) - Douglas N. Arnold (University of Minnesota).
-* [Numerical Analysis (Second Edition)](https://people.cs.uchicago.edu/~ridg/newna/natwo.pdf) - L. Ridgway Scott.
-* [Lectures in Basic Computational Numerical Analysis](https://uknowledge.uky.edu/math_textbooks/1/) - J. M. McDonough (University of Kentucky).
-* [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan.
-* [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/nm/) - Douglas Wilhelm Harder.
-* [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/users/flame/laff/alaff/frontmatter.html) - Robert van de Geijn, Margaret Myers (University of Texas at Austin).
+* [Introduction to Numerical Analysis](https://www.math.umd.edu/~dlevy/resources/notes.pdf) - Undergraduate notes by Doron Levy on root finding, interpolation, approximation, numerical differentiation, and quadrature.
+* [Numerical Analysis (Second Edition)](https://people.cs.uchicago.edu/~ridg/newna/natwo.pdf) - Free second-edition textbook by L. Ridgway Scott on the theory and practice of numerical methods.
+* [Lectures in Basic Computational Numerical Analysis](https://uknowledge.uky.edu/math_textbooks/1/) - Archived University of Kentucky textbook by J. M. McDonough, focused on computational methods for differential equations.
+* [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Specialized notes by Alfred Schmidt and Arsen Narimanyan on adaptive finite element methods.
+* [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/nm/) - University of Waterloo course with lectures, assignments, projects, and MATLAB material on numerical methods for engineers.
+* [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/users/flame/laff/alaff/frontmatter.html) - Online text by Robert van de Geijn and Margaret Myers on algorithms for advanced numerical linear algebra.
 * [Fundamentals of Numerical Computation](https://fncbook.com/) - Online textbook by Tobin Driscoll and Richard Braun with Julia, MATLAB, and Python editions covering core numerical methods for linear systems, approximation, root finding, ODEs, and PDEs.
 
 ## Optimization, Operations Research, and Control
