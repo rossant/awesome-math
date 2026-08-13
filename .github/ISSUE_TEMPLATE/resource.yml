@@ -1,6 +1,8 @@
 name: Resource nomination
 description: Suggest one mathematics resource for the list
 title: "[Resource]: "
+labels:
+  - resource nomination
 body:
   - type: markdown
     attributes:
