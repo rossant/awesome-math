@@ -17,7 +17,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
     * [Questions and Answers](#questions-and-answers)
     * [Reference Works](#reference-works)
     * [Broad Course Notes](#broad-course-notes)
-    * [Other Resources Pending Review](#other-resources-pending-review)
+* [Core Mathematics](#core-mathematics)
 * [Foundations and Logic](#foundations-and-logic)
     * [Logic](#logic)
     * [Set Theory](#set-theory)
@@ -57,6 +57,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
     * [Algebraic Statistics](#algebraic-statistics)
 * [Numerical and Computational Mathematics](#numerical-and-computational-mathematics)
     * [Numerical Analysis](#numerical-analysis)
+* [Optimization, Operations Research, and Control](#optimization-operations-research-and-control)
 * [Mathematical Physics](#mathematical-physics)
 * [Interdisciplinary Mathematics](#interdisciplinary-mathematics)
     * [Mathematics for Computer Science](#mathematics-for-computer-science)
@@ -134,6 +135,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 ### Reference Works
 
+* [Mathematics Subject Classification 2020](https://msc2020.org/) - The standard subject taxonomy maintained by Mathematical Reviews and zbMATH.
 * [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org)
 * [Planetmath](http://planetmath.org/)
 * [ProofWiki](https://proofwiki.org/wiki/Main_Page)
@@ -159,16 +161,9 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT. 2012 ~ 2018. Covers Combinatorics, Number Theory, Honors Algebra, Set Theory, Real Analysis, Graph Theory, and more.
 * [Dexter Chua](https://dec41.user.srcf.net/notes/) - Harvard. 2013 ~ 2018. Covers Analysis, Probability, Linear Algebra, Complex Analysis, Numerical Analysis, Statistics, Optimization, Algebraic Topology, Quantum Field Theory, and more.
 
-### Other Resources Pending Review
+## Core Mathematics
 
-* [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
-* [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) - Paul Dawkins (Lamar University)
-* [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (Arkansas Tech University)
-* [Topology Atlas](http://at.yorku.ca/topology/)
-* [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (1917)
-* [Magic Squares and Cubes](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) - W. S. Andrews (1917)
-* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - Stephen Boyd and Lieven Vandenberghe
-* [Fabrice Baudoin's Notes](https://fabricebaudoin.wordpress.com/) - Both research and lecture notes on many topics, Including Diffusions on foliated manifold, Stochastic Calculus, Global analysis in Dirichlet spaces, and more.
+* [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) - Free notes, examples, and practice problems for algebra, calculus, and differential equations, by Paul Dawkins at Lamar University.
 
 ## Foundations and Logic
 
@@ -496,6 +491,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 ### Stochastic Processes
 
+* [Research and Lecture Notes](https://fabricebaudoin.blog/) - Advanced notes by Fabrice Baudoin on stochastic analysis, differential geometry, and Dirichlet spaces.
 * 📝 [Lectures on Stochastic Processes](http://www.math.tifr.res.in/~publ/ln/tifr24.pdf) - K. Ito (Tata Institute of Fundamental Research, Bombay)
 * 📝 [Probability and Stochastic Processes with Applications](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - Oliver Knill (Harvard University)
 * 📝 [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
@@ -551,6 +547,10 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * 📝 [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 * 📝 [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/nm/) - Douglas Wilhelm Harder
 * 📝🎥 [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/users/flame/laff/alaff/frontmatter.html) - Robert van de Geijn, Margaret Myers (University of Texas at Austin)
+
+## Optimization, Operations Research, and Control
+
+* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - A free textbook with slides, exercises, code, and course material by Stephen Boyd and Lieven Vandenberghe.
 
 ## Mathematical Physics
 
