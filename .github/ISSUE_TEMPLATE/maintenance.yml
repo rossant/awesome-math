@@ -1,6 +1,8 @@
 name: Maintenance report
 description: Report a broken link, outdated entry, duplicate, or category problem
 title: "[Maintenance]: "
+labels:
+  - maintenance
 body:
   - type: markdown
     attributes:
