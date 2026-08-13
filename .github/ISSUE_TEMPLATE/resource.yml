@@ -29,6 +29,25 @@ body:
       required: true
 
   - type: dropdown
+    id: resource_type
+    attributes:
+      label: Resource type
+      options:
+        - Book or lecture notes
+        - Course or tutorial
+        - Reference or encyclopedia
+        - Software or interactive tool
+        - Dataset or benchmark
+        - Seminar or recurring series
+        - Workshop or conference archive
+        - Article, essay, or case study
+        - Community or publication
+        - Curated list
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
     id: area
     attributes:
       label: Area

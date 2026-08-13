@@ -69,6 +69,26 @@ A paid resource may qualify when it is widely respected, unusually useful, and
 hard to replace. The entry must state any paywall, registration requirement,
 limited free plan, or other access restriction.
 
+## Talks, essays, and event archives
+
+Talks, essays, seminars, and workshops may qualify when they offer lasting
+mathematical value. Prefer a stable series page or archive over an individual
+announcement.
+
+A recurring series should have a useful archive or clear evidence of continued
+stewardship. A completed workshop should provide recordings, notes,
+proceedings, code, data, or another substantial record. Pages whose main use is
+registration or a current schedule are usually too temporary.
+
+An individual post or case study needs a high bar. Claims about mathematical
+discovery or proof should link to a paper, formal proof, reproducible code,
+released data, or careful independent assessment. The description should make
+the verification method and the role of human review clear.
+
+We usually decline company announcements without supporting technical material,
+live leaderboards, current model rankings, and posts whose value depends on
+recent news.
+
 ## Self-authored resources and AI assistance
 
 You may nominate your own work. State your relationship to it. Self-authored
