@@ -150,3 +150,7 @@ fits another list better.
 
 Maintainers may edit descriptions, choose a different section, ask for more
 evidence, or close incomplete nominations.
+
+After a nomination is declined, add substantial new evidence to the existing
+issue instead of opening another nomination. Repeated nominations without
+substantial changes may be closed as duplicates.
