@@ -616,6 +616,7 @@ This section covers AI-assisted theorem proving, formalization, and mathematical
 
 * [MacTutor History of Mathematics Archive](https://mathshistory.st-andrews.ac.uk/) - University of St Andrews archive of mathematician biographies, histories of mathematical topics, timelines, institutions, and related reference material.
 * [NRICH](https://nrich.maths.org/) - Free curriculum-linked problems, investigations, articles, and teacher guidance from the University of Cambridge for learners aged 3 to 18.
+* [ChartGlade](https://chartglade.com/) - Free printable K-5 math charts — multiplication tables, place value charts, hundred charts, number lines and graph paper, no sign-up, prints on letter-size pages.
 
 ## Community and Further Reading
 
