@@ -592,6 +592,7 @@ This section covers AI-assisted theorem proving, formalization, and mathematical
 * [AI for Mathematics and Theoretical Computer Science](https://simons.berkeley.edu/workshops/simons-institute-theory-computing-slmath-joint-workshop-ai-mathematics-theoretical) - Simons Institute and SLMath workshop archive with recorded talks on proof assistants, automated reasoning, machine learning, and mathematical discovery.
 * [Mathematics and AI](https://sites.math.washington.edu/~jarod/math583E-fall25.html) - University of Washington Fall 2025 graduate course with public slides, Lean examples, projects, and readings on machine learning, formalization, autoformalization, mathematical discovery, and ethics.
 * [AI-Assisted Mathematical Discovery](https://github.com/Nebius-Academy/ai-in-math-course) - Open thirteen-week course with notes, notebooks, exercises, and case studies on coding agents, machine learning, language models, reinforcement learning, and experimental mathematical research.
+* [aiXiv.online](https://aixiv.online/) - Searchable archive of AI-assisted mathematics papers, with source links, AI-use declarations, and verification notes.
 
 ### Mathematical Software and Tools
 
