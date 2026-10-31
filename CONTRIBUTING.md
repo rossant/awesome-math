@@ -57,6 +57,13 @@ We usually decline:
 - new projects with little evidence of quality or use;
 - bulk lists that have not received careful human review.
 
+We usually decline individual original research papers and project repositories
+whose primary purpose is to present new mathematical results. These are better
+suited to subject-specific literature searches, preprint archives, and specialist
+journals. Surveys, expository articles, reference collections, and reusable
+research software may qualify when they offer substantial value beyond
+presenting the authors' own results.
+
 Past entries do not set a minimum standard for future entries. The list may
 contain older resources that no longer meet the current policy. Maintainers will
 review those entries over time.
@@ -80,10 +87,12 @@ stewardship. A completed workshop should provide recordings, notes,
 proceedings, code, data, or another substantial record. Pages whose main use is
 registration or a current schedule are usually too temporary.
 
-An individual post or case study needs a high bar. Claims about mathematical
-discovery or proof should link to a paper, formal proof, reproducible code,
-released data, or careful independent assessment. The description should make
-the verification method and the role of human review clear.
+An individual expository post or case study needs a high bar. Claims about
+mathematical discovery or proof should link to a paper, formal proof,
+reproducible code, released data, or careful independent assessment. The
+description should make the verification method and the role of human review
+clear. Supporting evidence does not by itself make an original research
+contribution eligible for inclusion; the resource must also fit the scope above.
 
 We usually decline company announcements without supporting technical material,
 live leaderboards, current model rankings, and posts whose value depends on
