@@ -123,7 +123,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
   * [To The Point Math](https://www.youtube.com/playlist?list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN) - Short reviews of common algebra and calculus topics.
 * [MIT OpenCourseWare](https://www.youtube.com/@mitocw) - MIT course recordings and video lectures, including full mathematics courses.
 * [Mathologer](https://www.youtube.com/@Mathologer) - Visual videos on recreational mathematics and selected advanced topics.
-* [The Math District](https://themathdistrict.com/) - Free guides and videos covering prealgebra, algebra, geometry, trigonometry, statistics, calculus, and technical mathematics.
+* [The Math District](https://www.youtube.com/@TheMathDistrict) - Worked-example videos on prealgebra, algebra, trigonometry, and geometry.
 
 ### Questions and Answers
 
@@ -149,7 +149,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf) - Community-authored collection of open mathematics textbooks and instructional books.
 * [Online Mathematics Textbooks](https://cain.math.gatech.edu/textbooks/onlinebooks.html) - Index of freely available mathematics textbooks maintained at Georgia Tech.
 * [Trigonometry](https://www.mecmath.net/trig/index.html) - Michael Corral.
-* [The Math Behind Artificial Intelligence](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) - Tiago Capelo Monteiro (freeCodeCamp).
 
 ### Broad Course Notes
 
@@ -269,7 +268,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Galois Theory](https://arxiv.org/pdf/2408.07499) - Tom Leinster (University of Edinburgh).
 * [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](https://people.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) - D. E. Knuth.
 * [Surreal Numbers and Games](https://web.mit.edu/sp.268/www/2010/surreal.pdf) - Introductory notes on Conway's surreal numbers and their connection with combinatorial game theory.
-* [Conway names, the simplicity hierarchy and the surreal number tree](https://doi.org/10.4115/jla.v3i0.88) - Philip Ehrlich.
 
 ### Commutative Algebra
 
@@ -602,7 +600,6 @@ This section covers AI-assisted theorem proving, formalization, and mathematical
 * [Maxima](https://maxima.sourceforge.io/) - Free computer algebra system for symbolic and numerical calculations, plotting, and scripting.
 * [SymPy](https://www.sympy.org/) - Python library for symbolic algebra, calculus, equation solving, matrices, and code generation.
 * [SageMath](https://www.sagemath.org/) - Free mathematics software combining computer algebra, numerical computation, geometry, statistics, and visualization through Python.
-* [MathFlow](https://github.com/Nonanti/MathFlow) - C# math expression library with symbolic computation (differentiation, simplification, equation solving).
 * [GeoGebra](https://www.geogebra.org/?lang=en) - Interactive mathematics suite for geometry, graphing, algebra, spreadsheets, statistics, and calculus.
 * [Macaulay2](https://macaulay2.com/) - Research system for algebraic geometry and commutative algebra with specialized computational packages.
 * [Singular](https://www.singular.uni-kl.de/) - Computer algebra system for polynomial computations in commutative algebra, algebraic geometry, and singularity theory.
