@@ -3,6 +3,44 @@
 Read CONTRIBUTING.md before reviewing nominations or existing entries. It is the
 selection policy; this file guides investigation and communication.
 
+## Required review order: editorial assessment first
+
+For every resource nomination, addition PR, or existing-entry review, complete
+an editorial assessment before substantial technical investigation.
+
+1. Read CONTRIBUTING.md and the full issue or PR discussion. Identify exactly
+   what is being nominated and which earlier questions have already been answered.
+
+2. Find comparable accepted and declined nominations, including recent decisions.
+   Read the actual maintainer comments. Explain the relevant similarities and
+   differences; do not select only precedents supporting a preferred outcome.
+
+3. Inspect representative resource content and assess its audience, mathematical
+   depth, explanatory or technical usefulness, distinct value, durability,
+   ownership, access, and evidence of quality or use. Distinguish the value of
+   the nominated resource from claims about its underlying product or results.
+
+4. State a provisional editorial recommendation and its decisive reason.
+   Identify any unresolved factual question that could change that recommendation.
+   If the resource clearly fails on scope or editorial value, stop investigating
+   and recommend declining it.
+
+5. Undertake technical checks only when they could resolve a decision-relevant
+   uncertainty, or when the user explicitly requests them. Choose proportionate
+   checks. Successful compilation, reproduction, or benchmark evaluation does
+   not by itself establish suitability for this list.
+
+6. Report the final editorial recommendation first, followed by supporting
+   evidence, relevant precedents, and investigation limits. If the recommendation
+   changed, identify the new evidence or corrected reasoning that changed it.
+
+Low popularity, youth, language, or lack of institutional adoption is not an
+automatic rejection. Conversely, technical sophistication and extensive artifacts
+do not automatically establish substantial value to readers.
+
+When a contributor answers a technical follow-up, reassess the whole nomination.
+Answering that question is not an implied promise of acceptance.
+
 ## Assessing resources
 
 - Compare proposals with recent decisions on similar resources. Read the actual
